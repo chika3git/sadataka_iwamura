@@ -1,0 +1,38 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+.venv/
+venv/
+.env
+.env.*
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage/
+dist/
+build/
+.cache/
+
+# Node/JS
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Editors
+.vscode/
+.idea/
+
+# Project outputs
+0_task/
+5_output/derived/
+5_output/logs/
+5_output/archive/
