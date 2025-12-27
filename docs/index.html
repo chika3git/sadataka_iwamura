@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>岩村定高 デジタルアーカイブ</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;600;800&display=swap');
+        body {
+            font-family: 'Shippori Mincho', 'Yu Mincho', serif;
+            background-color: #fdfcf8; /* 生成り色 */
+            color: #333;
+        }
+        .hero-bg {
+            background-color: #1e293b; /* 濃紺 */
+            color: white;
+            padding: 80px 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <header class="p-5 border-b border-gray-200 flex justify-between items-center bg-white sticky top-0 z-50">
+        <h1 class="text-xl font-bold tracking-widest text-slate-800">岩村定高 デジタルアーカイブ</h1>
+        <nav class="hidden md:block text-sm text-slate-600">
+            <a href="#" class="mx-3 hover:text-slate-900">概要</a>
+            <a href="#" class="mx-3 hover:text-slate-900">年譜</a>
+            <a href="#documents" class="mx-3 hover:text-slate-900">資料(DB)</a>
+        </nav>
+    </header>
+
+    <section class="hero-bg">
+        <p class="text-sm tracking-[0.3em] mb-4 text-slate-300">初代三重県令・佐賀の賢人</p>
+        <h2 class="text-4xl md:text-5xl font-extrabold mb-6 tracking-wide">岩村 定高</h2>
+        <p class="text-lg md:text-xl font-light opacity-90 max-w-2xl mx-auto leading-loose">
+            佐賀に生まれ、激動の明治維新を駆け抜け、<br>
+            三重の礎を築いた官僚。<br>
+            その生涯と残された記録を紐解く。
+        </p>
+    </section>
+
+    <section class="max-w-5xl mx-auto py-16 px-6">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+            <figure class="shadow-lg rounded-sm overflow-hidden bg-slate-100">
+                <img
+                    src="./assets/iwamura_sadataka.jpg"
+                    alt="岩村定高 肖像"
+                    class="w-full h-80 object-cover object-center"
+                    loading="lazy"
+                >
+                <figcaption class="text-xs text-slate-600 px-3 py-2 border-t border-slate-200">
+                    肖像（出典・権利者: 要確認）
+                </figcaption>
+            </figure>
+            <div>
+                <h3 class="text-2xl font-bold mb-6 text-slate-800 border-l-4 border-slate-800 pl-4">近代化への情熱</h3>
+                <p class="leading-8 text-slate-700 mb-4">
+                    天保6年（1835年）、肥前国佐賀に生まれる。佐賀藩士として義祭同盟に参加し、明治維新後は新政府に出仕。
+                </p>
+                <p class="leading-8 text-slate-700">
+                    北海道開拓判官などを経て、明治9年（1876年）に<strong>初代三重県令</strong>に就任。伊勢暴動の鎮圧や地租改正、産業の近代化に手腕を振るい、今日の三重県の基礎を作り上げた。
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-slate-100 py-16 px-6">
+        <div class="max-w-5xl mx-auto">
+            <h3 class="text-center text-2xl font-bold mb-10 text-slate-800">主な活動領域</h3>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <div class="bg-white p-6 shadow-sm border-t-4 border-slate-800">
+                    <h4 class="font-bold text-lg mb-2">佐賀・維新期</h4>
+                    <p class="text-sm text-slate-600 leading-relaxed">佐賀藩士として尊王攘夷運動に奔走。大隈重信らと共に新しい時代の扉を開いた。</p>
+                </div>
+                <div class="bg-white p-6 shadow-sm border-t-4 border-indigo-900">
+                    <h4 class="font-bold text-lg mb-2">三重県令時代</h4>
+                    <p class="text-sm text-slate-600 leading-relaxed">県政の統合・安定化に尽力。道路整備や製糸業など産業振興を推進した。</p>
+                </div>
+                <div class="bg-white p-6 shadow-sm border-t-4 border-slate-600">
+                    <h4 class="font-bold text-lg mb-2">中央官僚時代</h4>
+                    <p class="text-sm text-slate-600 leading-relaxed">貴族院議員、農商務省の要職を歴任し、晩年まで国政に寄与し続けた。</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="max-w-6xl mx-auto py-16 px-6" id="documents">
+        <h3 class="text-2xl font-bold mb-2 text-slate-800">所蔵資料データベース</h3>
+        <p class="mb-8 text-slate-600 text-sm">Notionにて管理されている一次資料のアーカイブです。</p>
+        
+        <div class="bg-white border border-gray-200 p-4 rounded shadow-sm">
+            <div class="flex items-center justify-between gap-4 mb-3">
+                <div class="text-sm text-slate-600">公開Notionを埋め込み表示</div>
+                <a
+                    class="text-sm text-indigo-800 hover:underline"
+                    href="https://believed-blanket-8e3.notion.site/2d694beddd7f8047bc4bffdb88ea68ff?v=2d694beddd7f806ebe74000c03309450"
+                    target="_blank"
+                    rel="noreferrer"
+                >Notionで開く</a>
+            </div>
+
+            <iframe
+                title="Notion 資料データベース"
+                src="https://believed-blanket-8e3.notion.site/2d694beddd7f8047bc4bffdb88ea68ff?v=2d694beddd7f806ebe74000c03309450"
+                class="w-full h-[900px] rounded"
+                loading="lazy"
+            ></iframe>
+        </div>
+    </section>
+
+    <footer class="bg-slate-800 text-white text-center py-8 text-sm">
+        <p class="opacity-70">&copy; 2024 Iwamura Sadataka Digital Archives. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>

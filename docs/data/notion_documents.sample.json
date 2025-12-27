@@ -1,0 +1,44 @@
+{
+  "generated_at": "2025-12-27T00:00:00Z",
+  "notion_version": "2022-06-28",
+  "database_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "count": 2,
+  "documents": [
+    {
+      "id": "aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee",
+      "url": "https://www.notion.so/...",
+      "title": "県令辞令書",
+      "category": "公文書",
+      "description": "三重県令任命に関する辞令（写し）。",
+      "date": { "start": "1875-12-09", "end": null, "time_zone": null },
+      "image_url": null,
+      "source_url": "https://example.com/source",
+      "properties": {
+        "名前": "県令辞令書",
+        "カテゴリ": "公文書",
+        "説明": "三重県令任命に関する辞令（写し）。",
+        "日付": { "start": "1875-12-09", "end": null, "time_zone": null },
+        "画像": [],
+        "出典URL": "https://example.com/source"
+      },
+      "last_edited_time": "2025-12-27T00:00:00.000Z"
+    },
+    {
+      "id": "ffffffff-1111-2222-3333-444444444444",
+      "url": "https://www.notion.so/...",
+      "title": "大隈重信 書簡",
+      "category": "書簡",
+      "description": "明治12年頃の書簡（要確認）。",
+      "date": null,
+      "image_url": null,
+      "source_url": null,
+      "properties": {
+        "名前": "大隈重信 書簡",
+        "カテゴリ": "書簡",
+        "説明": "明治12年頃の書簡（要確認）。"
+      },
+      "last_edited_time": "2025-12-27T00:00:00.000Z"
+    }
+  ]
+}
+
