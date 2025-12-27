@@ -1,7 +1,7 @@
 # Googleスプレッドシート 抽出 A
 - URL: https://docs.google.com/spreadsheets/d/1tzOkkGQWcBhsDi4oCgj4p5RIB-bA54mrNRa6b9b_FTg/edit?gid=1052620263
 - 取得: CSV
-- ファイル: projects/20personal/4_travel/2_inprogress/1109-IWM_sadatakahp/1_research/raw/sheetA_1052620263.csv
+- ファイル: projects/20personal/4_travel/2_inprogress/1109-IWM_sadatakahp/2_input/raw/sheetA_1052620263.csv
 - ヘッダー: ,,,倭国王,記紀,中国史書,,,,,,,,,,,,,,,,,,,,,
 - 行数(ヘッダー含む): 531
 

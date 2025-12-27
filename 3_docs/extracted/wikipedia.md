@@ -1,7 +1,7 @@
 # Wikipedia 抽出（岩村定高）
 
 - 出典: https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%9D%91%E5%AE%9A%E9%AB%98
-- スナップショット: 1_research/raw/wikipedia_ja.html / wikipedia_ja_m.html
+- スナップショット: 2_input/raw/wikipedia_ja.html / wikipedia_ja_m.html
 
 ## 同一人物同定のヒント（フィールド/地域/年代）
 - 分野: 明治期の官僚・政治家（県令、元老院、貴族院）

@@ -1,7 +1,7 @@
 # Googleスプレッドシート 抽出 B
 - URL: https://docs.google.com/spreadsheets/d/1tzOkkGQWcBhsDi4oCgj4p5RIB-bA54mrNRa6b9b_FTg/edit?gid=314503564
 - 取得: CSV
-- ファイル: projects/20personal/4_travel/2_inprogress/1109-IWM_sadatakahp/1_research/raw/sheetB_314503564.csv
+- ファイル: projects/20personal/4_travel/2_inprogress/1109-IWM_sadatakahp/2_input/raw/sheetB_314503564.csv
 - ヘッダー: ,,,,,,,,出典,,,,,,
 - 行数(ヘッダー含む): 137
 

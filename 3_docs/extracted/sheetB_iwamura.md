@@ -1,5 +1,5 @@
 # シートB（gid=314503564）— 岩村関連 抜粋
-- 元CSV: projects/20personal/4_travel/2_inprogress/1109-IWM_sadatakahp/1_research/raw/sheetB_314503564.csv
+- 元CSV: projects/20personal/4_travel/2_inprogress/1109-IWM_sadatakahp/2_input/raw/sheetB_314503564.csv
 
 ## マッチ行（原文そのまま）
 - 行48: ,岩村貞昭内蔵助,初代,,,62才,元和4年戊午～延寶7年巳未4月8日卒,泰長院　下山一放居士,忠直公に近侍す、忠直公ご逝去に付き光茂公に近侍す(明暦丁酉三年)勝茂公ご逝去後網茂公に近侍す。御三代・御加恩につき禄五百石を賜う,,,,,,
