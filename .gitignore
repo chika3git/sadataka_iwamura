@@ -36,3 +36,9 @@ yarn-error.log*
 5_output/derived/
 5_output/logs/
 5_output/archive/
+1_config/
+2_input/
+3_docs
+4_code/
+5_output
+temp/

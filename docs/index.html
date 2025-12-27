@@ -26,7 +26,7 @@
         <h1 class="text-xl font-bold tracking-widest text-slate-800">岩村定高 デジタルアーカイブ</h1>
         <nav class="hidden md:block text-sm text-slate-600">
             <a href="#" class="mx-3 hover:text-slate-900">概要</a>
-            <a href="#" class="mx-3 hover:text-slate-900">年譜</a>
+            <a href="#timeline" class="mx-3 hover:text-slate-900">年譜</a>
             <a href="#documents" class="mx-3 hover:text-slate-900">資料(DB)</a>
         </nav>
     </header>
@@ -51,7 +51,7 @@
                     loading="lazy"
                 >
                 <figcaption class="text-xs text-slate-600 px-3 py-2 border-t border-slate-200">
-                    肖像（出典・権利者: 要確認）
+                    肖像
                 </figcaption>
             </figure>
             <div>
@@ -86,27 +86,138 @@
         </div>
     </section>
 
+    <section class="max-w-5xl mx-auto py-16 px-6" id="timeline">
+        <div class="flex items-end justify-between gap-4">
+            <h3 class="text-2xl font-bold mb-2 text-slate-800">年譜</h3>
+            <a href="./timeline.html" class="text-sm text-indigo-800 hover:underline">詳細年譜を見る</a>
+        </div>
+        <p class="mb-10 text-slate-600 text-sm">公開用の要約年表（下書き）。日付・役職は要出典のため、確定次第更新します。</p>
+
+        <ol class="relative border-l border-slate-200 pl-6 space-y-8">
+            <li class="relative">
+                <span class="absolute -left-8 top-1.5 h-4 w-4 rounded-full bg-slate-800"></span>
+                <div class="text-xs text-slate-500 mb-1">1828年（文政11年）</div>
+                <div class="font-bold text-slate-800">誕生（佐賀）</div>
+                <div class="text-sm text-slate-600 leading-relaxed">11月12日松原神社前で生まれる。</div>
+            </li>
+
+            <li class="relative">
+                <span class="absolute -left-8 top-1.5 h-4 w-4 rounded-full bg-indigo-900"></span>
+                <div class="text-xs text-slate-500 mb-1">1871年（明治4年）</div>
+                <div class="font-bold text-slate-800">山形参事・北海道開拓関与</div>
+                <div class="text-sm text-slate-600 leading-relaxed">山形参事／山形県大参事などを経る。</div>
+            </li>
+
+            <li class="relative">
+                <span class="absolute -left-8 top-1.5 h-4 w-4 rounded-full bg-slate-600"></span>
+                <div class="text-xs text-slate-500 mb-1">1872–1875年（明治5–8年）</div>
+                <div class="font-bold text-slate-800">三重県で地方行政を担う</div>
+                <div class="text-sm text-slate-600 leading-relaxed">三重県参事、のち三重縣権令・三重縣令。</div>
+            </li>
+
+            <li class="relative">
+                <span class="absolute -left-8 top-1.5 h-4 w-4 rounded-full bg-slate-800"></span>
+                <div class="text-xs text-slate-500 mb-1">1884年（明治17年）</div>
+                <div class="font-bold text-slate-800">元老院議官</div>
+                <div class="text-sm text-slate-600 leading-relaxed">中央での役職を担う。</div>
+            </li>
+
+            <li class="relative">
+                <span class="absolute -left-8 top-1.5 h-4 w-4 rounded-full bg-indigo-900"></span>
+                <div class="text-xs text-slate-500 mb-1">1891年（明治24年）</div>
+                <div class="font-bold text-slate-800">貴族院議員</div>
+                <div class="text-sm text-slate-600 leading-relaxed">晩年まで国政に関与。</div>
+            </li>
+
+            <li class="relative">
+                <span class="absolute -left-8 top-1.5 h-4 w-4 rounded-full bg-slate-600"></span>
+                <div class="text-xs text-slate-500 mb-1">1899年（明治32年）</div>
+                <div class="font-bold text-slate-800">逝去</div>
+                <div class="text-sm text-slate-600 leading-relaxed">1899年1月7日没（要出典の再確認）。</div>
+            </li>
+        </ol>
+    </section>
+
     <section class="max-w-6xl mx-auto py-16 px-6" id="documents">
         <h3 class="text-2xl font-bold mb-2 text-slate-800">所蔵資料データベース</h3>
-        <p class="mb-8 text-slate-600 text-sm">Notionにて管理されている一次資料のアーカイブです。</p>
+        <p class="mb-8 text-slate-600 text-sm">一次資料の一覧（準備中）。公開用のサムネイルはダミーです。</p>
         
         <div class="bg-white border border-gray-200 p-4 rounded shadow-sm">
-            <div class="flex items-center justify-between gap-4 mb-3">
-                <div class="text-sm text-slate-600">公開Notionを埋め込み表示</div>
-                <a
-                    class="text-sm text-indigo-800 hover:underline"
-                    href="https://believed-blanket-8e3.notion.site/2d694beddd7f8047bc4bffdb88ea68ff?v=2d694beddd7f806ebe74000c03309450"
-                    target="_blank"
-                    rel="noreferrer"
-                >Notionで開く</a>
+            <div class="flex flex-wrap gap-4 mb-6 border-b pb-2 text-sm text-slate-500">
+                <span class="text-slate-900 font-bold border-b-2 border-slate-900 pb-2">すべて</span>
+                <span>書簡</span>
+                <span>公文書</span>
+                <span>写真</span>
+                <span>日記</span>
             </div>
 
-            <iframe
-                title="Notion 資料データベース"
-                src="https://believed-blanket-8e3.notion.site/2d694beddd7f8047bc4bffdb88ea68ff?v=2d694beddd7f806ebe74000c03309450"
-                class="w-full h-[900px] rounded"
-                loading="lazy"
-            ></iframe>
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+                <div class="border rounded hover:shadow-md transition overflow-hidden">
+                    <div class="h-32 bg-gray-100 flex items-center justify-center text-xs text-gray-400">[サムネイル]</div>
+                    <div class="p-3">
+                        <div class="text-xs text-indigo-800 font-bold mb-1">書簡</div>
+                        <h5 class="text-sm font-bold mb-1">（ダミー）書簡 001</h5>
+                        <p class="text-xs text-gray-500">明治XX年</p>
+                    </div>
+                </div>
+                <div class="border rounded hover:shadow-md transition overflow-hidden">
+                    <div class="h-32 bg-gray-100 flex items-center justify-center text-xs text-gray-400">[サムネイル]</div>
+                    <div class="p-3">
+                        <div class="text-xs text-indigo-800 font-bold mb-1">公文書</div>
+                        <h5 class="text-sm font-bold mb-1">（ダミー）辞令書 001</h5>
+                        <p class="text-xs text-gray-500">明治XX年</p>
+                    </div>
+                </div>
+                <div class="border rounded hover:shadow-md transition overflow-hidden">
+                    <div class="h-32 bg-gray-100 flex items-center justify-center text-xs text-gray-400">[サムネイル]</div>
+                    <div class="p-3">
+                        <div class="text-xs text-indigo-800 font-bold mb-1">写真</div>
+                        <h5 class="text-sm font-bold mb-1">（ダミー）写真 001</h5>
+                        <p class="text-xs text-gray-500">撮影年不詳</p>
+                    </div>
+                </div>
+                <div class="border rounded hover:shadow-md transition overflow-hidden">
+                    <div class="h-32 bg-gray-100 flex items-center justify-center text-xs text-gray-400">[サムネイル]</div>
+                    <div class="p-3">
+                        <div class="text-xs text-indigo-800 font-bold mb-1">日記</div>
+                        <h5 class="text-sm font-bold mb-1">（ダミー）日誌 001</h5>
+                        <p class="text-xs text-gray-500">明治XX年</p>
+                    </div>
+                </div>
+
+                <div class="border rounded hover:shadow-md transition overflow-hidden">
+                    <div class="h-32 bg-gray-100 flex items-center justify-center text-xs text-gray-400">[サムネイル]</div>
+                    <div class="p-3">
+                        <div class="text-xs text-indigo-800 font-bold mb-1">書簡</div>
+                        <h5 class="text-sm font-bold mb-1">（ダミー）書簡 002</h5>
+                        <p class="text-xs text-gray-500">明治XX年</p>
+                    </div>
+                </div>
+                <div class="border rounded hover:shadow-md transition overflow-hidden">
+                    <div class="h-32 bg-gray-100 flex items-center justify-center text-xs text-gray-400">[サムネイル]</div>
+                    <div class="p-3">
+                        <div class="text-xs text-indigo-800 font-bold mb-1">公文書</div>
+                        <h5 class="text-sm font-bold mb-1">（ダミー）公文書 002</h5>
+                        <p class="text-xs text-gray-500">明治XX年</p>
+                    </div>
+                </div>
+                <div class="border rounded hover:shadow-md transition overflow-hidden">
+                    <div class="h-32 bg-gray-100 flex items-center justify-center text-xs text-gray-400">[サムネイル]</div>
+                    <div class="p-3">
+                        <div class="text-xs text-indigo-800 font-bold mb-1">写真</div>
+                        <h5 class="text-sm font-bold mb-1">（ダミー）写真 002</h5>
+                        <p class="text-xs text-gray-500">撮影年不詳</p>
+                    </div>
+                </div>
+                <div class="border rounded hover:shadow-md transition overflow-hidden">
+                    <div class="h-32 bg-gray-100 flex items-center justify-center text-xs text-gray-400">[サムネイル]</div>
+                    <div class="p-3">
+                        <div class="text-xs text-indigo-800 font-bold mb-1">日記</div>
+                        <h5 class="text-sm font-bold mb-1">（ダミー）日誌 002</h5>
+                        <p class="text-xs text-gray-500">明治XX年</p>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 

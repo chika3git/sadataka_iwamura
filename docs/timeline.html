@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>岩村定高 年譜（詳細）</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;600;800&display=swap');
+        body {
+            font-family: 'Shippori Mincho', 'Yu Mincho', serif;
+            background-color: #fdfcf8;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <header class="p-5 border-b border-gray-200 flex justify-between items-center bg-white sticky top-0 z-50">
+        <div class="flex items-center gap-4">
+            <a href="./index.html#timeline" class="text-sm text-slate-600 hover:text-slate-900">← 戻る</a>
+            <h1 class="text-xl font-bold tracking-widest text-slate-800">年譜（詳細）</h1>
+        </div>
+        <nav class="hidden md:block text-sm text-slate-600">
+            <a href="./index.html#timeline" class="mx-3 hover:text-slate-900">要約年表</a>
+            <a href="./index.html#documents" class="mx-3 hover:text-slate-900">資料(DB)</a>
+        </nav>
+    </header>
+
+    <main class="max-w-5xl mx-auto py-12 px-6">
+        <div class="mb-8">
+            <h2 class="text-2xl md:text-3xl font-extrabold tracking-wide text-slate-800 mb-3">岩村定高 年譜（初版・細目・出典併記）</h2>
+            <p class="text-sm text-slate-600 leading-relaxed">
+                備考: 出典の原文を優先し、年号・干支表記の混在や日付の齟齬はそのまま記載しています（要整合）。
+                <br>
+                公開用の確定版にする前に、一次資料での裏取りを行います。
+            </p>
+        </div>
+
+        <div class="bg-white border border-gray-200 rounded shadow-sm p-4 md:p-6">
+            <div class="flex flex-col md:flex-row md:items-center gap-3 md:gap-6 mb-6">
+                <label class="text-sm text-slate-700">
+                    キーワード検索
+                    <input id="q" type="text" class="mt-2 w-full md:w-[420px] border border-slate-300 rounded px-3 py-2 text-sm" placeholder="例: 三重縣令 / 1875 / 松原神社 / 寄付">
+                </label>
+                <div class="text-xs text-slate-500" id="meta"></div>
+            </div>
+
+            <ol class="relative border-l border-slate-200 pl-6 space-y-6" id="list"></ol>
+        </div>
+    </main>
+
+    <script>
+        const RAW_ENTRIES = [
+            "1828年（文政11年11月12日 旧暦）（没年: 1899年1月7日）生没（出典: Wikipedia / 2_input/raw/wikipedia_ja_m.html）",
+            "文政9年5月22日 生誕候補（松原神社前で生まれる）（出典: シートB 行74）",
+            "文政9年7月21日 生誕候補（出典: シートB 行74）",
+            "文政11年11月12日 生誕候補（伊勢の戸籍）（出典: シートB 行74）",
+            "庚午9月（1870年） 開拓権判官兼民部権大丞 右 宣下（出典: シートB 行93）",
+            "辛未2月（1871年・明治4年） 太政官 御用有之 至急山形縣出張（出典: シートB 行82）",
+            "辛未8月3日（1871年・明治4年） 太政官 任 山形参事（北海道開拓）（出典: シートB 行87）",
+            "辛未8月3日（1871年・明治4年） 太政官 北海道開拓 開拓権判官 免本官（出典: シートB 行88）",
+            "辛未8月12日（1871年・明治4年） 太政官 任 山形県大参事（出典: シートB 行89）",
+            "辛未11月2日（1871年・明治4年） 太政官 任 山形縣参事・叙 正六位（出典: シートB 行90, 行92）",
+            "（年次不詳・8月） 函館出張 外務省御用兼（出典: シートB 行91）",
+            "壬申9月18日（1872年・明治5年） 任 三重県参事（出典: シートB 行94）",
+            "明治6年11月2日（1873年） 三重縣権令（出典: シートB 行98）",
+            "明治6年8月 四日市から津へ県庁を再移転（県参事 岩村定高の時）（出典: ほとけやブログ）",
+            "明治8年12月9日（1875年） 任 三重縣令（出典: シートB 行99）",
+            "明治10年4月30日（1877年） 太政官 学校資として金拾円寄付（出典: シートB 行97）",
+            "明治13年5月5日（1880年） 太政官 コレラ流行の予防費用として金50円寄付（出典: シートB 行100）",
+            "明治13年5月5日（1880年） 太政官 次女久土儀 三重縣下学校資として金25円寄付（出典: シートB 行101）",
+            "明治14年8月6日（1881年） 太政官 地租改正（施策関与を示す文脈。要裏取り）（出典: シートB 行102）",
+            "明治14年12月17日（1881年） 太政官 三重縣下安濃郡藤枝町の火災罹災者へ金弐拾円寄付（出典: シートB 行103）",
+            "明治15年4月21日（1882年） 太政官 三女清袈裟儀 三重縣下学校新築費として金弐拾五円寄付（出典: シートB 行105）",
+            "明治15年12月1日（1882年） 太政官 任 三重縣令（再任か役職整理か、要整合）（出典: シートB 行104）",
+            "明治17年7月10日（1884年） 任 元老院議官（出典: シートB 行107）",
+            "明治24年4月15日（1891年） 任 貴族院議員（出典: シートB 行111）",
+            "錦鶏間祗候（任官時期不詳。Wikipediaカテゴリに拠る。要裏取り）（出典: Wikipedia）",
+            "叙勲: 勲二等瑞宝章／勲三等旭日中綬章（時期不詳。Wikipediaカテゴリに拠る。要裏取り）（出典: Wikipedia）",
+            "1899年（明治32年）1月7日 没（出典: Wikipedia）"
+        ];
+
+        const q = document.getElementById("q");
+        const list = document.getElementById("list");
+        const meta = document.getElementById("meta");
+
+        function escapeHtml(s) {
+            return String(s ?? "")
+                .replaceAll("&", "&amp;")
+                .replaceAll("<", "&lt;")
+                .replaceAll(">", "&gt;")
+                .replaceAll("\"", "&quot;")
+                .replaceAll("'", "&#039;");
+        }
+
+        function extractLabel(raw) {
+            const m = raw.match(/^(.{1,24}?)(\\s|（)/);
+            return m ? m[1] : raw.slice(0, 24);
+        }
+
+        function render() {
+            const keyword = (q.value || "").trim().toLowerCase();
+            const filtered = RAW_ENTRIES.filter(raw => {
+                if (!keyword) return true;
+                return raw.toLowerCase().includes(keyword);
+            });
+
+            meta.textContent = `表示: ${filtered.length} / ${RAW_ENTRIES.length}`;
+
+            list.innerHTML = filtered.map((raw) => {
+                const label = extractLabel(raw);
+                return `
+                    <li class="relative">
+                        <span class="absolute -left-8 top-1.5 h-4 w-4 rounded-full bg-slate-800"></span>
+                        <div class="text-xs text-slate-500 mb-1">${escapeHtml(label)}</div>
+                        <div class="text-sm text-slate-700 leading-relaxed">${escapeHtml(raw)}</div>
+                    </li>
+                `;
+            }).join("");
+        }
+
+        q.addEventListener("input", render);
+        render();
+    </script>
+
+</body>
+</html>
+
