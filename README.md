@@ -14,7 +14,7 @@
 - 例: `python 4_code/P1_prepare.py --config 1_config/settings.yaml`
 
 ## Notion（資料DB）同期 → Web表示
-`5_output/web/index.html` は静的HTMLなので、ブラウザから直接Notion APIを叩くのは（トークン露出のため）避け、同期時に `notion_documents.json` を生成して読み込む方式にしています。
+`docs/` は静的HTMLなので、ブラウザから直接Notion APIを叩くのは（トークン露出のため）避け、同期時に `docs/data/documents.json` を生成して読み込む方式にしています。
 
 1) Notion側
 - NotionでIntegrationを作成し、資料DB（データベース）をそのIntegrationに共有する
@@ -28,11 +28,23 @@
   - `python 4_code/notion_sync.py`
 
 4) Web側
-- `5_output/web/index.html` は `5_output/web/data/notion_documents.json` があればそれを、なければ `notion_documents.sample.json` を読み込みます。
-- ローカルプレビュー例: `cd 5_output/web && python3 -m http.server 8000` → `http://localhost:8000`
+- `docs/documents.html` は `docs/data/documents.json` があればそれを、なければ `docs/data/documents.sample.json` を読み込みます。
+- `docs/index.html` の「所蔵資料データベース」欄は、上記JSONから最大8件を表示します（クリックで詳細画面に遷移）。
+- ローカルプレビュー例: `cd docs && python3 -m http.server 8000` → `http://localhost:8000`
 
 注意:
 - Notionの「ファイル」プロパティのURLは期限付きです（長期公開したい画像は別ホスティング/リポジトリ管理にするか、同期時にダウンロードして差し替える設計が必要です）。
+
+## Spreadsheet（CSV）→ JSON
+Spreadsheet（Google Sheets等）からCSVをエクスポートし、`docs/data/documents.json` を生成できます。
+
+- 入力: `2_input/documents.csv`（ヘッダー行必須）
+- サンプル: `2_input/documents.sample.csv`
+- 出力: `docs/data/documents.json`
+- 実行例:
+  - `python 4_code/spreadsheet_to_documents.py`
+
+列名が違う場合は `--col-title` 等でマッピングできます（例: `--col-title "名前"`）。
 
 # ディレクトリ構造（2025-11 整理）
 - 0_task/                # タスク・やりたいこと・出典ポリシー

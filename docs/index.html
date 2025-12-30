@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>岩村定高 デジタルアーカイブ</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="./css/documents.css">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;600;800&display=swap');
         body {
@@ -27,7 +28,7 @@
         <nav class="hidden md:block text-sm text-slate-600">
             <a href="#" class="mx-3 hover:text-slate-900">概要</a>
             <a href="#timeline" class="mx-3 hover:text-slate-900">年譜</a>
-            <a href="#documents" class="mx-3 hover:text-slate-900">資料(DB)</a>
+            <a href="./documents.html" class="mx-3 hover:text-slate-900">資料(DB)</a>
         </nav>
     </header>
 
@@ -140,84 +141,16 @@
 
     <section class="max-w-6xl mx-auto py-16 px-6" id="documents">
         <h3 class="text-2xl font-bold mb-2 text-slate-800">所蔵資料データベース</h3>
-        <p class="mb-8 text-slate-600 text-sm">一次資料の一覧（準備中）。公開用のサムネイルはダミーです。</p>
+        <p class="mb-8 text-slate-600 text-sm">一次資料の一覧。クリックで詳細画面へ移動します。</p>
         
         <div class="bg-white border border-gray-200 p-4 rounded shadow-sm">
-            <div class="flex flex-wrap gap-4 mb-6 border-b pb-2 text-sm text-slate-500">
-                <span class="text-slate-900 font-bold border-b-2 border-slate-900 pb-2">すべて</span>
-                <span>書簡</span>
-                <span>公文書</span>
-                <span>写真</span>
-                <span>日記</span>
+            <div class="flex items-center justify-between gap-4 mb-4">
+                <div class="text-xs text-slate-500">最新データ（JSON）から最大8件を表示</div>
+                <a href="./documents.html" class="text-sm text-indigo-800 hover:underline">一覧・検索へ</a>
             </div>
 
-            <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-                <div class="border rounded hover:shadow-md transition overflow-hidden">
-                    <img src="./assets/materials/DSC_0724.JPG" alt="史料サンプル（手紙）" class="h-32 w-full object-cover bg-gray-100" loading="lazy">
-                    <div class="p-3">
-                        <div class="text-xs text-indigo-800 font-bold mb-1">書簡</div>
-                        <h5 class="text-sm font-bold mb-1">史料サンプル（書簡）</h5>
-                        <p class="text-xs text-gray-500">撮影: DSC_0724</p>
-                    </div>
-                </div>
-                <div class="border rounded hover:shadow-md transition overflow-hidden">
-                    <img src="./assets/materials/DSC_0772.JPG" alt="史料サンプル（印刷物）" class="h-32 w-full object-cover bg-gray-100" loading="lazy">
-                    <div class="p-3">
-                        <div class="text-xs text-indigo-800 font-bold mb-1">公文書</div>
-                        <h5 class="text-sm font-bold mb-1">史料サンプル（印刷物）</h5>
-                        <p class="text-xs text-gray-500">撮影: DSC_0772</p>
-                    </div>
-                </div>
-                <div class="border rounded hover:shadow-md transition overflow-hidden">
-                    <img src="./assets/materials/DSC_0652.JPG" alt="史料サンプル（墓所）" class="h-32 w-full object-cover bg-gray-100" loading="lazy">
-                    <div class="p-3">
-                        <div class="text-xs text-indigo-800 font-bold mb-1">写真</div>
-                        <h5 class="text-sm font-bold mb-1">写真サンプル（墓所）</h5>
-                        <p class="text-xs text-gray-500">撮影: DSC_0652</p>
-                    </div>
-                </div>
-                <div class="border rounded hover:shadow-md transition overflow-hidden">
-                    <img src="./assets/materials/DSC_0653.JPG" alt="写真サンプル（境内）" class="h-32 w-full object-cover bg-gray-100" loading="lazy">
-                    <div class="p-3">
-                        <div class="text-xs text-indigo-800 font-bold mb-1">日記</div>
-                        <h5 class="text-sm font-bold mb-1">写真サンプル（境内）</h5>
-                        <p class="text-xs text-gray-500">撮影: DSC_0653</p>
-                    </div>
-                </div>
-
-                <div class="border rounded hover:shadow-md transition overflow-hidden">
-                    <div class="h-32 bg-gray-100 flex items-center justify-center text-xs text-gray-400">[サムネイル]</div>
-                    <div class="p-3">
-                        <div class="text-xs text-indigo-800 font-bold mb-1">書簡</div>
-                        <h5 class="text-sm font-bold mb-1">（ダミー）書簡 002</h5>
-                        <p class="text-xs text-gray-500">明治XX年</p>
-                    </div>
-                </div>
-                <div class="border rounded hover:shadow-md transition overflow-hidden">
-                    <div class="h-32 bg-gray-100 flex items-center justify-center text-xs text-gray-400">[サムネイル]</div>
-                    <div class="p-3">
-                        <div class="text-xs text-indigo-800 font-bold mb-1">公文書</div>
-                        <h5 class="text-sm font-bold mb-1">（ダミー）公文書 002</h5>
-                        <p class="text-xs text-gray-500">明治XX年</p>
-                    </div>
-                </div>
-                <div class="border rounded hover:shadow-md transition overflow-hidden">
-                    <div class="h-32 bg-gray-100 flex items-center justify-center text-xs text-gray-400">[サムネイル]</div>
-                    <div class="p-3">
-                        <div class="text-xs text-indigo-800 font-bold mb-1">写真</div>
-                        <h5 class="text-sm font-bold mb-1">（ダミー）写真 002</h5>
-                        <p class="text-xs text-gray-500">撮影年不詳</p>
-                    </div>
-                </div>
-                <div class="border rounded hover:shadow-md transition overflow-hidden">
-                    <div class="h-32 bg-gray-100 flex items-center justify-center text-xs text-gray-400">[サムネイル]</div>
-                    <div class="p-3">
-                        <div class="text-xs text-indigo-800 font-bold mb-1">日記</div>
-                        <h5 class="text-sm font-bold mb-1">（ダミー）日誌 002</h5>
-                        <p class="text-xs text-gray-500">明治XX年</p>
-                    </div>
-                </div>
-            </div>
+            <div id="documents-grid" class="grid grid-cols-2 md:grid-cols-4 gap-4"></div>
+            <div id="documents-grid-empty" class="hidden text-sm text-slate-500 py-6">資料が見つかりませんでした。</div>
         </div>
     </section>
 
@@ -225,5 +158,6 @@
         <p class="opacity-70">&copy; 2024 Iwamura Sadataka Digital Archives. All Rights Reserved.</p>
     </footer>
 
+    <script type="module" src="./js/index_documents_section.js"></script>
 </body>
 </html>

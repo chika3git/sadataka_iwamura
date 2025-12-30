@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>資料(DB) | 岩村定高 デジタルアーカイブ</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="./css/documents.css" />
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;600;800&display=swap");
+      body {
+        font-family: "Shippori Mincho", "Yu Mincho", serif;
+        background-color: #fdfcf8;
+        color: #333;
+      }
+    </style>
+  </head>
+  <body>
+    <header class="p-5 border-b border-gray-200 flex justify-between items-center bg-white sticky top-0 z-50">
+      <h1 class="text-xl font-bold tracking-widest text-slate-800">
+        <a href="./index.html" class="hover:opacity-80">岩村定高 デジタルアーカイブ</a>
+      </h1>
+      <nav class="hidden md:block text-sm text-slate-600">
+        <a href="./index.html" class="mx-3 hover:text-slate-900">概要</a>
+        <a href="./timeline.html" class="mx-3 hover:text-slate-900">年譜</a>
+        <a href="./documents.html" class="mx-3 hover:text-slate-900">資料(DB)</a>
+      </nav>
+    </header>
+
+    <main class="max-w-6xl mx-auto py-10 px-6">
+      <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-3 mb-6">
+        <div>
+          <h2 class="text-2xl font-bold text-slate-800">所蔵資料データベース</h2>
+          <p class="text-sm text-slate-600 mt-1">タイトルで絞り込み検索し、クリックで詳細を確認できます。</p>
+        </div>
+        <div id="documents-meta" class="text-xs text-slate-500"></div>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <aside class="md:col-span-1">
+          <div class="bg-white border border-gray-200 rounded shadow-sm p-4 sticky top-24">
+            <label class="block text-xs text-slate-600 mb-2" for="q">タイトルで絞り込み</label>
+            <input
+              id="q"
+              type="search"
+              class="w-full border border-slate-300 rounded px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-slate-400"
+              placeholder="例: 書簡 / 辞令 / 写真"
+            />
+            <div class="flex items-center gap-2 mt-3">
+              <label class="text-xs text-slate-600" for="category">カテゴリ</label>
+              <select
+                id="category"
+                class="flex-1 border border-slate-300 rounded px-2 py-2 text-sm bg-white focus:outline-none focus:ring-2 focus:ring-slate-400"
+              >
+                <option value="">すべて</option>
+              </select>
+            </div>
+
+            <div class="text-xs text-slate-500 mt-3" id="result-count"></div>
+            <div class="mt-3 max-h-[70vh] overflow-auto pr-1" id="documents-list"></div>
+          </div>
+        </aside>
+
+        <section class="md:col-span-2">
+          <div class="bg-white border border-gray-200 rounded shadow-sm p-5 min-h-[70vh]" id="documents-detail">
+            <div class="text-sm text-slate-500">左の一覧から資料を選択してください。</div>
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <script type="module" src="./js/documents_page.js"></script>
+  </body>
+</html>

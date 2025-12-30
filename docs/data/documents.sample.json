@@ -1,0 +1,103 @@
+{
+  "generated_at": "2025-12-27T00:00:00Z",
+  "source": { "type": "sample" },
+  "count": 8,
+  "documents": [
+    {
+      "id": "sample-0001",
+      "url": null,
+      "title": "史料サンプル（書簡）",
+      "category": "書簡",
+      "description": "公開用のサンプル（書簡）。",
+      "date": { "start": "1876-01-01", "end": null, "time_zone": null },
+      "image_url": "./assets/materials/DSC_0724.JPG",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0002",
+      "url": null,
+      "title": "史料サンプル（印刷物）",
+      "category": "公文書",
+      "description": "公開用のサンプル（印刷物）。",
+      "date": { "start": "1876-01-02", "end": null, "time_zone": null },
+      "image_url": "./assets/materials/DSC_0772.JPG",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0003",
+      "url": null,
+      "title": "写真サンプル（墓所）",
+      "category": "写真",
+      "description": "公開用のサンプル（墓所）。",
+      "date": null,
+      "image_url": "./assets/materials/DSC_0652.JPG",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0004",
+      "url": null,
+      "title": "写真サンプル（境内）",
+      "category": "日記",
+      "description": "公開用のサンプル（境内）。",
+      "date": null,
+      "image_url": "./assets/materials/DSC_0653.JPG",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0005",
+      "url": null,
+      "title": "（ダミー）書簡 002",
+      "category": "書簡",
+      "description": null,
+      "date": null,
+      "image_url": null,
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0006",
+      "url": null,
+      "title": "（ダミー）公文書 002",
+      "category": "公文書",
+      "description": null,
+      "date": null,
+      "image_url": null,
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0007",
+      "url": null,
+      "title": "（ダミー）写真 002",
+      "category": "写真",
+      "description": null,
+      "date": null,
+      "image_url": null,
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0008",
+      "url": null,
+      "title": "（ダミー）日誌 002",
+      "category": "日記",
+      "description": null,
+      "date": null,
+      "image_url": null,
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    }
+  ]
+}
