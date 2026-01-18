@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-12T00:00:00Z",
+  "generated_at": "2026-01-18T00:00:00Z",
   "source": { "type": "sample" },
-  "count": 31,
+  "count": 46,
   "documents": [
     {
       "id": "sample-0001",
@@ -374,6 +374,186 @@
       "source_url": null,
       "properties": {},
       "last_edited_time": null
+    },
+    {
+      "id": "sample-0032",
+      "url": null,
+      "title": "不明文書（手紙）",
+      "category": "書簡",
+      "description": "内容不明の手紙のような文書。",
+      "date": null,
+      "image_url": "./assets/materials/unknown_letter.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-13"
+    },
+    {
+      "id": "sample-0033",
+      "url": null,
+      "title": "勲章被下（大礼服着用命令書）",
+      "category": "公文書",
+      "description": "7日に大礼服着用にて云々の命令書。明治18年4月6日。",
+      "date": { "start": "1885-04-06", "end": null, "time_zone": null },
+      "image_url": "./assets/materials/kunsho_taireifuku.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-13"
+    },
+    {
+      "id": "sample-0034",
+      "url": null,
+      "title": "第7回帝国議会招集の際 銀盃一組",
+      "category": "褒賞",
+      "description": "第7回帝国議会招集の際に銀盃一組授与。明治29年3月29日。",
+      "date": { "start": "1896-03-29", "end": null, "time_zone": null },
+      "image_url": "./assets/materials/teikoku_gikai_ginpai.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-13"
+    },
+    {
+      "id": "sample-0035",
+      "url": null,
+      "title": "寄付感謝状（佐賀県下暴風洪水・明治26年）",
+      "category": "感謝状",
+      "description": "明治26年10月佐賀県下暴風洪水への寄付。明治31年5月6日付。",
+      "date": { "start": "1898-05-06", "end": null, "time_zone": null },
+      "image_url": "./assets/materials/kifu_saga_bofu_m26.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-13"
+    },
+    {
+      "id": "sample-0036",
+      "url": null,
+      "title": "寄付感謝状（和歌山県下罹災者救助・明治22年）",
+      "category": "感謝状",
+      "description": "明治22年8月9月和歌山県下罹災者救助への寄付。明治24年10月27日、西園寺公望。",
+      "date": { "start": "1891-10-27", "end": null, "time_zone": null },
+      "image_url": "./assets/materials/kifu_wakayama_m22_2.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-13"
+    },
+    {
+      "id": "sample-0037",
+      "url": null,
+      "title": "寄付感謝状（愛知県下水害罹災者救助・明治22年）",
+      "category": "感謝状",
+      "description": "明治22年中愛知県下水害罹災者救助への寄付。元老院議官議長73名共同。",
+      "date": null,
+      "image_url": "./assets/materials/kifu_aichi_suigai_m22.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-13"
+    },
+    {
+      "id": "sample-0038",
+      "url": null,
+      "title": "寄付（明治30年軍用品納）",
+      "category": "感謝状",
+      "description": "明治27、8年軍用品納への寄付。明治30年。",
+      "date": { "start": "1897-01-01", "end": null, "time_zone": null },
+      "image_url": "./assets/materials/kifu_m30.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-14"
+    },
+    {
+      "id": "sample-0039",
+      "url": null,
+      "title": "寄付感謝状（佐賀県尋常中学校新築費・明治31年）",
+      "category": "感謝状",
+      "description": "佐賀県尋常中学校新築費への寄付、木杯下賜。明治31年5月11日。",
+      "date": { "start": "1898-05-11", "end": null, "time_zone": null },
+      "image_url": "./assets/materials/kifu_saga_chugakko_m31.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-14"
+    },
+    {
+      "id": "sample-0040",
+      "url": null,
+      "title": "賞状入り封筒（賞勤局より）",
+      "category": "公文書",
+      "description": "賞勤局からの賞状入り封筒。",
+      "date": null,
+      "image_url": "./assets/materials/shojo_futo.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-14"
+    },
+    {
+      "id": "sample-0041",
+      "url": null,
+      "title": "弔辞",
+      "category": "書簡",
+      "description": "明治32年1月9日付の弔辞。",
+      "date": { "start": "1899-01-09", "end": null, "time_zone": null },
+      "image_url": "./assets/materials/choji_m32.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-14"
+    },
+    {
+      "id": "sample-0042",
+      "url": null,
+      "title": "不明文書（地蔵院札・表）",
+      "category": "古文書",
+      "description": "古い文書、地蔵院の札と思われる。",
+      "date": null,
+      "image_url": "./assets/materials/jizoin_fuda.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-14"
+    },
+    {
+      "id": "sample-0043",
+      "url": null,
+      "title": "不明文書（地蔵院札・裏）",
+      "category": "古文書",
+      "description": "古い文書の裏面、お札のようだ。",
+      "date": null,
+      "image_url": "./assets/materials/jizoin_fuda_ura.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-14"
+    },
+    {
+      "id": "sample-0044",
+      "url": null,
+      "title": "宴会招待状（大坂）",
+      "category": "書簡",
+      "description": "11月18日午後2時30分、大坂での宴会への招待状。明治31年11月16日。",
+      "date": { "start": "1898-11-16", "end": null, "time_zone": null },
+      "image_url": "./assets/materials/shotaijo_enkai.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-15"
+    },
+    {
+      "id": "sample-0045",
+      "url": null,
+      "title": "新年宴会招待状",
+      "category": "書簡",
+      "description": "新年の宴会招待状。明治32年1月5日午前11時40分。明治32年2月26日付。",
+      "date": { "start": "1899-02-26", "end": null, "time_zone": null },
+      "image_url": "./assets/materials/shotaijo_shinnen_m32.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-17"
+    },
+    {
+      "id": "sample-0046",
+      "url": null,
+      "title": "招待状注意書き",
+      "category": "書簡",
+      "description": "招待状の注意書き。",
+      "date": null,
+      "image_url": "./assets/materials/shotaijo_chuigaki.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-17"
     }
   ]
 }
