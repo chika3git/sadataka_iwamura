@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-01-18T00:00:00Z",
   "source": { "type": "sample" },
-  "count": 63,
+  "count": 65,
   "documents": [
     {
       "id": "sample-0001",
@@ -758,6 +758,30 @@
       "source_url": null,
       "properties": {},
       "last_edited_time": "2026-01-19"
+    },
+    {
+      "id": "sample-0064",
+      "url": null,
+      "title": "観櫻会招待状（浜離宮御苑・明治17年）",
+      "category": "招待状",
+      "description": "明治17年4月25日午後2時、浜離宮御苑での観櫻会招待状。明治17年4月18日付、フロックコート着用。",
+      "date": { "start": "1884-04-18", "end": null, "time_zone": null },
+      "image_url": "./assets/materials/kanoukai_m17.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-24"
+    },
+    {
+      "id": "sample-0065",
+      "url": null,
+      "title": "観櫻会招待状 封筒・注意書き（明治17年）",
+      "category": "招待状",
+      "description": "明治17年4月25日、観櫻会招待状の封筒・注意書き。",
+      "date": { "start": "1884-04-25", "end": null, "time_zone": null },
+      "image_url": "./assets/materials/kanoukai_m17_futo.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-24"
     }
   ]
 }
