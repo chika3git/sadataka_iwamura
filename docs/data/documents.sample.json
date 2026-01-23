@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-01-18T00:00:00Z",
-  "source": { "type": "sample" },
-  "count": 65,
+  "generated_at": "2026-01-23T00:00:00Z",
+  "source": {
+    "type": "sample"
+  },
+  "count": 102,
   "documents": [
     {
       "id": "sample-0001",
@@ -21,7 +23,11 @@
       "title": "和紙古文書002",
       "category": "古文書",
       "description": "慶長16年正月の和紙古文書。",
-      "date": { "start": "1611-01-01", "end": null, "time_zone": null },
+      "date": {
+        "start": "1611-01-01",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/washi_komonjo_002.jpg",
       "source_url": null,
       "properties": {},
@@ -81,7 +87,11 @@
       "title": "辞令（山形県参事）",
       "category": "辞令",
       "description": "山形県参事への任命辞令。辛未11月2日。",
-      "date": { "start": "1871-11-02", "end": null, "time_zone": null },
+      "date": {
+        "start": "1871-11-02",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/jirei_yamagata.jpg",
       "source_url": null,
       "properties": {},
@@ -129,7 +139,11 @@
       "title": "銀牌（明治29年3月29日）",
       "category": "褒賞",
       "description": "第7回帝国議会精勤につき銀盃受賜。",
-      "date": { "start": "1896-03-29", "end": null, "time_zone": null },
+      "date": {
+        "start": "1896-03-29",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/ginpai_m29.jpg",
       "source_url": null,
       "properties": {},
@@ -141,7 +155,11 @@
       "title": "災害時寄付感謝状（明治31年）",
       "category": "感謝状",
       "description": "災害時の寄付に対する感謝状。明治31年5月6日。",
-      "date": { "start": "1898-05-06", "end": null, "time_zone": null },
+      "date": {
+        "start": "1898-05-06",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kifu_saigai_m31.jpg",
       "source_url": null,
       "properties": {},
@@ -165,7 +183,11 @@
       "title": "災害時寄付感謝状（愛知県・明治26年）",
       "category": "感謝状",
       "description": "愛知県災害罹災者救助への寄付に対する感謝状。明治26年3月24日。",
-      "date": { "start": "1893-03-24", "end": null, "time_zone": null },
+      "date": {
+        "start": "1893-03-24",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kifu_aichi_m26.jpg",
       "source_url": null,
       "properties": {},
@@ -177,7 +199,11 @@
       "title": "災害時寄付感謝状（和歌山県洪水・明治22年）",
       "category": "感謝状",
       "description": "明治22年8月和歌山縣洪水罹災者救助費への寄付。明治24年10月27日付。",
-      "date": { "start": "1891-10-27", "end": null, "time_zone": null },
+      "date": {
+        "start": "1891-10-27",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kifu_wakayama_m22.jpg",
       "source_url": null,
       "properties": {},
@@ -189,7 +215,11 @@
       "title": "従三位勲三等叙任",
       "category": "叙勲",
       "description": "従三位勲三等への叙任。明治23年10月2日。錦鶏祇候被仰。",
-      "date": { "start": "1890-10-02", "end": null, "time_zone": null },
+      "date": {
+        "start": "1890-10-02",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/jusani_kun3.jpg",
       "source_url": null,
       "properties": {},
@@ -213,7 +243,11 @@
       "title": "大日本教育界賞状",
       "category": "賞状",
       "description": "大日本教育界からの賞状。明治23年5月24日、第104号。",
-      "date": { "start": "1890-05-24", "end": null, "time_zone": null },
+      "date": {
+        "start": "1890-05-24",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/dainippon_kyoiku_shojo.jpg",
       "source_url": null,
       "properties": {},
@@ -225,7 +259,11 @@
       "title": "独逸學振興会員推薦",
       "category": "公文書",
       "description": "独逸學振興のための会員推薦。明治16年7月7日。",
-      "date": { "start": "1883-07-07", "end": null, "time_zone": null },
+      "date": {
+        "start": "1883-07-07",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/doitsu_gaku_shinko.jpg",
       "source_url": null,
       "properties": {},
@@ -237,7 +275,11 @@
       "title": "佐賀県尋常中学校新築費寄付",
       "category": "感謝状",
       "description": "佐賀県尋常中学校新築費への寄付。明治33年1月6日木杯下賜。",
-      "date": { "start": "1900-01-06", "end": null, "time_zone": null },
+      "date": {
+        "start": "1900-01-06",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kifu_saga_chugakko.jpg",
       "source_url": null,
       "properties": {},
@@ -249,7 +291,11 @@
       "title": "辞令（給料50円増）",
       "category": "辞令",
       "description": "給料50円増の辞令。明治15年12月1日、太政官発令。",
-      "date": { "start": "1882-12-01", "end": null, "time_zone": null },
+      "date": {
+        "start": "1882-12-01",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/jirei_kyuryo_50en.jpg",
       "source_url": null,
       "properties": {},
@@ -261,7 +307,11 @@
       "title": "災害時寄付感謝状（大和国吉野郡・明治22年）",
       "category": "感謝状",
       "description": "大和国吉野郡明治22年8月水害罹災者救助への寄付。明治23年10月4日付。",
-      "date": { "start": "1890-10-04", "end": null, "time_zone": null },
+      "date": {
+        "start": "1890-10-04",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kifu_yamato_yoshino.jpg",
       "source_url": null,
       "properties": {},
@@ -273,7 +323,11 @@
       "title": "法律違反に関する通知",
       "category": "公文書",
       "description": "法律違反連絡に関する文書。明治12年9月19日、太政大臣三条實美。",
-      "date": { "start": "1879-09-19", "end": null, "time_zone": null },
+      "date": {
+        "start": "1879-09-19",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/horitsu_ihan.jpg",
       "source_url": null,
       "properties": {},
@@ -297,7 +351,11 @@
       "title": "恩給",
       "category": "公文書",
       "description": "恩給に関する文書。明治24年6月11日、内閣発令。",
-      "date": { "start": "1891-06-11", "end": null, "time_zone": null },
+      "date": {
+        "start": "1891-06-11",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/onkyu_m24.jpg",
       "source_url": null,
       "properties": {},
@@ -309,7 +367,11 @@
       "title": "辞令（二等官年給3500円）",
       "category": "辞令",
       "description": "二等官当年給料3500円下賜。明治18年3月2日、太政官発令。",
-      "date": { "start": "1885-03-02", "end": null, "time_zone": null },
+      "date": {
+        "start": "1885-03-02",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kyuryo_3500en_m18.jpg",
       "source_url": null,
       "properties": {},
@@ -321,7 +383,11 @@
       "title": "辞令（給料年俸3500円）",
       "category": "辞令",
       "description": "給料年俸3500円下賜。明治17年7月10日、太政官発令。",
-      "date": { "start": "1884-07-10", "end": null, "time_zone": null },
+      "date": {
+        "start": "1884-07-10",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kyuryo_nenpo_3500en.jpg",
       "source_url": null,
       "properties": {},
@@ -333,7 +399,11 @@
       "title": "史料サンプル（書簡）",
       "category": "書簡",
       "description": "公開用のサンプル（書簡）。",
-      "date": { "start": "1876-01-01", "end": null, "time_zone": null },
+      "date": {
+        "start": "1876-01-01",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/DSC_0724.JPG",
       "source_url": null,
       "properties": {},
@@ -345,7 +415,11 @@
       "title": "史料サンプル（印刷物）",
       "category": "公文書",
       "description": "公開用のサンプル（印刷物）。",
-      "date": { "start": "1876-01-02", "end": null, "time_zone": null },
+      "date": {
+        "start": "1876-01-02",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/DSC_0772.JPG",
       "source_url": null,
       "properties": {},
@@ -393,7 +467,11 @@
       "title": "勲章被下（大礼服着用命令書）",
       "category": "公文書",
       "description": "7日に大礼服着用にて云々の命令書。明治18年4月6日。",
-      "date": { "start": "1885-04-06", "end": null, "time_zone": null },
+      "date": {
+        "start": "1885-04-06",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kunsho_taireifuku.jpg",
       "source_url": null,
       "properties": {},
@@ -405,7 +483,11 @@
       "title": "第7回帝国議会招集の際 銀盃一組",
       "category": "褒賞",
       "description": "第7回帝国議会招集の際に銀盃一組授与。明治29年3月29日。",
-      "date": { "start": "1896-03-29", "end": null, "time_zone": null },
+      "date": {
+        "start": "1896-03-29",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/teikoku_gikai_ginpai.jpg",
       "source_url": null,
       "properties": {},
@@ -417,7 +499,11 @@
       "title": "寄付感謝状（佐賀県下暴風洪水・明治26年）",
       "category": "感謝状",
       "description": "明治26年10月佐賀県下暴風洪水への寄付。明治31年5月6日付。",
-      "date": { "start": "1898-05-06", "end": null, "time_zone": null },
+      "date": {
+        "start": "1898-05-06",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kifu_saga_bofu_m26.jpg",
       "source_url": null,
       "properties": {},
@@ -429,7 +515,11 @@
       "title": "寄付感謝状（和歌山県下罹災者救助・明治22年）",
       "category": "感謝状",
       "description": "明治22年8月9月和歌山県下罹災者救助への寄付。明治24年10月27日、西園寺公望。",
-      "date": { "start": "1891-10-27", "end": null, "time_zone": null },
+      "date": {
+        "start": "1891-10-27",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kifu_wakayama_m22_2.jpg",
       "source_url": null,
       "properties": {},
@@ -453,7 +543,11 @@
       "title": "寄付（明治30年軍用品納）",
       "category": "感謝状",
       "description": "明治27、8年軍用品納への寄付。明治30年。",
-      "date": { "start": "1897-01-01", "end": null, "time_zone": null },
+      "date": {
+        "start": "1897-01-01",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kifu_m30.jpg",
       "source_url": null,
       "properties": {},
@@ -465,7 +559,11 @@
       "title": "寄付感謝状（佐賀県尋常中学校新築費・明治31年）",
       "category": "感謝状",
       "description": "佐賀県尋常中学校新築費への寄付、木杯下賜。明治31年5月11日。",
-      "date": { "start": "1898-05-11", "end": null, "time_zone": null },
+      "date": {
+        "start": "1898-05-11",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kifu_saga_chugakko_m31.jpg",
       "source_url": null,
       "properties": {},
@@ -489,7 +587,11 @@
       "title": "弔辞",
       "category": "書簡",
       "description": "明治32年1月9日付の弔辞。",
-      "date": { "start": "1899-01-09", "end": null, "time_zone": null },
+      "date": {
+        "start": "1899-01-09",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/choji_m32.jpg",
       "source_url": null,
       "properties": {},
@@ -525,7 +627,11 @@
       "title": "宴会招待状（大坂）",
       "category": "書簡",
       "description": "11月18日午後2時30分、大坂での宴会への招待状。明治31年11月16日。",
-      "date": { "start": "1898-11-16", "end": null, "time_zone": null },
+      "date": {
+        "start": "1898-11-16",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/shotaijo_enkai.jpg",
       "source_url": null,
       "properties": {},
@@ -537,7 +643,11 @@
       "title": "新年宴会招待状",
       "category": "書簡",
       "description": "新年の宴会招待状。明治32年1月5日午前11時40分。明治32年2月26日付。",
-      "date": { "start": "1899-02-26", "end": null, "time_zone": null },
+      "date": {
+        "start": "1899-02-26",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/shotaijo_shinnen_m32.jpg",
       "source_url": null,
       "properties": {},
@@ -561,7 +671,11 @@
       "title": "天長節宴会招待状（明治17年）",
       "category": "招待状",
       "description": "天長節宴会明治17年11月3日。明治17年10月28日付、大礼服着用。",
-      "date": { "start": "1884-10-28", "end": null, "time_zone": null },
+      "date": {
+        "start": "1884-10-28",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/tenchosetsu_m17.jpg",
       "source_url": null,
       "properties": {},
@@ -573,7 +687,11 @@
       "title": "観櫻会招待状（浜離宮御苑・明治24年）",
       "category": "招待状",
       "description": "明治24年4月22日午後2時30分、浜離宮御苑での観櫻会招待状。明治24年4月17日付。",
-      "date": { "start": "1891-04-17", "end": null, "time_zone": null },
+      "date": {
+        "start": "1891-04-17",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kanoukai_m24.jpg",
       "source_url": null,
       "properties": {},
@@ -585,7 +703,11 @@
       "title": "観櫻会招待状 注意書き（明治24年）",
       "category": "招待状",
       "description": "浜離宮の観櫻会への招待状注意書き。明治24年4月22日。",
-      "date": { "start": "1891-04-22", "end": null, "time_zone": null },
+      "date": {
+        "start": "1891-04-22",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kanoukai_m24_chui.jpg",
       "source_url": null,
       "properties": {},
@@ -597,7 +719,11 @@
       "title": "天長節祝宴招待状（明治31年）",
       "category": "招待状",
       "description": "明治31年11月3日午前11時40分、天長節祝宴招待状。明治31年11月28日付。",
-      "date": { "start": "1898-11-28", "end": null, "time_zone": null },
+      "date": {
+        "start": "1898-11-28",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/tenchosetsu_m31.jpg",
       "source_url": null,
       "properties": {},
@@ -621,7 +747,11 @@
       "title": "紀元節宴会招待状（明治26年）",
       "category": "招待状",
       "description": "明治26年2月11日午前11時、紀元節宴会招待状。明治26年2月4日付。",
-      "date": { "start": "1893-02-04", "end": null, "time_zone": null },
+      "date": {
+        "start": "1893-02-04",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kigensetsu_m26.jpg",
       "source_url": null,
       "properties": {},
@@ -633,7 +763,11 @@
       "title": "天長節祝宴招待状（明治26年）",
       "category": "招待状",
       "description": "明治26年11月3日午前11時40分、天長節祝宴招待状。明治26年10月27日付。",
-      "date": { "start": "1893-10-27", "end": null, "time_zone": null },
+      "date": {
+        "start": "1893-10-27",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/tenchosetsu_m26.jpg",
       "source_url": null,
       "properties": {},
@@ -645,7 +779,11 @@
       "title": "新年宴会招待状（明治23年）",
       "category": "招待状",
       "description": "明治23年1月6日午前10時40分、新年宴会招待状。明治22年12月27日付、大礼服着用・第綬章着用。",
-      "date": { "start": "1889-12-27", "end": null, "time_zone": null },
+      "date": {
+        "start": "1889-12-27",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/shinnen_m23.jpg",
       "source_url": null,
       "properties": {},
@@ -657,7 +795,11 @@
       "title": "観櫻会招待状（浜離宮御苑・明治22年）",
       "category": "招待状",
       "description": "明治22年4月24日、浜離宮御苑観櫻会招待状（夫婦）。明治22年4月15日付、着用条件あり。",
-      "date": { "start": "1889-04-15", "end": null, "time_zone": null },
+      "date": {
+        "start": "1889-04-15",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kanoukai_m22.jpg",
       "source_url": null,
       "properties": {},
@@ -669,7 +811,11 @@
       "title": "観櫻招待状 注意事項（明治22年）",
       "category": "招待状",
       "description": "明治22年4月22日、観櫻招待状注意事項。",
-      "date": { "start": "1889-04-22", "end": null, "time_zone": null },
+      "date": {
+        "start": "1889-04-22",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kanoukai_m22_chui.jpg",
       "source_url": null,
       "properties": {},
@@ -681,7 +827,11 @@
       "title": "寒菊会招待状（皇居禁苑・明治21年）",
       "category": "招待状",
       "description": "明治21年11月8日午後3時、皇居禁苑での寒菊会招待状（夫婦）。明治21年11月1日付。",
-      "date": { "start": "1888-11-01", "end": null, "time_zone": null },
+      "date": {
+        "start": "1888-11-01",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kankikukai_m21.jpg",
       "source_url": null,
       "properties": {},
@@ -693,7 +843,11 @@
       "title": "寒菊会招待状 規則（明治21年）",
       "category": "招待状",
       "description": "明治21年11月8日、寒菊会招待状規則。明治21年11月。",
-      "date": { "start": "1888-11-01", "end": null, "time_zone": null },
+      "date": {
+        "start": "1888-11-01",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kankikukai_m21_chui.jpg",
       "source_url": null,
       "properties": {},
@@ -705,7 +859,11 @@
       "title": "観菊会招待状（明治23年）",
       "category": "招待状",
       "description": "明治23年11月10日午後2時30分、観菊会招待状（夫婦）。明治23年11月4日付。",
-      "date": { "start": "1890-11-04", "end": null, "time_zone": null },
+      "date": {
+        "start": "1890-11-04",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kankikukai_m23.jpg",
       "source_url": null,
       "properties": {},
@@ -717,7 +875,11 @@
       "title": "観菊会招待状 注意事項（明治23年）",
       "category": "招待状",
       "description": "明治23年11月、観菊会招待状注意事項。明治23年11月4日付。",
-      "date": { "start": "1890-11-04", "end": null, "time_zone": null },
+      "date": {
+        "start": "1890-11-04",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kankikukai_m23_chui.jpg",
       "source_url": null,
       "properties": {},
@@ -729,7 +891,11 @@
       "title": "新年宴会招待状（宮中・明治29年）",
       "category": "招待状",
       "description": "明治29年1月6日午前10時40分、宮中新年宴会招待状。明治28年12月26日付。",
-      "date": { "start": "1895-12-26", "end": null, "time_zone": null },
+      "date": {
+        "start": "1895-12-26",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/shinnen_m29.jpg",
       "source_url": null,
       "properties": {},
@@ -741,7 +907,11 @@
       "title": "観菊会招待状（仮皇居御苑・明治18年）",
       "category": "招待状",
       "description": "明治18年11月9日午後3時、仮皇居御苑での観菊会招待状（夫婦）。明治18年11月4日付。",
-      "date": { "start": "1885-11-04", "end": null, "time_zone": null },
+      "date": {
+        "start": "1885-11-04",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kankikukai_m18.jpg",
       "source_url": null,
       "properties": {},
@@ -753,7 +923,11 @@
       "title": "観菊会招待状封筒・注意事項（明治18年）",
       "category": "招待状",
       "description": "明治18年観菊会招待状封筒・注意事項。",
-      "date": { "start": "1885-11-04", "end": null, "time_zone": null },
+      "date": {
+        "start": "1885-11-04",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kankikukai_m18_futo.jpg",
       "source_url": null,
       "properties": {},
@@ -765,7 +939,11 @@
       "title": "観櫻会招待状（浜離宮御苑・明治17年）",
       "category": "招待状",
       "description": "明治17年4月25日午後2時、浜離宮御苑での観櫻会招待状。明治17年4月18日付、フロックコート着用。",
-      "date": { "start": "1884-04-18", "end": null, "time_zone": null },
+      "date": {
+        "start": "1884-04-18",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kanoukai_m17.jpg",
       "source_url": null,
       "properties": {},
@@ -777,11 +955,607 @@
       "title": "観櫻会招待状 封筒・注意書き（明治17年）",
       "category": "招待状",
       "description": "明治17年4月25日、観櫻会招待状の封筒・注意書き。",
-      "date": { "start": "1884-04-25", "end": null, "time_zone": null },
+      "date": {
+        "start": "1884-04-25",
+        "end": null,
+        "time_zone": null
+      },
       "image_url": "./assets/materials/kanoukai_m17_futo.jpg",
       "source_url": null,
       "properties": {},
       "last_edited_time": "2026-01-24"
+    },
+    {
+      "id": "sample-0066",
+      "url": null,
+      "title": "招待状明治17年4月25日午後2時",
+      "category": "招待状",
+      "description": "明治17年4月18日浜離宮御苑　観櫻会　フロックコート着用",
+      "date": {
+        "start": "1884-04-18",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m17_kanokai.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0067",
+      "url": null,
+      "title": "明治17年4月25日　待状封筒注意書き",
+      "category": "招待状",
+      "description": "明治17年4月18日　観櫻会",
+      "date": {
+        "start": "1884-04-25",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m17_kanokai_notes.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0068",
+      "url": null,
+      "title": "①　招待状夫婦　明治23年2月11日　午後9時宮中にて舞楽の倍覧",
+      "category": "招待状",
+      "description": "明治23年2月5日　舞楽　夫人ローブデコルテ",
+      "date": {
+        "start": "1890-02-05",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m23_bugaku_01.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0069",
+      "url": null,
+      "title": "②　明治23年2月11日　舞楽招待状注意書き",
+      "category": "招待状",
+      "description": "舞楽招待",
+      "date": {
+        "start": "1890-02-05",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m23_bugaku_notes_02.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0070",
+      "url": null,
+      "title": "③　明治23年2月11日舞楽招待注意書き",
+      "category": "招待状",
+      "description": "舞楽招待",
+      "date": {
+        "start": "1890-02-05",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m23_bugaku_notes_03.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0071",
+      "url": null,
+      "title": "④　明治23年2月11日　舞楽招待",
+      "category": "招待状",
+      "description": "明治23年2月11日注意書き",
+      "date": {
+        "start": "1890-02-11",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m23_bugaku_04.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0072",
+      "url": null,
+      "title": "招待状　夫婦　明治27年3月9日午後6時30分宮中晩餐会",
+      "category": "招待状",
+      "description": "宮中晩餐会",
+      "date": {
+        "start": "1894-03-09",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m27_bansankai_01.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0073",
+      "url": null,
+      "title": "招待状　夫婦　明治27年3月9日宮中晩餐会",
+      "category": "招待状",
+      "description": "注意書き",
+      "date": {
+        "start": "1894-03-09",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m27_bansankai_notes.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0074",
+      "url": null,
+      "title": "明治23年11月3日招待状",
+      "category": "招待状",
+      "description": "明治23年11月3日天長節祝宴",
+      "date": {
+        "start": "1890-11-03",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m23_tenchosetsu.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0075",
+      "url": null,
+      "title": "明治24年11月3日招待状",
+      "category": "招待状",
+      "description": "明治24年11月3日　天長節祝宴",
+      "date": {
+        "start": "1891-11-03",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m24_tenchosetsu.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0076",
+      "url": null,
+      "title": "明治24年11月3日招待状",
+      "category": "招待状",
+      "description": "明治24年10月27日　天長節祝宴　注意書き",
+      "date": {
+        "start": "1891-10-27",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m24_tenchosetsu_notes.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0077",
+      "url": null,
+      "title": "明治29年11月3日招待状　夫婦",
+      "category": "招待状",
+      "description": "明治29年11月3日午後9時　天長節祝　帝国ホテル於夜会",
+      "date": {
+        "start": "1896-11-03",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m29_tenchosetsu_yakai.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0078",
+      "url": null,
+      "title": "招待状夫婦　明治17年１１月７日午後２時",
+      "category": "招待状",
+      "description": "明治17年10月31日　観菊会於　仮皇居御苑",
+      "date": {
+        "start": "1884-10-31",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m17_kankikukai.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0079",
+      "url": null,
+      "title": "招待状封筒と注意書き明治17年11月7日",
+      "category": "招待状",
+      "description": "観菊会　皇居仮御苑",
+      "date": {
+        "start": "1884-11-07",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m17_kankikukai_notes.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0080",
+      "url": null,
+      "title": "紀元2549年　明治22年2月11日　晩餐会",
+      "category": "メニュー",
+      "description": "晩餐会メニュー",
+      "date": {
+        "start": "1889-02-11",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/menu_m22_kigensetsu_bansan.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0081",
+      "url": null,
+      "title": "大正10年9月皇太子殿下御詞",
+      "category": "公文書",
+      "description": "大正10年9月",
+      "date": {
+        "start": "1921-09-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/komonjo_t10_oushi.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0082",
+      "url": null,
+      "title": "明治23年9月25日メニュー晩餐会メニュー",
+      "category": "メニュー",
+      "description": "晩餐会メニュー",
+      "date": {
+        "start": "1890-09-25",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/menu_m23_bansankai_0925.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0083",
+      "url": null,
+      "title": "明治16年12月3日夕　晩餐会メニュー",
+      "category": "メニュー",
+      "description": "饗応献立　鹿鳴館",
+      "date": {
+        "start": "1883-12-03",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/menu_m16_bansankai_1203.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0084",
+      "url": null,
+      "title": "1883年12月3日　晩餐会フランス語メニュー",
+      "category": "メニュー",
+      "description": "鹿鳴館",
+      "date": {
+        "start": "1883-12-03",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/menu_m16_bansankai_fr.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0085",
+      "url": null,
+      "title": "招待状　明治29年２月11日宮中紀元節宴会",
+      "category": "招待状",
+      "description": "明治29年2月3日",
+      "date": {
+        "start": "1896-02-03",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m29_kigensetsu.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0086",
+      "url": null,
+      "title": "招待状明治22年2月11日午後9時宮中舞楽倍覧",
+      "category": "招待状",
+      "description": "明治22年2月5日　夫婦招待状　2枚あり",
+      "date": {
+        "start": "1889-02-05",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m22_bugaku.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0087",
+      "url": null,
+      "title": "招待状夫婦　明治22年2月11日午後7時宮中晩餐会",
+      "category": "招待状",
+      "description": "明治22年2月5日　晩餐会のあと舞楽観",
+      "date": {
+        "start": "1889-02-05",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m22_bansankai.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0088",
+      "url": null,
+      "title": "招待状明治21年2月11日午前11時晩餐会",
+      "category": "招待状",
+      "description": "明治21年2月4日　紀元節晩餐会宮中",
+      "date": {
+        "start": "1888-02-04",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m21_kigensetsu.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0089",
+      "url": null,
+      "title": "招待状明治31年2月11日午前11時40分宴会",
+      "category": "招待状",
+      "description": "宮中紀元節　明治31年2月5日",
+      "date": {
+        "start": "1898-02-05",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m31_kigensetsu.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0090",
+      "url": null,
+      "title": "招待上明治31年11月16日午後2時　寒菊会",
+      "category": "招待状",
+      "description": "赤坂離宮御苑　観菊会",
+      "date": {
+        "start": "1898-11-16",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m31_kankikukai.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0091",
+      "url": null,
+      "title": "招待状　明治18年11月3日午前10時40分",
+      "category": "招待状",
+      "description": "明治18年10月28日　天長節宴会",
+      "date": {
+        "start": "1885-10-28",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m18_tenchosetsu.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0092",
+      "url": null,
+      "title": "招待状　明治21年1月5日　午前10時40分　宴会",
+      "category": "招待状",
+      "description": "明治20年12月27日　宮中新年宴会",
+      "date": {
+        "start": "1887-12-27",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m21_shinnen.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0093",
+      "url": null,
+      "title": "招待状　明治19年11月3日午前10時40分",
+      "category": "招待状",
+      "description": "明治19年10月28日　案内状　天長節宴会",
+      "date": {
+        "start": "1886-10-28",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m19_tenchosetsu.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0094",
+      "url": null,
+      "title": "招待状　明治24年1月5日午前10時40分",
+      "category": "招待状",
+      "description": "宮中新年宴会　案内状",
+      "date": {
+        "start": "1891-01-05",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m24_shinnen.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0095",
+      "url": null,
+      "title": "招待状夫婦　明治24年11月10日午後2時30分",
+      "category": "招待状",
+      "description": "明治24年11月4日　赤坂離宮にて観菊会",
+      "date": {
+        "start": "1891-11-04",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m24_kankikukai.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0096",
+      "url": null,
+      "title": "招待状夫婦　明治23年11月9日　午後3時",
+      "category": "招待状",
+      "description": "赤坂離宮にて観菊会　麻布区鳥居坂町は鳥居家の役宅跡",
+      "date": {
+        "start": "1890-11-09",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m23_kankikukai.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0097",
+      "url": null,
+      "title": "招待状夫婦　明治20年4月21日午後3時",
+      "category": "招待状",
+      "description": "浜離宮御苑にて観櫻会",
+      "date": {
+        "start": "1887-04-21",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m20_kanoukai.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0098",
+      "url": null,
+      "title": "招待状夫婦　明治18年5月5日",
+      "category": "招待状",
+      "description": "浜離宮御苑にて観櫻会　明治18年4月30日",
+      "date": {
+        "start": "1885-04-30",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m18_kanoukai.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0099",
+      "url": null,
+      "title": "招待状夫婦　明治26年4月21日　午後2時30分",
+      "category": "招待状",
+      "description": "浜離宮御苑にて観櫻会　明治26年4月14日",
+      "date": {
+        "start": "1893-04-14",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m26_kanoukai.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0100",
+      "url": null,
+      "title": "明治27年3月9日　晩餐会メニュー",
+      "category": "メニュー",
+      "description": "明治27年　晩餐会メニュー",
+      "date": {
+        "start": "1894-03-09",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/menu_m27_bansankai.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0101",
+      "url": null,
+      "title": "明治24年11月20日　午餐メニュー",
+      "category": "メニュー",
+      "description": "明治24年11月20日午餐メニュー",
+      "date": {
+        "start": "1891-11-20",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/menu_m24_gosan.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0102",
+      "url": null,
+      "title": "招待状夫婦　明治20年11月8日午後3時　観菊会",
+      "category": "招待状",
+      "description": "明治20年11月2日皇居禁苑観菊会",
+      "date": {
+        "start": "1887-11-02",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m20_kankikukai.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-23"
     }
   ]
 }
