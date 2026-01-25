@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-23T00:00:00Z",
+  "generated_at": "2026-01-25T00:00:00Z",
   "source": {
     "type": "sample"
   },
-  "count": 102,
+  "count": 142,
   "documents": [
     {
       "id": "sample-0001",
@@ -1556,6 +1556,606 @@
       "source_url": null,
       "properties": {},
       "last_edited_time": "2026-01-23"
+    },
+    {
+      "id": "sample-0103",
+      "url": null,
+      "title": "錦鶏間祇侯　招待状夫婦　明治25年4月15日午後2時園遊会",
+      "category": "招待状",
+      "description": "能久親王同妃殿下園遊会　明治25年4月11日",
+      "date": {
+        "start": "1892-04-11",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m25_enyukai.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0104",
+      "url": null,
+      "title": "招待状封筒　明治25年4月15日",
+      "category": "招待状",
+      "description": "錦鶏間祇侯　岩村定高",
+      "date": {
+        "start": "1892-04-15",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m25_enyukai_futo.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0105",
+      "url": null,
+      "title": "定高写真",
+      "category": "写真",
+      "description": "定高写真",
+      "date": null,
+      "image_url": "./assets/materials/photo_sadataka.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0106",
+      "url": null,
+      "title": "定高奥方連写真",
+      "category": "写真",
+      "description": "定高奥方写真",
+      "date": null,
+      "image_url": "./assets/materials/photo_sadataka_okugata.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0107",
+      "url": null,
+      "title": "定高奥方写真　コピー",
+      "category": "写真",
+      "description": "定高写真奥方　コピー",
+      "date": null,
+      "image_url": "./assets/materials/photo_okugata_copy.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0108",
+      "url": null,
+      "title": "大隈重信　写真コピー",
+      "category": "写真",
+      "description": "大隈重信写真コピー",
+      "date": null,
+      "image_url": "./assets/materials/photo_okuma_copy.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0109",
+      "url": null,
+      "title": "集合写真　中央定高",
+      "category": "写真",
+      "description": "",
+      "date": null,
+      "image_url": "./assets/materials/photo_group_sadataka.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0110",
+      "url": null,
+      "title": "佐賀泰長院岩村家代々の墓所",
+      "category": "写真",
+      "description": "昭和？年佐賀国体の際の法要",
+      "date": null,
+      "image_url": "./assets/materials/photo_saga_grave.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0111",
+      "url": null,
+      "title": "港区麻布光林寺　岩村家墓所",
+      "category": "写真",
+      "description": "定高が亡くなった時、三重県の有志の方がだいはち車で墓石や墓所の御影石を運んでくれた",
+      "date": null,
+      "image_url": "./assets/materials/photo_korinji_grave.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0112",
+      "url": null,
+      "title": "頂き物",
+      "category": "古文書",
+      "description": "白ちりめん",
+      "date": null,
+      "image_url": "./assets/materials/komonjo_itadakimono_shirochirimen.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0113",
+      "url": null,
+      "title": "勲章〇用式",
+      "category": "公文書",
+      "description": "内国勲章〇用の心得、外国勲章を併帯するときの心得",
+      "date": null,
+      "image_url": "./assets/materials/komonjo_kunsho_kokoroe.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0114",
+      "url": null,
+      "title": "招待状　明治20年11月3日天長節祝宴",
+      "category": "招待状",
+      "description": "明治20年10月28日　宮中にて天長節の祝宴",
+      "date": {
+        "start": "1887-10-28",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m20_tenchosetsu.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0115",
+      "url": null,
+      "title": "招待状　明治17年9月26日正午12時　御陪食",
+      "category": "招待状",
+      "description": "明治17年9月22日",
+      "date": {
+        "start": "1884-09-22",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m17_gohaishoku.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0116",
+      "url": null,
+      "title": "招待状　明治19年1月11日紀元節宴会午前11時参内",
+      "category": "招待状",
+      "description": "明治19年紀元節祝宴、注意書き",
+      "date": {
+        "start": "1886-01-11",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_m19_kigensetsu.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0117",
+      "url": null,
+      "title": "辞令　明治4年辛未　１１月２日山形縣参事",
+      "category": "辞令",
+      "description": "正６位",
+      "date": {
+        "start": "1871-11-02",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jirei_m4_yamagata.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0118",
+      "url": null,
+      "title": "辞令明治５年〇申9月18日　山形縣参事から三重縣参事",
+      "category": "辞令",
+      "description": "山形縣参事から三重縣参事へ",
+      "date": {
+        "start": "1872-09-18",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jirei_m5_yamagata_mie.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0119",
+      "url": null,
+      "title": "辞令　明治6年11月2日　三重縣権令",
+      "category": "辞令",
+      "description": "三重縣参事から三重縣権令へ",
+      "date": {
+        "start": "1873-11-02",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jirei_m6_mie_gonrei.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0120",
+      "url": null,
+      "title": "辞令　明治8年6月5日　兼任五等判事",
+      "category": "辞令",
+      "description": "正6位　三重縣権令として",
+      "date": {
+        "start": "1875-06-05",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jirei_m8_kennin_goto.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0121",
+      "url": null,
+      "title": "辞令明治8年12月9日　三重縣権令無五等判事如故",
+      "category": "辞令",
+      "description": "五等判事正六位",
+      "date": {
+        "start": "1875-12-09",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jirei_m8_1209.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0122",
+      "url": null,
+      "title": "辞令　明治九年一月十七日　太政官発布",
+      "category": "辞令",
+      "description": "三重縣令〇五等判事",
+      "date": {
+        "start": "1876-01-17",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jirei_m9_0117.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0123",
+      "url": null,
+      "title": "叙勲　明治九年一月廿五日　従五位",
+      "category": "叙勲",
+      "description": "正六位から従五位へ",
+      "date": {
+        "start": "1876-01-25",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jokun_m9_0125.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0124",
+      "url": null,
+      "title": "給料アップ　明治十二年十二月十日",
+      "category": "辞令",
+      "description": "月俸五十圓増",
+      "date": {
+        "start": "1879-12-10",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jirei_m12_kyuryo_up.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0125",
+      "url": null,
+      "title": "辞令？　明治十五年三月四日",
+      "category": "辞令",
+      "description": "結城神社　別格官幣社の祭礼の為勅使として",
+      "date": {
+        "start": "1882-03-04",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jirei_m15_yuki_jinja.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0126",
+      "url": null,
+      "title": "辞令 三重縣令任　明治十五年十二月一日",
+      "category": "辞令",
+      "description": "従五位　再任？",
+      "date": {
+        "start": "1882-12-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jirei_m15_miekenrei.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0127",
+      "url": null,
+      "title": "叙任　正五位　明治十六年二月三日",
+      "category": "叙勲",
+      "description": "従五位四等　から　正五位へ",
+      "date": {
+        "start": "1883-02-03",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jokun_m16_shogo.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0128",
+      "url": null,
+      "title": "辞令　明治十七年七月十日　任元老院議官",
+      "category": "辞令",
+      "description": "三重縣令正五位勲四等",
+      "date": {
+        "start": "1884-07-10",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jirei_m17_genroin.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0129",
+      "url": null,
+      "title": "辞令　三重縣令奉職中の事務引継ぎ　出張",
+      "category": "辞令",
+      "description": "太政官発布　元老院議官",
+      "date": null,
+      "image_url": "./assets/materials/jirei_jimu_hikitsugi.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0130",
+      "url": null,
+      "title": "叙勲　明治十七年八月卅日",
+      "category": "叙勲",
+      "description": "従四位　正五位から従四位",
+      "date": {
+        "start": "1884-08-30",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jokun_m17_0830.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0131",
+      "url": null,
+      "title": "辞令　明治廿四年四月十五日　貴族院議員に任",
+      "category": "辞令",
+      "description": "従三位勲三等",
+      "date": {
+        "start": "1891-04-15",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jirei_m24_kizokuin.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0132",
+      "url": null,
+      "title": "依願免職辞令　明治廿四年四月廿一日",
+      "category": "辞令",
+      "description": "内閣　非職元老院議官",
+      "date": {
+        "start": "1891-04-21",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jirei_m24_menshoku.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0133",
+      "url": null,
+      "title": "辞令　明治二十七年五月二十一日",
+      "category": "辞令",
+      "description": "従三位勲三等　宮内省",
+      "date": {
+        "start": "1894-05-21",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jirei_m27_0521.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0134",
+      "url": null,
+      "title": "寄付　明治十年四月三十日　學校資金？",
+      "category": "寄付",
+      "description": "十圓　賞別紙目録之通下賜候事",
+      "date": {
+        "start": "1877-04-30",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/kifu_m10_gakko.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0135",
+      "url": null,
+      "title": "寄付　明治十三年五月五日　太政官発布",
+      "category": "寄付",
+      "description": "次女久土三重縣下學校資として金弐拾五圓餘差出候につき木杯壱個下賜候事\\n三重縣令従五位",
+      "date": {
+        "start": "1880-05-05",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/kifu_m13_gakko.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0136",
+      "url": null,
+      "title": "寄付　明治十三年五月五日　三重縣下虎ろ痢病流行",
+      "category": "寄付",
+      "description": "虎ろり病流行之際予防費用として金五十圓差出候につき賞木盃壱個下賜候事\\n三重縣令従五位",
+      "date": {
+        "start": "1880-05-05",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/kifu_m13_korori.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0137",
+      "url": null,
+      "title": "下賜　明治十四年八月六日　太政官より目録の通",
+      "category": "褒賞",
+      "description": "地租改正事務　目録の通り下賜候事\\n三重縣令",
+      "date": {
+        "start": "1881-08-06",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hosho_m14_chiso.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0138",
+      "url": null,
+      "title": "寄付　明治十四年十二月十七日　太政官",
+      "category": "寄付",
+      "description": "三重縣下安濃群藤枝町より失火の節罹災者へ金二十圓施〇に付き賞木盃壱個下賜候事\\n三重縣令従五位",
+      "date": {
+        "start": "1881-12-17",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/kifu_m14_shikka.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0139",
+      "url": null,
+      "title": "寄付　明治十五年四月廿一日　太政官",
+      "category": "寄付",
+      "description": "三女清袈裟祇明治十四年一月中　三重縣下塔世學校新築費として金弐重五圓差出候に付き\\n賞木杯壱個下賜候事",
+      "date": {
+        "start": "1882-04-21",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/kifu_m15_gakko.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0140",
+      "url": null,
+      "title": "叙勲　明治十九年十月二十日　従三位",
+      "category": "叙勲",
+      "description": "従四位勲三等から従三位　内閣総理大臣から",
+      "date": {
+        "start": "1886-10-20",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jokun_m19_1020.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0141",
+      "url": null,
+      "title": "日本赤十字社正社員に列す　明治廿二年三月五日",
+      "category": "公文書",
+      "description": "従三位勲三等　赤十字社総裁彰仁親王より",
+      "date": {
+        "start": "1889-03-05",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/komonjo_m22_sekijujisha.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
+    },
+    {
+      "id": "sample-0142",
+      "url": null,
+      "title": "明治廿三年十月廿一日　受賞",
+      "category": "褒賞",
+      "description": "在職中格別勉励に付きその賞として別紙目録の通り下賜　内閣\\n非職元老院議官",
+      "date": {
+        "start": "1890-10-21",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hosho_m23_1021.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-01-25"
     }
   ]
 }
