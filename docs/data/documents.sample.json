@@ -3,7 +3,7 @@
   "source": {
     "type": "sample"
   },
-  "count": 176,
+  "count": 190,
   "documents": [
     {
       "id": "sample-0001",
@@ -2688,6 +2688,226 @@
       "source_url": null,
       "properties": {},
       "last_edited_time": "2026-01-31"
+    },
+    {
+      "id": "sample-0177",
+      "url": null,
+      "title": "明治23年7月11日　第三回内國勧業博覧会褒章授與式次第",
+      "category": "褒賞",
+      "description": "式次第",
+      "date": {
+        "start": "1890-07-11",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hosho_m23_hakurankai_shikishidai.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-07"
+    },
+    {
+      "id": "sample-0178",
+      "url": null,
+      "title": "明治21年から23年　褒章心得　小冊子（表紙）",
+      "category": "褒賞",
+      "description": "褒章心得　表紙",
+      "date": {
+        "start": "1888-01-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hosho_m21_23_kokoroe_booklet_cover.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-07"
+    },
+    {
+      "id": "sample-0179",
+      "url": null,
+      "title": "明治21年から23年　褒章心得冊子（表紙）",
+      "category": "褒賞",
+      "description": "表紙",
+      "date": {
+        "start": "1888-01-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hosho_m21_23_kokoroe_book_cover.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-07"
+    },
+    {
+      "id": "sample-0180",
+      "url": null,
+      "title": "明治21年から23年　褒章心得　1ページ目",
+      "category": "褒賞",
+      "description": "褒章心得　一ページ目",
+      "date": {
+        "start": "1888-01-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hosho_m21_23_kokoroe_p01.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-07"
+    },
+    {
+      "id": "sample-0181",
+      "url": null,
+      "title": "明治21年から23年　褒章心得　2-3ページ",
+      "category": "褒賞",
+      "description": "褒章心得　2から3ページ",
+      "date": {
+        "start": "1888-01-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hosho_m21_23_kokoroe_p02_03.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-07"
+    },
+    {
+      "id": "sample-0182",
+      "url": null,
+      "title": "明治21年から23年　褒章心得　4-5ページ",
+      "category": "褒賞",
+      "description": "褒章心得冊子　4から5ページ",
+      "date": {
+        "start": "1888-01-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hosho_m21_23_kokoroe_p04_05.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-07"
+    },
+    {
+      "id": "sample-0183",
+      "url": null,
+      "title": "明治21年から23年　褒章心得　6-7ページ",
+      "category": "褒賞",
+      "description": "褒章心得冊子6から7ページ",
+      "date": {
+        "start": "1888-01-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hosho_m21_23_kokoroe_p06_07.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-07"
+    },
+    {
+      "id": "sample-0184",
+      "url": null,
+      "title": "明治21年から23年　褒章心得　8ページ",
+      "category": "褒賞",
+      "description": "褒章心得冊子8ページ",
+      "date": {
+        "start": "1888-01-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hosho_m21_23_kokoroe_p08.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-07"
+    },
+    {
+      "id": "sample-0185",
+      "url": null,
+      "title": "年代不明封筒　三重縣令太政官（印紙在中）",
+      "category": "公文書",
+      "description": "年代不明　印紙在中",
+      "date": null,
+      "image_url": "./assets/materials/futo_undated_mie.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-07"
+    },
+    {
+      "id": "sample-0186",
+      "url": null,
+      "title": "第三回内國勧業博覧会　第1圓",
+      "category": "褒賞",
+      "description": "博覧会地図",
+      "date": {
+        "start": "1890-07-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hosho_hakurankai_map_01.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-07"
+    },
+    {
+      "id": "sample-0187",
+      "url": null,
+      "title": "第三回内國勧業博覧会　褒章授與式場の図　第二圓",
+      "category": "褒賞",
+      "description": "授與式式場の図",
+      "date": {
+        "start": "1890-07-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hosho_hakurankai_awardhall_02.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-07"
+    },
+    {
+      "id": "sample-0188",
+      "url": null,
+      "title": "第三回内國勧業博覧会　褒章授與式場の図　第一圓",
+      "category": "褒賞",
+      "description": "褒章授與式の図第一圓",
+      "date": {
+        "start": "1890-07-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hosho_hakurankai_awardhall_01.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-07"
+    },
+    {
+      "id": "sample-0189",
+      "url": null,
+      "title": "東京上野公園内國勧業博覧会會場略図",
+      "category": "褒賞",
+      "description": "第三回内國勧業博覧会場略図",
+      "date": {
+        "start": "1890-07-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hosho_hakurankai_ryakuzu_02.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-07"
+    },
+    {
+      "id": "sample-0190",
+      "url": null,
+      "title": "第三回内國勧業博覧会褒章授與式参場員心得",
+      "category": "褒賞",
+      "description": "褒章授與式心得",
+      "date": {
+        "start": "1890-07-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hosho_hakurankai_kokoroe_sanjoin.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-07"
     }
   ]
 }
