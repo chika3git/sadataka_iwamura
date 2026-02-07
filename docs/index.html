@@ -14,10 +14,36 @@
             color: #333;
         }
         .hero-bg {
-            background-color: #1e293b; /* 濃紺 */
+            position: relative;
             color: white;
-            padding: 80px 20px;
-            text-align: center;
+            padding: 72px 20px;
+            text-align: right;
+            overflow: hidden;
+        }
+        .hero-bg::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background-image: url('./assets/photo_group_sadataka.png');
+            background-size: 90%;
+            background-position: center 25%;
+            filter: sepia(0.2);
+            z-index: 0;
+        }
+        .hero-bg::after {
+            content: '';
+            position: absolute;
+            top: 0; bottom: 0; right: 0;
+            width: 40%;
+            background: linear-gradient(to right, transparent 0%, rgba(15,23,42,0.7) 60%, rgba(15,23,42,0.85) 100%);
+            z-index: 0;
+        }
+        .hero-text {
+            text-shadow: 0 0 20px rgba(0,0,0,0.8), 0 0 40px rgba(0,0,0,0.5), 0 2px 4px rgba(0,0,0,0.9);
+        }
+        .hero-bg > * {
+            position: relative;
+            z-index: 1;
         }
     </style>
 </head>
@@ -33,26 +59,29 @@
     </header>
 
     <section class="hero-bg">
-        <p class="text-sm tracking-[0.3em] mb-4 text-slate-300">初代三重県令・佐賀の賢人</p>
-        <h1 class="text-4xl md:text-5xl font-extrabold mb-6 tracking-wide">岩村 定高</h1>
-        <p class="text-lg md:text-xl font-light opacity-90 max-w-2xl mx-auto leading-loose">
-            佐賀に生まれ、激動の明治維新を駆け抜け、<br>
-            三重の礎を築いた官僚。<br>
-            その生涯と残された記録を紐解く。
-        </p>
+        <div class="max-w-5xl mx-auto">
+            <p class="text-lg md:text-xl tracking-[0.3em] mb-2 text-slate-300 hero-text">初代三重県令・佐賀の賢人</p>
+            <h1 class="font-extrabold mb-3 tracking-wide hero-text" style="font-size: 80px; line-height: 1;">岩村 定高</h1>
+            <p class="text-xl md:text-2xl font-light opacity-90 max-w-lg ml-auto leading-loose hero-text">
+                佐賀に生まれ<br>激動の明治維新を駆け抜け<br>
+                三重の礎を築いた官僚<br>
+                その生涯と残された記録を紐解く
+            </p>
+        </div>
     </section>
 
     <section class="max-w-5xl mx-auto py-16 px-6">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <figure class="shadow-lg rounded-sm overflow-hidden bg-slate-100">
                 <img
-                    src="./assets/iwamura_sadataka.jpg"
+                    src="./assets/photo_sadataka.png"
                     alt="岩村定高 肖像"
-                    class="w-full h-80 object-cover object-center"
+                    class="w-full h-80 object-cover"
+                    style="object-position: center 36%;"
                     loading="lazy"
                 >
                 <figcaption class="text-xs text-slate-600 px-3 py-2 border-t border-slate-200">
-                    肖像
+                    肖像（カラー復元）
                 </figcaption>
             </figure>
             <div>
@@ -142,7 +171,7 @@
     <section class="max-w-6xl mx-auto py-16 px-6" id="documents">
         <h3 class="text-2xl font-bold mb-2 text-slate-800">所蔵資料データベース</h3>
         <p class="mb-8 text-slate-600 text-sm">一次資料の一覧。クリックで詳細画面へ移動します。</p>
-        
+
         <div class="bg-white border border-gray-200 p-4 rounded shadow-sm">
             <div class="flex items-center justify-between gap-4 mb-4">
                 <div class="text-xs text-slate-500">最新データ（JSON）から最大8件を表示</div>
