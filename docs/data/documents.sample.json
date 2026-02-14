@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-31T00:00:00Z",
+  "generated_at": "2026-02-14T00:00:00Z",
   "source": {
     "type": "sample"
   },
-  "count": 190,
+  "count": 224,
   "documents": [
     {
       "id": "sample-0001",
@@ -2908,6 +2908,462 @@
       "source_url": null,
       "properties": {},
       "last_edited_time": "2026-02-07"
+    },
+    {
+      "id": "sample-0191",
+      "url": null,
+      "title": "江藤新平関係文書現代語訳　明治五年三月七日",
+      "category": "古文書",
+      "description": "岩村右近から江藤新平へ　内容？",
+      "date": {
+        "start": "1872-03-07",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/IMG_2026_02_12_09_05_09S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0192",
+      "url": null,
+      "title": "江藤新平宛文書、原文コピー①",
+      "category": "古文書",
+      "description": "江藤新平宛文書、原文コピー②",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_12_09_13_06S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0193",
+      "url": null,
+      "title": "江藤新平宛文書、原文コピー(早稲田大学蔵のものと思われる)",
+      "category": "古文書",
+      "description": "江藤新平宛文書、原文コピー　②",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_12_09_15_28S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0194",
+      "url": null,
+      "title": "江藤新平宛文書、原文コピー③",
+      "category": "古文書",
+      "description": "江藤新平宛文書、原文コピー(早稲田大学所蔵の物と思われる)",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_12_09_18_02S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0195",
+      "url": null,
+      "title": "泰長院　岩村家墓所　過去帳メモから？",
+      "category": "古文書",
+      "description": "泰長院　岩村家墓所配置図",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_12_09_21_12S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0196",
+      "url": null,
+      "title": "1851年～7月20日　江戸遊学の記述あり、",
+      "category": "古文書",
+      "description": "江戸遊学し、昌平坂学問所古賀門派に入門",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_12_09_30_12S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0197",
+      "url": null,
+      "title": "よくわからない　楠公連名〇",
+      "category": "古文書",
+      "description": "義祭連名帖とあり",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_12_09_34_25S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0198",
+      "url": null,
+      "title": "定高　明治以降系図",
+      "category": "公文書",
+      "description": "初代三重縣令　岩村定高明治以降家系図",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_12_17_51_06S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0199",
+      "url": null,
+      "title": "龍池會通常會員タルヲ證ス　明治十九年一月一日",
+      "category": "古文書",
+      "description": "聰歳二品熾仁親王",
+      "date": {
+        "start": "1886-01-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/IMG_2026_02_12_19_51_32S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0200",
+      "url": null,
+      "title": "叙勲　正三位　明治二十七年五月二十一日",
+      "category": "叙勲",
+      "description": "従三位勲三等から正三位",
+      "date": {
+        "start": "1894-05-21",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/IMG_2026_02_12_19_58_18S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0201",
+      "url": null,
+      "title": "新聞記事(読売)　佐賀版　岩村定高供養祭記事",
+      "category": "新聞",
+      "description": "写真は三重縣撮影",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_12_20_07_24S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0202",
+      "url": null,
+      "title": "佐賀市内古地図　松原神社前　岩村右近生誕の地",
+      "category": "古文書",
+      "description": "古地図　カラー佐賀城で購入　",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_13_14_27_21S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0203",
+      "url": null,
+      "title": "古地図　江戸期の屋敷割をコピーしたもの",
+      "category": "古文書",
+      "description": "松原神社前　岩村右近定高生誕の地",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_13_14_32_03S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0204",
+      "url": null,
+      "title": "佐賀藩家臣団　上級家臣団",
+      "category": "古文書",
+      "description": "岩村家は着座という地位",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_13_14_36_02S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0205",
+      "url": null,
+      "title": "物故人名辞典より",
+      "category": "古文書",
+      "description": "明治過去帳　(物故人名辞典)コピー",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_13_14_40_31S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0206",
+      "url": null,
+      "title": "三重県の郷土史家が調べたもの　1ページ",
+      "category": "古文書",
+      "description": "定高の功績を書いたもの　2ページ",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_13_14_44_05S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0207",
+      "url": null,
+      "title": "昭和51年10月　読売新聞佐賀版　国体リレー",
+      "category": "新聞",
+      "description": "国体リレーの年に三重縣の郷土史家古川さんの長年の研究でわかった。",
+      "date": {
+        "start": "1976-10-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/IMG_2026_02_13_14_52_08S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0208",
+      "url": null,
+      "title": "昭和51年10月26日　佐賀で追善供養　中部日本新聞",
+      "category": "新聞",
+      "description": "新聞記事　追善供養の様子",
+      "date": {
+        "start": "1976-10-26",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/IMG_2026_02_13_14_56_53S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0209",
+      "url": null,
+      "title": "昭和51年10月26日　西日本新聞",
+      "category": "新聞",
+      "description": "追悼供養とそれに至る解説",
+      "date": {
+        "start": "1976-10-26",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/IMG_2026_02_13_15_00_48S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0210",
+      "url": null,
+      "title": "岩村家〇〇御命日　お寺からの物？　①",
+      "category": "古文書",
+      "description": "過去帳のようなもの",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_13_15_05_09S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0211",
+      "url": null,
+      "title": "岩村家命日　お寺からのもの？　②",
+      "category": "古文書",
+      "description": "過去帳のようなもの",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_13_15_08_29S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0212",
+      "url": null,
+      "title": "岩村家命日　過去帳のようなもの　③",
+      "category": "古文書",
+      "description": "過去帳のようなもの",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_13_15_11_29S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0213",
+      "url": null,
+      "title": "岩村家命日の中に混ざってた書付",
+      "category": "古文書",
+      "description": "貞服とは定高の父　弘化2年巳正月二十九日",
+      "date": {
+        "start": "1845-01-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/IMG_2026_02_13_15_13_57S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0214",
+      "url": null,
+      "title": "弘化二年　系図を書く時の書付　1ページ",
+      "category": "古文書",
+      "description": "弘化二年の書付　現代語に直したもの",
+      "date": {
+        "start": "1845-01-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/IMG_2026_02_13_15_26_51S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0215",
+      "url": null,
+      "title": "弘化二年　書付現代語訳　2ページ",
+      "category": "古文書",
+      "description": "弘化二年書付　家系図を作成にあたるメモ",
+      "date": {
+        "start": "1845-01-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/IMG_2026_02_13_15_29_55S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0216",
+      "url": null,
+      "title": "弘化二年　書付現代語　3ページ",
+      "category": "古文書",
+      "description": "弘化二年巳正月　貞服(定高の父親)　定高の定は初め「貞」だったと思われる",
+      "date": {
+        "start": "1845-01-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/IMG_2026_02_13_15_32_09S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0217",
+      "url": null,
+      "title": "岩村家由緒其外覚書　岩村内蔵助貞昭",
+      "category": "古文書",
+      "description": "先祖は姉川、姉川滅亡ののち神崎郡野田に住まい、野田と称す。寛永九年より\n勝茂公ご逝去により萬治弐年(1658年～1661年)物成百石\n慶長十八年までの書状(家にあるものと他佐賀の博物館にあるものの写し)",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_14_09_19_55S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0218",
+      "url": null,
+      "title": "岩村家由緒覚書続き②",
+      "category": "古文書",
+      "description": "石高等",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_14_09_30_18S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0219",
+      "url": null,
+      "title": "岩村家由緒覚書③",
+      "category": "古文書",
+      "description": "石高等",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_14_09_32_14S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0220",
+      "url": null,
+      "title": "城下大曲輪内屋敷帖より",
+      "category": "古文書",
+      "description": "佐賀県の資料より近藤さん提供",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_14_09_35_45S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0221",
+      "url": null,
+      "title": "屋敷割明細　時代は？",
+      "category": "古文書",
+      "description": "屋敷割明細",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_14_09_39_01S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0222",
+      "url": null,
+      "title": "屋敷割明細と古地図",
+      "category": "古文書",
+      "description": "屋敷割明細と古地図近藤さんより提供",
+      "date": null,
+      "image_url": "./assets/materials/IMG_2026_02_14_09_41_13S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0223",
+      "url": null,
+      "title": "明和8年佐賀城下　屋敷割と明細",
+      "category": "古文書",
+      "description": "明和八年屋敷　松原神社前",
+      "date": {
+        "start": "1771-01-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/IMG_2026_02_14_09_43_44S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
+    },
+    {
+      "id": "sample-0224",
+      "url": null,
+      "title": "明和八年屋敷明細②",
+      "category": "古文書",
+      "description": "明和八年屋敷跡明細　松原神社前",
+      "date": {
+        "start": "1771-01-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/IMG_2026_02_14_09_46_28S.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-02-14"
     }
   ]
 }
