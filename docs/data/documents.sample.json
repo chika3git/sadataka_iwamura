@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-02T05:20:29Z",
+  "generated_at": "2026-03-03T07:42:02Z",
   "source": {
     "type": "sample"
   },
-  "count": 287,
+  "count": 289,
   "documents": [
     {
       "id": "sample-0001",
@@ -4136,6 +4136,38 @@
       "source_url": null,
       "properties": {},
       "last_edited_time": "2026-03-02"
+    },
+    {
+      "id": "sample-0288",
+      "url": null,
+      "title": "辞令 開拓権判官へ兼任民部権大丞 庚午九月 ①",
+      "category": "辞令",
+      "description": "辞令",
+      "date": {
+        "start": "1870-09-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/sample-0288.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-03-03"
+    },
+    {
+      "id": "sample-0289",
+      "url": null,
+      "title": "辞令 庚午九月 太政官 ②",
+      "category": "辞令",
+      "description": "辞令",
+      "date": {
+        "start": "1870-09-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/sample-0289.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-03-03"
     }
   ]
 }
