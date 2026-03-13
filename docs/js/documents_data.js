@@ -47,25 +47,36 @@ export function sortDocuments(docs) {
     return Number.isFinite(t) ? t : null;
   };
   const toDateStart = (d) => (d && typeof d === "object" ? d.start : null);
+  const toSampleSeq = (id) => {
+    const m = (id || "").match(/sample-(\d+)/);
+    return m ? Number.parseInt(m[1], 10) : null;
+  };
 
   return [...docs].sort((a, b) => {
-    const aDate = toEpoch(toDateStart(a.date));
-    const bDate = toEpoch(toDateStart(b.date));
-    if (aDate != null || bDate != null) {
-      if (aDate == null) return 1;
-      if (bDate == null) return -1;
-      return bDate - aDate;
-    }
-
     const aEdited = toEpoch(a.last_edited_time);
     const bEdited = toEpoch(b.last_edited_time);
     if (aEdited != null || bEdited != null) {
       if (aEdited == null) return 1;
       if (bEdited == null) return -1;
-      return bEdited - aEdited;
+      if (bEdited !== aEdited) return bEdited - aEdited;
+    }
+
+    const aSeq = toSampleSeq(a.id);
+    const bSeq = toSampleSeq(b.id);
+    if (aSeq != null || bSeq != null) {
+      if (aSeq == null) return 1;
+      if (bSeq == null) return -1;
+      if (bSeq !== aSeq) return bSeq - aSeq;
+    }
+
+    const aDate = toEpoch(toDateStart(a.date));
+    const bDate = toEpoch(toDateStart(b.date));
+    if (aDate != null || bDate != null) {
+      if (aDate == null) return 1;
+      if (bDate == null) return -1;
+      if (bDate !== aDate) return bDate - aDate;
     }
 
     return (a.title || "").localeCompare(b.title || "", "ja");
   });
 }
-
