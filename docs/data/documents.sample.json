@@ -15,7 +15,8 @@
       "image_url": "./assets/materials/washi_komonjo_001.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-02"
+      "last_edited_time": "2026-01-02",
+      "thumbnail_url": "./assets/materials/thumbs/washi_komonjo_001.jpg"
     },
     {
       "id": "sample-0002",
@@ -31,7 +32,8 @@
       "image_url": "./assets/materials/washi_komonjo_002.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-03"
+      "last_edited_time": "2026-01-03",
+      "thumbnail_url": "./assets/materials/thumbs/washi_komonjo_002.jpg"
     },
     {
       "id": "sample-0003",
@@ -43,7 +45,8 @@
       "image_url": "./assets/materials/washi_komonjo_002_envelope.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-03"
+      "last_edited_time": "2026-01-03",
+      "thumbnail_url": "./assets/materials/thumbs/washi_komonjo_002_envelope.jpg"
     },
     {
       "id": "sample-0004",
@@ -55,7 +58,8 @@
       "image_url": "./assets/materials/washi_komonjo_003.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-02"
+      "last_edited_time": "2026-01-02",
+      "thumbnail_url": "./assets/materials/thumbs/washi_komonjo_003.jpg"
     },
     {
       "id": "sample-0005",
@@ -67,7 +71,8 @@
       "image_url": "./assets/materials/washi_komonjo_003_envelope.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-02"
+      "last_edited_time": "2026-01-02",
+      "thumbnail_url": "./assets/materials/thumbs/washi_komonjo_003_envelope.jpg"
     },
     {
       "id": "sample-0006",
@@ -79,7 +84,8 @@
       "image_url": "./assets/materials/kakocho_mie.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-04"
+      "last_edited_time": "2026-01-04",
+      "thumbnail_url": "./assets/materials/thumbs/kakocho_mie.jpg"
     },
     {
       "id": "sample-0007",
@@ -95,7 +101,8 @@
       "image_url": "./assets/materials/jirei_yamagata.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-04"
+      "last_edited_time": "2026-01-04",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_yamagata.jpg"
     },
     {
       "id": "sample-0008",
@@ -107,7 +114,8 @@
       "image_url": "./assets/materials/jirei_saga_gon_daisanji.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-04"
+      "last_edited_time": "2026-01-04",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_saga_gon_daisanji.jpg"
     },
     {
       "id": "sample-0009",
@@ -119,7 +127,8 @@
       "image_url": "./assets/materials/jirei_hakodate.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-04"
+      "last_edited_time": "2026-01-04",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_hakodate.jpg"
     },
     {
       "id": "sample-0010",
@@ -131,7 +140,8 @@
       "image_url": "./assets/materials/newspaper_kokutai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-05"
+      "last_edited_time": "2026-01-05",
+      "thumbnail_url": "./assets/materials/thumbs/newspaper_kokutai.jpg"
     },
     {
       "id": "sample-0011",
@@ -147,7 +157,8 @@
       "image_url": "./assets/materials/ginpai_m29.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-05"
+      "last_edited_time": "2026-01-05",
+      "thumbnail_url": "./assets/materials/thumbs/ginpai_m29.jpg"
     },
     {
       "id": "sample-0012",
@@ -163,7 +174,8 @@
       "image_url": "./assets/materials/kifu_saigai_m31.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-05"
+      "last_edited_time": "2026-01-05",
+      "thumbnail_url": "./assets/materials/thumbs/kifu_saigai_m31.jpg"
     },
     {
       "id": "sample-0013",
@@ -175,7 +187,8 @@
       "image_url": "./assets/materials/unknown_text.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-05"
+      "last_edited_time": "2026-01-05",
+      "thumbnail_url": "./assets/materials/thumbs/unknown_text.jpg"
     },
     {
       "id": "sample-0014",
@@ -191,7 +204,8 @@
       "image_url": "./assets/materials/kifu_aichi_m26.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-05"
+      "last_edited_time": "2026-01-05",
+      "thumbnail_url": "./assets/materials/thumbs/kifu_aichi_m26.jpg"
     },
     {
       "id": "sample-0015",
@@ -207,7 +221,8 @@
       "image_url": "./assets/materials/kifu_wakayama_m22.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-05"
+      "last_edited_time": "2026-01-05",
+      "thumbnail_url": "./assets/materials/thumbs/kifu_wakayama_m22.jpg"
     },
     {
       "id": "sample-0016",
@@ -223,7 +238,8 @@
       "image_url": "./assets/materials/jusani_kun3.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-07"
+      "last_edited_time": "2026-01-07",
+      "thumbnail_url": "./assets/materials/thumbs/jusani_kun3.jpg"
     },
     {
       "id": "sample-0017",
@@ -235,7 +251,8 @@
       "image_url": "./assets/materials/kifu_tokyo_shogakko.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-09"
+      "last_edited_time": "2026-01-09",
+      "thumbnail_url": "./assets/materials/thumbs/kifu_tokyo_shogakko.jpg"
     },
     {
       "id": "sample-0018",
@@ -251,7 +268,8 @@
       "image_url": "./assets/materials/dainippon_kyoiku_shojo.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-10"
+      "last_edited_time": "2026-01-10",
+      "thumbnail_url": "./assets/materials/thumbs/dainippon_kyoiku_shojo.jpg"
     },
     {
       "id": "sample-0019",
@@ -267,7 +285,8 @@
       "image_url": "./assets/materials/doitsu_gaku_shinko.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-12"
+      "last_edited_time": "2026-01-12",
+      "thumbnail_url": "./assets/materials/thumbs/doitsu_gaku_shinko.jpg"
     },
     {
       "id": "sample-0020",
@@ -283,7 +302,8 @@
       "image_url": "./assets/materials/kifu_saga_chugakko.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-12"
+      "last_edited_time": "2026-01-12",
+      "thumbnail_url": "./assets/materials/thumbs/kifu_saga_chugakko.jpg"
     },
     {
       "id": "sample-0021",
@@ -299,7 +319,8 @@
       "image_url": "./assets/materials/jirei_kyuryo_50en.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-12"
+      "last_edited_time": "2026-01-12",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_kyuryo_50en.jpg"
     },
     {
       "id": "sample-0022",
@@ -315,7 +336,8 @@
       "image_url": "./assets/materials/kifu_yamato_yoshino.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-12"
+      "last_edited_time": "2026-01-12",
+      "thumbnail_url": "./assets/materials/thumbs/kifu_yamato_yoshino.jpg"
     },
     {
       "id": "sample-0023",
@@ -331,7 +353,8 @@
       "image_url": "./assets/materials/horitsu_ihan.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-12"
+      "last_edited_time": "2026-01-12",
+      "thumbnail_url": "./assets/materials/thumbs/horitsu_ihan.jpg"
     },
     {
       "id": "sample-0024",
@@ -343,7 +366,8 @@
       "image_url": "./assets/materials/jirei_tokyo_taizai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-12"
+      "last_edited_time": "2026-01-12",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_tokyo_taizai.jpg"
     },
     {
       "id": "sample-0025",
@@ -359,7 +383,8 @@
       "image_url": "./assets/materials/onkyu_m24.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-12"
+      "last_edited_time": "2026-01-12",
+      "thumbnail_url": "./assets/materials/thumbs/onkyu_m24.jpg"
     },
     {
       "id": "sample-0026",
@@ -375,7 +400,8 @@
       "image_url": "./assets/materials/kyuryo_3500en_m18.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-12"
+      "last_edited_time": "2026-01-12",
+      "thumbnail_url": "./assets/materials/thumbs/kyuryo_3500en_m18.jpg"
     },
     {
       "id": "sample-0027",
@@ -391,7 +417,8 @@
       "image_url": "./assets/materials/kyuryo_nenpo_3500en.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-12"
+      "last_edited_time": "2026-01-12",
+      "thumbnail_url": "./assets/materials/thumbs/kyuryo_nenpo_3500en.jpg"
     },
     {
       "id": "sample-0028",
@@ -407,7 +434,8 @@
       "image_url": "./assets/materials/DSC_0724.JPG",
       "source_url": null,
       "properties": {},
-      "last_edited_time": null
+      "last_edited_time": null,
+      "thumbnail_url": "./assets/materials/thumbs/DSC_0724.JPG"
     },
     {
       "id": "sample-0029",
@@ -423,7 +451,8 @@
       "image_url": "./assets/materials/DSC_0772.JPG",
       "source_url": null,
       "properties": {},
-      "last_edited_time": null
+      "last_edited_time": null,
+      "thumbnail_url": "./assets/materials/thumbs/DSC_0772.JPG"
     },
     {
       "id": "sample-0030",
@@ -435,7 +464,8 @@
       "image_url": "./assets/materials/DSC_0652.JPG",
       "source_url": null,
       "properties": {},
-      "last_edited_time": null
+      "last_edited_time": null,
+      "thumbnail_url": "./assets/materials/thumbs/DSC_0652.JPG"
     },
     {
       "id": "sample-0031",
@@ -447,7 +477,8 @@
       "image_url": "./assets/materials/DSC_0653.JPG",
       "source_url": null,
       "properties": {},
-      "last_edited_time": null
+      "last_edited_time": null,
+      "thumbnail_url": "./assets/materials/thumbs/DSC_0653.JPG"
     },
     {
       "id": "sample-0032",
@@ -459,7 +490,8 @@
       "image_url": "./assets/materials/unknown_letter.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-13"
+      "last_edited_time": "2026-01-13",
+      "thumbnail_url": "./assets/materials/thumbs/unknown_letter.jpg"
     },
     {
       "id": "sample-0033",
@@ -475,7 +507,8 @@
       "image_url": "./assets/materials/kunsho_taireifuku.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-13"
+      "last_edited_time": "2026-01-13",
+      "thumbnail_url": "./assets/materials/thumbs/kunsho_taireifuku.jpg"
     },
     {
       "id": "sample-0034",
@@ -491,7 +524,8 @@
       "image_url": "./assets/materials/teikoku_gikai_ginpai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-13"
+      "last_edited_time": "2026-01-13",
+      "thumbnail_url": "./assets/materials/thumbs/teikoku_gikai_ginpai.jpg"
     },
     {
       "id": "sample-0035",
@@ -507,7 +541,8 @@
       "image_url": "./assets/materials/kifu_saga_bofu_m26.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-13"
+      "last_edited_time": "2026-01-13",
+      "thumbnail_url": "./assets/materials/thumbs/kifu_saga_bofu_m26.jpg"
     },
     {
       "id": "sample-0036",
@@ -523,7 +558,8 @@
       "image_url": "./assets/materials/kifu_wakayama_m22_2.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-13"
+      "last_edited_time": "2026-01-13",
+      "thumbnail_url": "./assets/materials/thumbs/kifu_wakayama_m22_2.jpg"
     },
     {
       "id": "sample-0037",
@@ -535,7 +571,8 @@
       "image_url": "./assets/materials/kifu_aichi_suigai_m22.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-13"
+      "last_edited_time": "2026-01-13",
+      "thumbnail_url": "./assets/materials/thumbs/kifu_aichi_suigai_m22.jpg"
     },
     {
       "id": "sample-0038",
@@ -551,7 +588,8 @@
       "image_url": "./assets/materials/kifu_m30.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-14"
+      "last_edited_time": "2026-01-14",
+      "thumbnail_url": "./assets/materials/thumbs/kifu_m30.jpg"
     },
     {
       "id": "sample-0039",
@@ -567,7 +605,8 @@
       "image_url": "./assets/materials/kifu_saga_chugakko_m31.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-14"
+      "last_edited_time": "2026-01-14",
+      "thumbnail_url": "./assets/materials/thumbs/kifu_saga_chugakko_m31.jpg"
     },
     {
       "id": "sample-0040",
@@ -579,7 +618,8 @@
       "image_url": "./assets/materials/shojo_futo.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-14"
+      "last_edited_time": "2026-01-14",
+      "thumbnail_url": "./assets/materials/thumbs/shojo_futo.jpg"
     },
     {
       "id": "sample-0041",
@@ -595,7 +635,8 @@
       "image_url": "./assets/materials/choji_m32.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-14"
+      "last_edited_time": "2026-01-14",
+      "thumbnail_url": "./assets/materials/thumbs/choji_m32.jpg"
     },
     {
       "id": "sample-0042",
@@ -607,7 +648,8 @@
       "image_url": "./assets/materials/jizoin_fuda.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-14"
+      "last_edited_time": "2026-01-14",
+      "thumbnail_url": "./assets/materials/thumbs/jizoin_fuda.jpg"
     },
     {
       "id": "sample-0043",
@@ -619,7 +661,8 @@
       "image_url": "./assets/materials/jizoin_fuda_ura.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-14"
+      "last_edited_time": "2026-01-14",
+      "thumbnail_url": "./assets/materials/thumbs/jizoin_fuda_ura.jpg"
     },
     {
       "id": "sample-0044",
@@ -635,7 +678,8 @@
       "image_url": "./assets/materials/shotaijo_enkai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-15"
+      "last_edited_time": "2026-01-15",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_enkai.jpg"
     },
     {
       "id": "sample-0045",
@@ -651,7 +695,8 @@
       "image_url": "./assets/materials/shotaijo_shinnen_m32.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-17"
+      "last_edited_time": "2026-01-17",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_shinnen_m32.jpg"
     },
     {
       "id": "sample-0046",
@@ -663,7 +708,8 @@
       "image_url": "./assets/materials/shotaijo_chuigaki.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-17"
+      "last_edited_time": "2026-01-17",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_chuigaki.jpg"
     },
     {
       "id": "sample-0047",
@@ -679,7 +725,8 @@
       "image_url": "./assets/materials/tenchosetsu_m17.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-18"
+      "last_edited_time": "2026-01-18",
+      "thumbnail_url": "./assets/materials/thumbs/tenchosetsu_m17.jpg"
     },
     {
       "id": "sample-0048",
@@ -695,7 +742,8 @@
       "image_url": "./assets/materials/kanoukai_m24.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-18"
+      "last_edited_time": "2026-01-18",
+      "thumbnail_url": "./assets/materials/thumbs/kanoukai_m24.jpg"
     },
     {
       "id": "sample-0049",
@@ -711,7 +759,8 @@
       "image_url": "./assets/materials/kanoukai_m24_chui.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-18"
+      "last_edited_time": "2026-01-18",
+      "thumbnail_url": "./assets/materials/thumbs/kanoukai_m24_chui.jpg"
     },
     {
       "id": "sample-0050",
@@ -727,7 +776,8 @@
       "image_url": "./assets/materials/tenchosetsu_m31.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-18"
+      "last_edited_time": "2026-01-18",
+      "thumbnail_url": "./assets/materials/thumbs/tenchosetsu_m31.jpg"
     },
     {
       "id": "sample-0051",
@@ -739,7 +789,8 @@
       "image_url": "./assets/materials/tenchosetsu_m31_chui.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-18"
+      "last_edited_time": "2026-01-18",
+      "thumbnail_url": "./assets/materials/thumbs/tenchosetsu_m31_chui.jpg"
     },
     {
       "id": "sample-0052",
@@ -755,7 +806,8 @@
       "image_url": "./assets/materials/kigensetsu_m26.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-18"
+      "last_edited_time": "2026-01-18",
+      "thumbnail_url": "./assets/materials/thumbs/kigensetsu_m26.jpg"
     },
     {
       "id": "sample-0053",
@@ -771,7 +823,8 @@
       "image_url": "./assets/materials/tenchosetsu_m26.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-18"
+      "last_edited_time": "2026-01-18",
+      "thumbnail_url": "./assets/materials/thumbs/tenchosetsu_m26.jpg"
     },
     {
       "id": "sample-0054",
@@ -787,7 +840,8 @@
       "image_url": "./assets/materials/shinnen_m23.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-18"
+      "last_edited_time": "2026-01-18",
+      "thumbnail_url": "./assets/materials/thumbs/shinnen_m23.jpg"
     },
     {
       "id": "sample-0055",
@@ -803,7 +857,8 @@
       "image_url": "./assets/materials/kanoukai_m22.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-18"
+      "last_edited_time": "2026-01-18",
+      "thumbnail_url": "./assets/materials/thumbs/kanoukai_m22.jpg"
     },
     {
       "id": "sample-0056",
@@ -819,7 +874,8 @@
       "image_url": "./assets/materials/kanoukai_m22_chui.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-18"
+      "last_edited_time": "2026-01-18",
+      "thumbnail_url": "./assets/materials/thumbs/kanoukai_m22_chui.jpg"
     },
     {
       "id": "sample-0057",
@@ -835,7 +891,8 @@
       "image_url": "./assets/materials/kankikukai_m21.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-18"
+      "last_edited_time": "2026-01-18",
+      "thumbnail_url": "./assets/materials/thumbs/kankikukai_m21.jpg"
     },
     {
       "id": "sample-0058",
@@ -851,7 +908,8 @@
       "image_url": "./assets/materials/kankikukai_m21_chui.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-18"
+      "last_edited_time": "2026-01-18",
+      "thumbnail_url": "./assets/materials/thumbs/kankikukai_m21_chui.jpg"
     },
     {
       "id": "sample-0059",
@@ -867,7 +925,8 @@
       "image_url": "./assets/materials/kankikukai_m23.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-18"
+      "last_edited_time": "2026-01-18",
+      "thumbnail_url": "./assets/materials/thumbs/kankikukai_m23.jpg"
     },
     {
       "id": "sample-0060",
@@ -883,7 +942,8 @@
       "image_url": "./assets/materials/kankikukai_m23_chui.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-18"
+      "last_edited_time": "2026-01-18",
+      "thumbnail_url": "./assets/materials/thumbs/kankikukai_m23_chui.jpg"
     },
     {
       "id": "sample-0061",
@@ -899,7 +959,8 @@
       "image_url": "./assets/materials/shinnen_m29.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-19"
+      "last_edited_time": "2026-01-19",
+      "thumbnail_url": "./assets/materials/thumbs/shinnen_m29.jpg"
     },
     {
       "id": "sample-0062",
@@ -915,7 +976,8 @@
       "image_url": "./assets/materials/kankikukai_m18.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-19"
+      "last_edited_time": "2026-01-19",
+      "thumbnail_url": "./assets/materials/thumbs/kankikukai_m18.jpg"
     },
     {
       "id": "sample-0063",
@@ -931,7 +993,8 @@
       "image_url": "./assets/materials/kankikukai_m18_futo.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-19"
+      "last_edited_time": "2026-01-19",
+      "thumbnail_url": "./assets/materials/thumbs/kankikukai_m18_futo.jpg"
     },
     {
       "id": "sample-0064",
@@ -947,7 +1010,8 @@
       "image_url": "./assets/materials/kanoukai_m17.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-24"
+      "last_edited_time": "2026-01-24",
+      "thumbnail_url": "./assets/materials/thumbs/kanoukai_m17.jpg"
     },
     {
       "id": "sample-0065",
@@ -963,7 +1027,8 @@
       "image_url": "./assets/materials/kanoukai_m17_futo.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-24"
+      "last_edited_time": "2026-01-24",
+      "thumbnail_url": "./assets/materials/thumbs/kanoukai_m17_futo.jpg"
     },
     {
       "id": "sample-0066",
@@ -979,7 +1044,8 @@
       "image_url": "./assets/materials/kanoukai_m17.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/kanoukai_m17.jpg"
     },
     {
       "id": "sample-0067",
@@ -995,7 +1061,8 @@
       "image_url": "./assets/materials/kanoukai_m17_futo.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/kanoukai_m17_futo.jpg"
     },
     {
       "id": "sample-0068",
@@ -1011,7 +1078,8 @@
       "image_url": "./assets/materials/shotaijo_m23_bugaku_01.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m23_bugaku_01.jpg"
     },
     {
       "id": "sample-0069",
@@ -1027,7 +1095,8 @@
       "image_url": "./assets/materials/shotaijo_m23_bugaku_notes_02.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m23_bugaku_notes_02.jpg"
     },
     {
       "id": "sample-0070",
@@ -1043,7 +1112,8 @@
       "image_url": "./assets/materials/shotaijo_m23_bugaku_notes_03.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m23_bugaku_notes_03.jpg"
     },
     {
       "id": "sample-0071",
@@ -1059,7 +1129,8 @@
       "image_url": "./assets/materials/shotaijo_m23_bugaku_04.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m23_bugaku_04.jpg"
     },
     {
       "id": "sample-0072",
@@ -1075,7 +1146,8 @@
       "image_url": "./assets/materials/shotaijo_m27_bansankai_01.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m27_bansankai_01.jpg"
     },
     {
       "id": "sample-0073",
@@ -1091,7 +1163,8 @@
       "image_url": "./assets/materials/shotaijo_m27_bansankai_notes.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m27_bansankai_notes.jpg"
     },
     {
       "id": "sample-0074",
@@ -1107,7 +1180,8 @@
       "image_url": "./assets/materials/shotaijo_m23_tenchosetsu.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m23_tenchosetsu.jpg"
     },
     {
       "id": "sample-0075",
@@ -1123,7 +1197,8 @@
       "image_url": "./assets/materials/shotaijo_m24_tenchosetsu.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m24_tenchosetsu.jpg"
     },
     {
       "id": "sample-0076",
@@ -1139,7 +1214,8 @@
       "image_url": "./assets/materials/shotaijo_m24_tenchosetsu_notes.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m24_tenchosetsu_notes.jpg"
     },
     {
       "id": "sample-0077",
@@ -1155,7 +1231,8 @@
       "image_url": "./assets/materials/shotaijo_m29_tenchosetsu_yakai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m29_tenchosetsu_yakai.jpg"
     },
     {
       "id": "sample-0078",
@@ -1171,7 +1248,8 @@
       "image_url": "./assets/materials/shotaijo_m17_kankikukai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m17_kankikukai.jpg"
     },
     {
       "id": "sample-0079",
@@ -1187,7 +1265,8 @@
       "image_url": "./assets/materials/shotaijo_m17_kankikukai_notes.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m17_kankikukai_notes.jpg"
     },
     {
       "id": "sample-0080",
@@ -1203,7 +1282,8 @@
       "image_url": "./assets/materials/menu_m22_kigensetsu_bansan.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/menu_m22_kigensetsu_bansan.jpg"
     },
     {
       "id": "sample-0081",
@@ -1219,7 +1299,8 @@
       "image_url": "./assets/materials/komonjo_t10_oushi.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/komonjo_t10_oushi.jpg"
     },
     {
       "id": "sample-0082",
@@ -1235,7 +1316,8 @@
       "image_url": "./assets/materials/menu_m23_bansankai_0925.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/menu_m23_bansankai_0925.jpg"
     },
     {
       "id": "sample-0083",
@@ -1251,7 +1333,8 @@
       "image_url": "./assets/materials/menu_m16_bansankai_1203.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/menu_m16_bansankai_1203.jpg"
     },
     {
       "id": "sample-0084",
@@ -1267,7 +1350,8 @@
       "image_url": "./assets/materials/menu_m16_bansankai_fr.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/menu_m16_bansankai_fr.jpg"
     },
     {
       "id": "sample-0085",
@@ -1283,7 +1367,8 @@
       "image_url": "./assets/materials/shotaijo_m29_kigensetsu.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m29_kigensetsu.jpg"
     },
     {
       "id": "sample-0086",
@@ -1299,7 +1384,8 @@
       "image_url": "./assets/materials/shotaijo_m22_bugaku.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m22_bugaku.jpg"
     },
     {
       "id": "sample-0087",
@@ -1315,7 +1401,8 @@
       "image_url": "./assets/materials/shotaijo_m22_bansankai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m22_bansankai.jpg"
     },
     {
       "id": "sample-0088",
@@ -1331,7 +1418,8 @@
       "image_url": "./assets/materials/shotaijo_m21_kigensetsu.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m21_kigensetsu.jpg"
     },
     {
       "id": "sample-0089",
@@ -1347,7 +1435,8 @@
       "image_url": "./assets/materials/shotaijo_m31_kigensetsu.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m31_kigensetsu.jpg"
     },
     {
       "id": "sample-0090",
@@ -1363,7 +1452,8 @@
       "image_url": "./assets/materials/shotaijo_m31_kankikukai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m31_kankikukai.jpg"
     },
     {
       "id": "sample-0091",
@@ -1379,7 +1469,8 @@
       "image_url": "./assets/materials/shotaijo_m18_tenchosetsu.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m18_tenchosetsu.jpg"
     },
     {
       "id": "sample-0092",
@@ -1395,7 +1486,8 @@
       "image_url": "./assets/materials/shotaijo_m21_shinnen.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m21_shinnen.jpg"
     },
     {
       "id": "sample-0093",
@@ -1411,7 +1503,8 @@
       "image_url": "./assets/materials/shotaijo_m19_tenchosetsu.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m19_tenchosetsu.jpg"
     },
     {
       "id": "sample-0094",
@@ -1427,7 +1520,8 @@
       "image_url": "./assets/materials/shotaijo_m24_shinnen.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m24_shinnen.jpg"
     },
     {
       "id": "sample-0095",
@@ -1443,7 +1537,8 @@
       "image_url": "./assets/materials/shotaijo_m24_kankikukai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m24_kankikukai.jpg"
     },
     {
       "id": "sample-0096",
@@ -1459,7 +1554,8 @@
       "image_url": "./assets/materials/shotaijo_m23_kankikukai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m23_kankikukai.jpg"
     },
     {
       "id": "sample-0097",
@@ -1475,7 +1571,8 @@
       "image_url": "./assets/materials/shotaijo_m20_kanoukai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m20_kanoukai.jpg"
     },
     {
       "id": "sample-0098",
@@ -1491,7 +1588,8 @@
       "image_url": "./assets/materials/shotaijo_m18_kanoukai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m18_kanoukai.jpg"
     },
     {
       "id": "sample-0099",
@@ -1507,7 +1605,8 @@
       "image_url": "./assets/materials/shotaijo_m26_kanoukai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m26_kanoukai.jpg"
     },
     {
       "id": "sample-0100",
@@ -1523,7 +1622,8 @@
       "image_url": "./assets/materials/menu_m27_bansankai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/menu_m27_bansankai.jpg"
     },
     {
       "id": "sample-0101",
@@ -1539,7 +1639,8 @@
       "image_url": "./assets/materials/menu_m24_gosan.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/menu_m24_gosan.jpg"
     },
     {
       "id": "sample-0102",
@@ -1555,7 +1656,8 @@
       "image_url": "./assets/materials/shotaijo_m20_kankikukai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-23"
+      "last_edited_time": "2026-01-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m20_kankikukai.jpg"
     },
     {
       "id": "sample-0103",
@@ -1571,7 +1673,8 @@
       "image_url": "./assets/materials/shotaijo_m25_enyukai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m25_enyukai.jpg"
     },
     {
       "id": "sample-0104",
@@ -1587,7 +1690,8 @@
       "image_url": "./assets/materials/shotaijo_m25_enyukai_futo.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m25_enyukai_futo.jpg"
     },
     {
       "id": "sample-0105",
@@ -1599,7 +1703,8 @@
       "image_url": "./assets/materials/photo_sadataka.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/photo_sadataka.jpg"
     },
     {
       "id": "sample-0106",
@@ -1611,7 +1716,8 @@
       "image_url": "./assets/materials/photo_sadataka_okugata.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/photo_sadataka_okugata.jpg"
     },
     {
       "id": "sample-0107",
@@ -1623,7 +1729,8 @@
       "image_url": "./assets/materials/photo_okugata_copy.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/photo_okugata_copy.jpg"
     },
     {
       "id": "sample-0108",
@@ -1635,7 +1742,8 @@
       "image_url": "./assets/materials/photo_okuma_copy.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/photo_okuma_copy.jpg"
     },
     {
       "id": "sample-0109",
@@ -1647,7 +1755,8 @@
       "image_url": "./assets/materials/photo_group_sadataka.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/photo_group_sadataka.jpg"
     },
     {
       "id": "sample-0110",
@@ -1659,7 +1768,8 @@
       "image_url": "./assets/materials/photo_saga_grave.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/photo_saga_grave.jpg"
     },
     {
       "id": "sample-0111",
@@ -1671,7 +1781,8 @@
       "image_url": "./assets/materials/photo_korinji_grave.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/photo_korinji_grave.jpg"
     },
     {
       "id": "sample-0112",
@@ -1683,7 +1794,8 @@
       "image_url": "./assets/materials/komonjo_itadakimono_shirochirimen.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/komonjo_itadakimono_shirochirimen.jpg"
     },
     {
       "id": "sample-0113",
@@ -1695,7 +1807,8 @@
       "image_url": "./assets/materials/komonjo_kunsho_kokoroe.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/komonjo_kunsho_kokoroe.jpg"
     },
     {
       "id": "sample-0114",
@@ -1711,7 +1824,8 @@
       "image_url": "./assets/materials/shotaijo_m20_tenchosetsu.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m20_tenchosetsu.jpg"
     },
     {
       "id": "sample-0115",
@@ -1727,7 +1841,8 @@
       "image_url": "./assets/materials/shotaijo_m17_gohaishoku.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m17_gohaishoku.jpg"
     },
     {
       "id": "sample-0116",
@@ -1743,7 +1858,8 @@
       "image_url": "./assets/materials/shotaijo_m19_kigensetsu.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m19_kigensetsu.jpg"
     },
     {
       "id": "sample-0117",
@@ -1759,7 +1875,8 @@
       "image_url": "./assets/materials/jirei_m4_yamagata.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_m4_yamagata.jpg"
     },
     {
       "id": "sample-0118",
@@ -1775,7 +1892,8 @@
       "image_url": "./assets/materials/jirei_m5_yamagata_mie.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_m5_yamagata_mie.jpg"
     },
     {
       "id": "sample-0119",
@@ -1791,7 +1909,8 @@
       "image_url": "./assets/materials/jirei_m6_mie_gonrei.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_m6_mie_gonrei.jpg"
     },
     {
       "id": "sample-0120",
@@ -1807,7 +1926,8 @@
       "image_url": "./assets/materials/jirei_m8_kennin_goto.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_m8_kennin_goto.jpg"
     },
     {
       "id": "sample-0121",
@@ -1823,7 +1943,8 @@
       "image_url": "./assets/materials/jirei_m8_1209.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_m8_1209.jpg"
     },
     {
       "id": "sample-0122",
@@ -1839,7 +1960,8 @@
       "image_url": "./assets/materials/jirei_m9_0117.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_m9_0117.jpg"
     },
     {
       "id": "sample-0123",
@@ -1855,7 +1977,8 @@
       "image_url": "./assets/materials/jokun_m9_0125.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/jokun_m9_0125.jpg"
     },
     {
       "id": "sample-0124",
@@ -1871,7 +1994,8 @@
       "image_url": "./assets/materials/jirei_m12_kyuryo_up.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_m12_kyuryo_up.jpg"
     },
     {
       "id": "sample-0125",
@@ -1887,7 +2011,8 @@
       "image_url": "./assets/materials/jirei_m15_yuki_jinja.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_m15_yuki_jinja.jpg"
     },
     {
       "id": "sample-0126",
@@ -1903,7 +2028,8 @@
       "image_url": "./assets/materials/jirei_m15_miekenrei.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_m15_miekenrei.jpg"
     },
     {
       "id": "sample-0127",
@@ -1919,7 +2045,8 @@
       "image_url": "./assets/materials/jokun_m16_shogo.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/jokun_m16_shogo.jpg"
     },
     {
       "id": "sample-0128",
@@ -1935,7 +2062,8 @@
       "image_url": "./assets/materials/jirei_m17_genroin.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_m17_genroin.jpg"
     },
     {
       "id": "sample-0129",
@@ -1947,7 +2075,8 @@
       "image_url": "./assets/materials/jirei_jimu_hikitsugi.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_jimu_hikitsugi.jpg"
     },
     {
       "id": "sample-0130",
@@ -1963,7 +2092,8 @@
       "image_url": "./assets/materials/jokun_m17_0830.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/jokun_m17_0830.jpg"
     },
     {
       "id": "sample-0131",
@@ -1979,7 +2109,8 @@
       "image_url": "./assets/materials/jirei_m24_kizokuin.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_m24_kizokuin.jpg"
     },
     {
       "id": "sample-0132",
@@ -1995,7 +2126,8 @@
       "image_url": "./assets/materials/jirei_m24_menshoku.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_m24_menshoku.jpg"
     },
     {
       "id": "sample-0133",
@@ -2011,7 +2143,8 @@
       "image_url": "./assets/materials/jirei_m27_0521.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_m27_0521.jpg"
     },
     {
       "id": "sample-0134",
@@ -2027,7 +2160,8 @@
       "image_url": "./assets/materials/kifu_m10_gakko.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/kifu_m10_gakko.jpg"
     },
     {
       "id": "sample-0135",
@@ -2043,7 +2177,8 @@
       "image_url": "./assets/materials/kifu_m13_gakko.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/kifu_m13_gakko.jpg"
     },
     {
       "id": "sample-0136",
@@ -2059,7 +2194,8 @@
       "image_url": "./assets/materials/kifu_m13_korori.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/kifu_m13_korori.jpg"
     },
     {
       "id": "sample-0137",
@@ -2075,7 +2211,8 @@
       "image_url": "./assets/materials/hosho_m14_chiso.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_m14_chiso.jpg"
     },
     {
       "id": "sample-0138",
@@ -2091,7 +2228,8 @@
       "image_url": "./assets/materials/kifu_m14_shikka.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/kifu_m14_shikka.jpg"
     },
     {
       "id": "sample-0139",
@@ -2107,7 +2245,8 @@
       "image_url": "./assets/materials/kifu_m15_gakko.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/kifu_m15_gakko.jpg"
     },
     {
       "id": "sample-0140",
@@ -2123,7 +2262,8 @@
       "image_url": "./assets/materials/jokun_m19_1020.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/jokun_m19_1020.jpg"
     },
     {
       "id": "sample-0141",
@@ -2139,7 +2279,8 @@
       "image_url": "./assets/materials/komonjo_m22_sekijujisha.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/komonjo_m22_sekijujisha.jpg"
     },
     {
       "id": "sample-0142",
@@ -2155,7 +2296,8 @@
       "image_url": "./assets/materials/hosho_m23_1021.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-25"
+      "last_edited_time": "2026-01-25",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_m23_1021.jpg"
     },
     {
       "id": "sample-0143",
@@ -2167,7 +2309,8 @@
       "image_url": "./assets/materials/shotaijo_bugaku_mokuroku.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_bugaku_mokuroku.jpg"
     },
     {
       "id": "sample-0144",
@@ -2183,7 +2326,8 @@
       "image_url": "./assets/materials/shotaijo_m27_bugaku.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m27_bugaku.jpg"
     },
     {
       "id": "sample-0145",
@@ -2199,7 +2343,8 @@
       "image_url": "./assets/materials/shotaijo_m24_kigensetsu_genroin.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m24_kigensetsu_genroin.jpg"
     },
     {
       "id": "sample-0146",
@@ -2215,7 +2360,8 @@
       "image_url": "./assets/materials/hosho_m23_hakurankai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_m23_hakurankai.jpg"
     },
     {
       "id": "sample-0147",
@@ -2231,7 +2377,8 @@
       "image_url": "./assets/materials/shotaijo_m29_tenchosetsu_02.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m29_tenchosetsu_02.jpg"
     },
     {
       "id": "sample-0148",
@@ -2247,7 +2394,8 @@
       "image_url": "./assets/materials/shotaijo_m19_shinnen.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m19_shinnen.jpg"
     },
     {
       "id": "sample-0149",
@@ -2263,7 +2411,8 @@
       "image_url": "./assets/materials/shotaijo_m28_tenchosetsu.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m28_tenchosetsu.jpg"
     },
     {
       "id": "sample-0150",
@@ -2279,7 +2428,8 @@
       "image_url": "./assets/materials/shotaijo_m18_shinnen.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m18_shinnen.jpg"
     },
     {
       "id": "sample-0151",
@@ -2295,7 +2445,8 @@
       "image_url": "./assets/materials/shotaijo_m27_kigensetsu.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m27_kigensetsu.jpg"
     },
     {
       "id": "sample-0152",
@@ -2311,7 +2462,8 @@
       "image_url": "./assets/materials/menu_m31_gosan.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/menu_m31_gosan.jpg"
     },
     {
       "id": "sample-0153",
@@ -2323,7 +2475,8 @@
       "image_url": "./assets/materials/shotaijo_m27_futo.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m27_futo.jpg"
     },
     {
       "id": "sample-0154",
@@ -2339,7 +2492,8 @@
       "image_url": "./assets/materials/shotaijo_m25_tenchosetsu.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m25_tenchosetsu.jpg"
     },
     {
       "id": "sample-0155",
@@ -2355,7 +2509,8 @@
       "image_url": "./assets/materials/shotaijo_m25_tenchosetsu_chui.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m25_tenchosetsu_chui.jpg"
     },
     {
       "id": "sample-0156",
@@ -2371,7 +2526,8 @@
       "image_url": "./assets/materials/shotaijo_m22_tenchosetsu.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m22_tenchosetsu.jpg"
     },
     {
       "id": "sample-0157",
@@ -2387,7 +2543,8 @@
       "image_url": "./assets/materials/shotaijo_m22_shinnen.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m22_shinnen.jpg"
     },
     {
       "id": "sample-0158",
@@ -2403,7 +2560,8 @@
       "image_url": "./assets/materials/shotaijo_m21_tenchosetsu.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m21_tenchosetsu.jpg"
     },
     {
       "id": "sample-0159",
@@ -2419,7 +2577,8 @@
       "image_url": "./assets/materials/shotaijo_m23_kigensetsu.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m23_kigensetsu.jpg"
     },
     {
       "id": "sample-0160",
@@ -2435,7 +2594,8 @@
       "image_url": "./assets/materials/shotaijo_m25_futo_01.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m25_futo_01.jpg"
     },
     {
       "id": "sample-0161",
@@ -2451,7 +2611,8 @@
       "image_url": "./assets/materials/shotaijo_m25_kankikukai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m25_kankikukai.jpg"
     },
     {
       "id": "sample-0162",
@@ -2463,7 +2624,8 @@
       "image_url": "./assets/materials/bugaku_mokuroku_yamatogoto.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/bugaku_mokuroku_yamatogoto.jpg"
     },
     {
       "id": "sample-0163",
@@ -2479,7 +2641,8 @@
       "image_url": "./assets/materials/shotaijo_m25_kankikukai_chui.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m25_kankikukai_chui.jpg"
     },
     {
       "id": "sample-0164",
@@ -2495,7 +2658,8 @@
       "image_url": "./assets/materials/shotaijo_m21_kanoukai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m21_kanoukai.jpg"
     },
     {
       "id": "sample-0165",
@@ -2511,7 +2675,8 @@
       "image_url": "./assets/materials/shotaijo_m21_kanoukai_chui.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m21_kanoukai_chui.jpg"
     },
     {
       "id": "sample-0166",
@@ -2527,7 +2692,8 @@
       "image_url": "./assets/materials/shotaijo_m27_kanoukai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m27_kanoukai.jpg"
     },
     {
       "id": "sample-0167",
@@ -2543,7 +2709,8 @@
       "image_url": "./assets/materials/shotaijo_m27_kanoukai_futo.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m27_kanoukai_futo.jpg"
     },
     {
       "id": "sample-0168",
@@ -2559,7 +2726,8 @@
       "image_url": "./assets/materials/shotaijo_m19_kanoukai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m19_kanoukai.jpg"
     },
     {
       "id": "sample-0169",
@@ -2575,7 +2743,8 @@
       "image_url": "./assets/materials/shotaijo_m19_kanoukai_chui.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m19_kanoukai_chui.jpg"
     },
     {
       "id": "sample-0170",
@@ -2591,7 +2760,8 @@
       "image_url": "./assets/materials/shotaijo_m26_kankikukai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m26_kankikukai.jpg"
     },
     {
       "id": "sample-0171",
@@ -2607,7 +2777,8 @@
       "image_url": "./assets/materials/shotaijo_m26_kankikukai_futo.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m26_kankikukai_futo.jpg"
     },
     {
       "id": "sample-0172",
@@ -2623,7 +2794,8 @@
       "image_url": "./assets/materials/shotaijo_m26_kankikukai_chui.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_m26_kankikukai_chui.jpg"
     },
     {
       "id": "sample-0173",
@@ -2639,7 +2811,8 @@
       "image_url": "./assets/materials/menu_m14_kigensetsu.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/menu_m14_kigensetsu.jpg"
     },
     {
       "id": "sample-0174",
@@ -2655,7 +2828,8 @@
       "image_url": "./assets/materials/menu_m14_kigensetsu_fr.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/menu_m14_kigensetsu_fr.jpg"
     },
     {
       "id": "sample-0175",
@@ -2671,7 +2845,8 @@
       "image_url": "./assets/materials/hosho_hakurankai_kokoroe.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_hakurankai_kokoroe.jpg"
     },
     {
       "id": "sample-0176",
@@ -2687,7 +2862,8 @@
       "image_url": "./assets/materials/hosho_hakurankai_ryakuzu.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-01-31"
+      "last_edited_time": "2026-01-31",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_hakurankai_ryakuzu.jpg"
     },
     {
       "id": "sample-0177",
@@ -2703,7 +2879,8 @@
       "image_url": "./assets/materials/hosho_m23_hakurankai_shikishidai.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-07"
+      "last_edited_time": "2026-02-07",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_m23_hakurankai_shikishidai.jpg"
     },
     {
       "id": "sample-0178",
@@ -2719,7 +2896,8 @@
       "image_url": "./assets/materials/hosho_m21_23_kokoroe_booklet_cover.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-07"
+      "last_edited_time": "2026-02-07",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_m21_23_kokoroe_booklet_cover.jpg"
     },
     {
       "id": "sample-0179",
@@ -2735,7 +2913,8 @@
       "image_url": "./assets/materials/hosho_m21_23_kokoroe_book_cover.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-07"
+      "last_edited_time": "2026-02-07",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_m21_23_kokoroe_book_cover.jpg"
     },
     {
       "id": "sample-0180",
@@ -2751,7 +2930,8 @@
       "image_url": "./assets/materials/hosho_m21_23_kokoroe_p01.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-07"
+      "last_edited_time": "2026-02-07",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_m21_23_kokoroe_p01.jpg"
     },
     {
       "id": "sample-0181",
@@ -2767,7 +2947,8 @@
       "image_url": "./assets/materials/hosho_m21_23_kokoroe_p02_03.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-07"
+      "last_edited_time": "2026-02-07",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_m21_23_kokoroe_p02_03.jpg"
     },
     {
       "id": "sample-0182",
@@ -2783,7 +2964,8 @@
       "image_url": "./assets/materials/hosho_m21_23_kokoroe_p04_05.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-07"
+      "last_edited_time": "2026-02-07",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_m21_23_kokoroe_p04_05.jpg"
     },
     {
       "id": "sample-0183",
@@ -2799,7 +2981,8 @@
       "image_url": "./assets/materials/hosho_m21_23_kokoroe_p06_07.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-07"
+      "last_edited_time": "2026-02-07",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_m21_23_kokoroe_p06_07.jpg"
     },
     {
       "id": "sample-0184",
@@ -2815,7 +2998,8 @@
       "image_url": "./assets/materials/hosho_m21_23_kokoroe_p08.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-07"
+      "last_edited_time": "2026-02-07",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_m21_23_kokoroe_p08.jpg"
     },
     {
       "id": "sample-0185",
@@ -2827,7 +3011,8 @@
       "image_url": "./assets/materials/futo_undated_mie.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-07"
+      "last_edited_time": "2026-02-07",
+      "thumbnail_url": "./assets/materials/thumbs/futo_undated_mie.jpg"
     },
     {
       "id": "sample-0186",
@@ -2843,7 +3028,8 @@
       "image_url": "./assets/materials/hosho_hakurankai_map_01.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-07"
+      "last_edited_time": "2026-02-07",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_hakurankai_map_01.jpg"
     },
     {
       "id": "sample-0187",
@@ -2859,7 +3045,8 @@
       "image_url": "./assets/materials/hosho_hakurankai_awardhall_02.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-07"
+      "last_edited_time": "2026-02-07",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_hakurankai_awardhall_02.jpg"
     },
     {
       "id": "sample-0188",
@@ -2875,7 +3062,8 @@
       "image_url": "./assets/materials/hosho_hakurankai_awardhall_01.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-07"
+      "last_edited_time": "2026-02-07",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_hakurankai_awardhall_01.jpg"
     },
     {
       "id": "sample-0189",
@@ -2891,7 +3079,8 @@
       "image_url": "./assets/materials/hosho_hakurankai_ryakuzu_02.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-07"
+      "last_edited_time": "2026-02-07",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_hakurankai_ryakuzu_02.jpg"
     },
     {
       "id": "sample-0190",
@@ -2907,7 +3096,8 @@
       "image_url": "./assets/materials/hosho_hakurankai_kokoroe_sanjoin.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-07"
+      "last_edited_time": "2026-02-07",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_hakurankai_kokoroe_sanjoin.jpg"
     },
     {
       "id": "sample-0191",
@@ -2923,7 +3113,8 @@
       "image_url": "./assets/materials/IMG_2026_02_12_09_05_09S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_12_09_05_09S.jpg"
     },
     {
       "id": "sample-0192",
@@ -2935,7 +3126,8 @@
       "image_url": "./assets/materials/IMG_2026_02_12_09_13_06S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_12_09_13_06S.jpg"
     },
     {
       "id": "sample-0193",
@@ -2947,7 +3139,8 @@
       "image_url": "./assets/materials/IMG_2026_02_12_09_15_28S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_12_09_15_28S.jpg"
     },
     {
       "id": "sample-0194",
@@ -2959,7 +3152,8 @@
       "image_url": "./assets/materials/IMG_2026_02_12_09_18_02S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_12_09_18_02S.jpg"
     },
     {
       "id": "sample-0195",
@@ -2971,7 +3165,8 @@
       "image_url": "./assets/materials/IMG_2026_02_12_09_21_12S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_12_09_21_12S.jpg"
     },
     {
       "id": "sample-0196",
@@ -2983,7 +3178,8 @@
       "image_url": "./assets/materials/IMG_2026_02_12_09_30_12S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_12_09_30_12S.jpg"
     },
     {
       "id": "sample-0197",
@@ -2995,7 +3191,8 @@
       "image_url": "./assets/materials/IMG_2026_02_12_09_34_25S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_12_09_34_25S.jpg"
     },
     {
       "id": "sample-0198",
@@ -3007,7 +3204,8 @@
       "image_url": "./assets/materials/IMG_2026_02_12_17_51_06S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_12_17_51_06S.jpg"
     },
     {
       "id": "sample-0199",
@@ -3023,7 +3221,8 @@
       "image_url": "./assets/materials/IMG_2026_02_12_19_51_32S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_12_19_51_32S.jpg"
     },
     {
       "id": "sample-0200",
@@ -3039,7 +3238,8 @@
       "image_url": "./assets/materials/IMG_2026_02_12_19_58_18S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_12_19_58_18S.jpg"
     },
     {
       "id": "sample-0201",
@@ -3051,7 +3251,8 @@
       "image_url": "./assets/materials/IMG_2026_02_12_20_07_24S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_12_20_07_24S.jpg"
     },
     {
       "id": "sample-0202",
@@ -3063,7 +3264,8 @@
       "image_url": "./assets/materials/IMG_2026_02_13_14_27_21S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_13_14_27_21S.jpg"
     },
     {
       "id": "sample-0203",
@@ -3075,7 +3277,8 @@
       "image_url": "./assets/materials/IMG_2026_02_13_14_32_03S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_13_14_32_03S.jpg"
     },
     {
       "id": "sample-0204",
@@ -3087,7 +3290,8 @@
       "image_url": "./assets/materials/IMG_2026_02_13_14_36_02S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_13_14_36_02S.jpg"
     },
     {
       "id": "sample-0205",
@@ -3099,7 +3303,8 @@
       "image_url": "./assets/materials/IMG_2026_02_13_14_40_31S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_13_14_40_31S.jpg"
     },
     {
       "id": "sample-0206",
@@ -3111,7 +3316,8 @@
       "image_url": "./assets/materials/IMG_2026_02_13_14_44_05S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_13_14_44_05S.jpg"
     },
     {
       "id": "sample-0207",
@@ -3127,7 +3333,8 @@
       "image_url": "./assets/materials/IMG_2026_02_13_14_52_08S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_13_14_52_08S.jpg"
     },
     {
       "id": "sample-0208",
@@ -3143,7 +3350,8 @@
       "image_url": "./assets/materials/IMG_2026_02_13_14_56_53S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_13_14_56_53S.jpg"
     },
     {
       "id": "sample-0209",
@@ -3159,7 +3367,8 @@
       "image_url": "./assets/materials/IMG_2026_02_13_15_00_48S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_13_15_00_48S.jpg"
     },
     {
       "id": "sample-0210",
@@ -3171,7 +3380,8 @@
       "image_url": "./assets/materials/IMG_2026_02_13_15_05_09S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_13_15_05_09S.jpg"
     },
     {
       "id": "sample-0211",
@@ -3183,7 +3393,8 @@
       "image_url": "./assets/materials/IMG_2026_02_13_15_08_29S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_13_15_08_29S.jpg"
     },
     {
       "id": "sample-0212",
@@ -3195,7 +3406,8 @@
       "image_url": "./assets/materials/IMG_2026_02_13_15_11_29S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_13_15_11_29S.jpg"
     },
     {
       "id": "sample-0213",
@@ -3211,7 +3423,8 @@
       "image_url": "./assets/materials/IMG_2026_02_13_15_13_57S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_13_15_13_57S.jpg"
     },
     {
       "id": "sample-0214",
@@ -3227,7 +3440,8 @@
       "image_url": "./assets/materials/IMG_2026_02_13_15_26_51S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_13_15_26_51S.jpg"
     },
     {
       "id": "sample-0215",
@@ -3243,7 +3457,8 @@
       "image_url": "./assets/materials/IMG_2026_02_13_15_29_55S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_13_15_29_55S.jpg"
     },
     {
       "id": "sample-0216",
@@ -3259,7 +3474,8 @@
       "image_url": "./assets/materials/IMG_2026_02_13_15_32_09S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_13_15_32_09S.jpg"
     },
     {
       "id": "sample-0217",
@@ -3271,7 +3487,8 @@
       "image_url": "./assets/materials/IMG_2026_02_14_09_19_55S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_14_09_19_55S.jpg"
     },
     {
       "id": "sample-0218",
@@ -3283,7 +3500,8 @@
       "image_url": "./assets/materials/IMG_2026_02_14_09_30_18S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_14_09_30_18S.jpg"
     },
     {
       "id": "sample-0219",
@@ -3295,7 +3513,8 @@
       "image_url": "./assets/materials/IMG_2026_02_14_09_32_14S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_14_09_32_14S.jpg"
     },
     {
       "id": "sample-0220",
@@ -3307,7 +3526,8 @@
       "image_url": "./assets/materials/IMG_2026_02_14_09_35_45S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_14_09_35_45S.jpg"
     },
     {
       "id": "sample-0221",
@@ -3319,7 +3539,8 @@
       "image_url": "./assets/materials/IMG_2026_02_14_09_39_01S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_14_09_39_01S.jpg"
     },
     {
       "id": "sample-0222",
@@ -3331,7 +3552,8 @@
       "image_url": "./assets/materials/IMG_2026_02_14_09_41_13S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_14_09_41_13S.jpg"
     },
     {
       "id": "sample-0223",
@@ -3347,7 +3569,8 @@
       "image_url": "./assets/materials/IMG_2026_02_14_09_43_44S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_14_09_43_44S.jpg"
     },
     {
       "id": "sample-0224",
@@ -3363,7 +3586,8 @@
       "image_url": "./assets/materials/IMG_2026_02_14_09_46_28S.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-14"
+      "last_edited_time": "2026-02-14",
+      "thumbnail_url": "./assets/materials/thumbs/IMG_2026_02_14_09_46_28S.jpg"
     },
     {
       "id": "sample-0225",
@@ -3375,7 +3599,8 @@
       "image_url": "./assets/materials/sample-0225.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0225.jpg"
     },
     {
       "id": "sample-0226",
@@ -3387,7 +3612,8 @@
       "image_url": "./assets/materials/sample-0226.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0226.jpg"
     },
     {
       "id": "sample-0227",
@@ -3399,7 +3625,8 @@
       "image_url": "./assets/materials/sample-0227.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0227.jpg"
     },
     {
       "id": "sample-0228",
@@ -3411,7 +3638,8 @@
       "image_url": "./assets/materials/sample-0228.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0228.jpg"
     },
     {
       "id": "sample-0229",
@@ -3423,7 +3651,8 @@
       "image_url": "./assets/materials/sample-0229.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0229.jpg"
     },
     {
       "id": "sample-0230",
@@ -3435,7 +3664,8 @@
       "image_url": "./assets/materials/sample-0230.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0230.jpg"
     },
     {
       "id": "sample-0231",
@@ -3447,7 +3677,8 @@
       "image_url": "./assets/materials/sample-0231.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0231.jpg"
     },
     {
       "id": "sample-0232",
@@ -3459,7 +3690,8 @@
       "image_url": "./assets/materials/sample-0232.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0232.jpg"
     },
     {
       "id": "sample-0233",
@@ -3471,7 +3703,8 @@
       "image_url": "./assets/materials/sample-0233.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0233.jpg"
     },
     {
       "id": "sample-0234",
@@ -3483,7 +3716,8 @@
       "image_url": "./assets/materials/sample-0234.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0234.jpg"
     },
     {
       "id": "sample-0235",
@@ -3495,7 +3729,8 @@
       "image_url": "./assets/materials/sample-0235.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0235.jpg"
     },
     {
       "id": "sample-0236",
@@ -3507,7 +3742,8 @@
       "image_url": "./assets/materials/sample-0236.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0236.jpg"
     },
     {
       "id": "sample-0237",
@@ -3519,7 +3755,8 @@
       "image_url": "./assets/materials/sample-0237.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0237.jpg"
     },
     {
       "id": "sample-0238",
@@ -3531,7 +3768,8 @@
       "image_url": "./assets/materials/sample-0238.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0238.jpg"
     },
     {
       "id": "sample-0239",
@@ -3543,7 +3781,8 @@
       "image_url": "./assets/materials/sample-0239.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0239.jpg"
     },
     {
       "id": "sample-0240",
@@ -3555,7 +3794,8 @@
       "image_url": "./assets/materials/sample-0240.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0240.jpg"
     },
     {
       "id": "sample-0241",
@@ -3567,7 +3807,8 @@
       "image_url": "./assets/materials/sample-0241.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0241.jpg"
     },
     {
       "id": "sample-0242",
@@ -3579,7 +3820,8 @@
       "image_url": "./assets/materials/sample-0242.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0242.jpg"
     },
     {
       "id": "sample-0243",
@@ -3591,7 +3833,8 @@
       "image_url": "./assets/materials/sample-0243.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0243.jpg"
     },
     {
       "id": "sample-0244",
@@ -3603,7 +3846,8 @@
       "image_url": "./assets/materials/sample-0244.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0244.jpg"
     },
     {
       "id": "sample-0245",
@@ -3615,7 +3859,8 @@
       "image_url": "./assets/materials/sample-0245.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0245.jpg"
     },
     {
       "id": "sample-0246",
@@ -3627,7 +3872,8 @@
       "image_url": "./assets/materials/sample-0246.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0246.jpg"
     },
     {
       "id": "sample-0247",
@@ -3639,7 +3885,8 @@
       "image_url": "./assets/materials/sample-0247.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0247.jpg"
     },
     {
       "id": "sample-0248",
@@ -3651,7 +3898,8 @@
       "image_url": "./assets/materials/sample-0248.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0248.jpg"
     },
     {
       "id": "sample-0249",
@@ -3663,7 +3911,8 @@
       "image_url": "./assets/materials/sample-0249.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0249.jpg"
     },
     {
       "id": "sample-0250",
@@ -3675,7 +3924,8 @@
       "image_url": "./assets/materials/sample-0250.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0250.jpg"
     },
     {
       "id": "sample-0251",
@@ -3687,7 +3937,8 @@
       "image_url": "./assets/materials/sample-0251.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0251.jpg"
     },
     {
       "id": "sample-0252",
@@ -3699,7 +3950,8 @@
       "image_url": "./assets/materials/sample-0252.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0252.jpg"
     },
     {
       "id": "sample-0253",
@@ -3711,7 +3963,8 @@
       "image_url": "./assets/materials/sample-0253.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0253.jpg"
     },
     {
       "id": "sample-0254",
@@ -3723,7 +3976,8 @@
       "image_url": "./assets/materials/sample-0254.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0254.jpg"
     },
     {
       "id": "sample-0255",
@@ -3735,7 +3989,8 @@
       "image_url": "./assets/materials/sample-0255.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0255.jpg"
     },
     {
       "id": "sample-0256",
@@ -3747,7 +4002,8 @@
       "image_url": "./assets/materials/sample-0256.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0256.jpg"
     },
     {
       "id": "sample-0257",
@@ -3759,7 +4015,8 @@
       "image_url": "./assets/materials/sample-0257.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0257.jpg"
     },
     {
       "id": "sample-0258",
@@ -3771,7 +4028,8 @@
       "image_url": "./assets/materials/sample-0258.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0258.jpg"
     },
     {
       "id": "sample-0259",
@@ -3783,7 +4041,8 @@
       "image_url": "./assets/materials/sample-0259.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0259.jpg"
     },
     {
       "id": "sample-0260",
@@ -3795,7 +4054,8 @@
       "image_url": "./assets/materials/sample-0260.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0260.jpg"
     },
     {
       "id": "sample-0261",
@@ -3807,7 +4067,8 @@
       "image_url": "./assets/materials/sample-0261.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0261.jpg"
     },
     {
       "id": "sample-0262",
@@ -3819,7 +4080,8 @@
       "image_url": "./assets/materials/sample-0262.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0262.jpg"
     },
     {
       "id": "sample-0263",
@@ -3831,7 +4093,8 @@
       "image_url": "./assets/materials/sample-0263.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0263.jpg"
     },
     {
       "id": "sample-0264",
@@ -3843,7 +4106,8 @@
       "image_url": "./assets/materials/sample-0264.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0264.jpg"
     },
     {
       "id": "sample-0265",
@@ -3855,7 +4119,8 @@
       "image_url": "./assets/materials/sample-0265.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0265.jpg"
     },
     {
       "id": "sample-0266",
@@ -3867,7 +4132,8 @@
       "image_url": "./assets/materials/sample-0266.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0266.jpg"
     },
     {
       "id": "sample-0267",
@@ -3879,7 +4145,8 @@
       "image_url": "./assets/materials/sample-0267.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0267.jpg"
     },
     {
       "id": "sample-0268",
@@ -3891,7 +4158,8 @@
       "image_url": "./assets/materials/sample-0268.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0268.jpg"
     },
     {
       "id": "sample-0269",
@@ -3903,7 +4171,8 @@
       "image_url": "./assets/materials/sample-0269.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0269.jpg"
     },
     {
       "id": "sample-0270",
@@ -3915,7 +4184,8 @@
       "image_url": "./assets/materials/sample-0270.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0270.jpg"
     },
     {
       "id": "sample-0271",
@@ -3927,7 +4197,8 @@
       "image_url": "./assets/materials/sample-0271.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0271.jpg"
     },
     {
       "id": "sample-0272",
@@ -3939,7 +4210,8 @@
       "image_url": "./assets/materials/sample-0272.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0272.jpg"
     },
     {
       "id": "sample-0273",
@@ -3951,7 +4223,8 @@
       "image_url": "./assets/materials/sample-0273.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0273.jpg"
     },
     {
       "id": "sample-0274",
@@ -3963,7 +4236,8 @@
       "image_url": "./assets/materials/sample-0274.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0274.jpg"
     },
     {
       "id": "sample-0275",
@@ -3975,7 +4249,8 @@
       "image_url": "./assets/materials/sample-0275.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0275.jpg"
     },
     {
       "id": "sample-0276",
@@ -3987,7 +4262,8 @@
       "image_url": "./assets/materials/sample-0276.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-02-24"
+      "last_edited_time": "2026-02-24",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0276.jpg"
     },
     {
       "id": "sample-0277",
@@ -3999,7 +4275,8 @@
       "image_url": "./assets/materials/sample-0277.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-02"
+      "last_edited_time": "2026-03-02",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0277.jpg"
     },
     {
       "id": "sample-0278",
@@ -4011,7 +4288,8 @@
       "image_url": "./assets/materials/sample-0278.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-02"
+      "last_edited_time": "2026-03-02",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0278.jpg"
     },
     {
       "id": "sample-0279",
@@ -4023,7 +4301,8 @@
       "image_url": "./assets/materials/sample-0279.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-02"
+      "last_edited_time": "2026-03-02",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0279.jpg"
     },
     {
       "id": "sample-0280",
@@ -4039,7 +4318,8 @@
       "image_url": "./assets/materials/sample-0280.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-02"
+      "last_edited_time": "2026-03-02",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0280.jpg"
     },
     {
       "id": "sample-0281",
@@ -4051,7 +4331,8 @@
       "image_url": "./assets/materials/sample-0281.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-02"
+      "last_edited_time": "2026-03-02",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0281.jpg"
     },
     {
       "id": "sample-0282",
@@ -4063,7 +4344,8 @@
       "image_url": "./assets/materials/sample-0282.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-02"
+      "last_edited_time": "2026-03-02",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0282.jpg"
     },
     {
       "id": "sample-0283",
@@ -4079,7 +4361,8 @@
       "image_url": "./assets/materials/sample-0283.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-02"
+      "last_edited_time": "2026-03-02",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0283.jpg"
     },
     {
       "id": "sample-0284",
@@ -4095,7 +4378,8 @@
       "image_url": "./assets/materials/sample-0284.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-02"
+      "last_edited_time": "2026-03-02",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0284.jpg"
     },
     {
       "id": "sample-0285",
@@ -4107,7 +4391,8 @@
       "image_url": "./assets/materials/sample-0285.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-02"
+      "last_edited_time": "2026-03-02",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0285.jpg"
     },
     {
       "id": "sample-0286",
@@ -4119,7 +4404,8 @@
       "image_url": "./assets/materials/sample-0286.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-02"
+      "last_edited_time": "2026-03-02",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0286.jpg"
     },
     {
       "id": "sample-0287",
@@ -4135,7 +4421,8 @@
       "image_url": "./assets/materials/sample-0287.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-02"
+      "last_edited_time": "2026-03-02",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0287.jpg"
     },
     {
       "id": "sample-0288",
@@ -4151,7 +4438,8 @@
       "image_url": "./assets/materials/sample-0288.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-03"
+      "last_edited_time": "2026-03-03",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0288.jpg"
     },
     {
       "id": "sample-0289",
@@ -4167,7 +4455,8 @@
       "image_url": "./assets/materials/sample-0289.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-03"
+      "last_edited_time": "2026-03-03",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0289.jpg"
     },
     {
       "id": "sample-0290",
@@ -4179,7 +4468,8 @@
       "image_url": "./assets/materials/sample-0290.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0290.jpg"
     },
     {
       "id": "sample-0291",
@@ -4191,7 +4481,8 @@
       "image_url": "./assets/materials/sample-0291.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0291.jpg"
     },
     {
       "id": "sample-0292",
@@ -4203,7 +4494,8 @@
       "image_url": "./assets/materials/sample-0292.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0292.jpg"
     },
     {
       "id": "sample-0293",
@@ -4215,7 +4507,8 @@
       "image_url": "./assets/materials/sample-0293.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0293.jpg"
     },
     {
       "id": "sample-0294",
@@ -4227,7 +4520,8 @@
       "image_url": "./assets/materials/sample-0294.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0294.jpg"
     },
     {
       "id": "sample-0295",
@@ -4239,7 +4533,8 @@
       "image_url": "./assets/materials/sample-0295.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0295.jpg"
     },
     {
       "id": "sample-0296",
@@ -4251,7 +4546,8 @@
       "image_url": "./assets/materials/sample-0296.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0296.jpg"
     },
     {
       "id": "sample-0297",
@@ -4263,7 +4559,8 @@
       "image_url": "./assets/materials/sample-0297.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0297.jpg"
     },
     {
       "id": "sample-0298",
@@ -4275,7 +4572,8 @@
       "image_url": "./assets/materials/sample-0298.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0298.jpg"
     },
     {
       "id": "sample-0299",
@@ -4287,7 +4585,8 @@
       "image_url": "./assets/materials/sample-0299.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0299.jpg"
     },
     {
       "id": "sample-0300",
@@ -4299,7 +4598,8 @@
       "image_url": "./assets/materials/sample-0300.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0300.jpg"
     },
     {
       "id": "sample-0301",
@@ -4311,7 +4611,8 @@
       "image_url": "./assets/materials/sample-0301.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0301.jpg"
     },
     {
       "id": "sample-0302",
@@ -4323,7 +4624,8 @@
       "image_url": "./assets/materials/sample-0302.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0302.jpg"
     },
     {
       "id": "sample-0303",
@@ -4335,7 +4637,8 @@
       "image_url": "./assets/materials/sample-0303.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0303.jpg"
     },
     {
       "id": "sample-0304",
@@ -4347,7 +4650,8 @@
       "image_url": "./assets/materials/sample-0304.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0304.jpg"
     },
     {
       "id": "sample-0305",
@@ -4359,7 +4663,8 @@
       "image_url": "./assets/materials/sample-0305.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0305.jpg"
     },
     {
       "id": "sample-0306",
@@ -4371,7 +4676,8 @@
       "image_url": "./assets/materials/sample-0306.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0306.jpg"
     },
     {
       "id": "sample-0307",
@@ -4383,7 +4689,8 @@
       "image_url": "./assets/materials/sample-0307.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0307.jpg"
     },
     {
       "id": "sample-0308",
@@ -4395,7 +4702,8 @@
       "image_url": "./assets/materials/sample-0308.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0308.jpg"
     },
     {
       "id": "sample-0309",
@@ -4407,7 +4715,8 @@
       "image_url": "./assets/materials/sample-0309.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0309.jpg"
     },
     {
       "id": "sample-0310",
@@ -4419,7 +4728,8 @@
       "image_url": "./assets/materials/sample-0310.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0310.jpg"
     },
     {
       "id": "sample-0311",
@@ -4431,7 +4741,8 @@
       "image_url": "./assets/materials/sample-0311.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0311.jpg"
     },
     {
       "id": "sample-0312",
@@ -4443,7 +4754,8 @@
       "image_url": "./assets/materials/sample-0312.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0312.jpg"
     },
     {
       "id": "sample-0313",
@@ -4455,7 +4767,8 @@
       "image_url": "./assets/materials/sample-0313.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0313.jpg"
     },
     {
       "id": "sample-0314",
@@ -4467,7 +4780,8 @@
       "image_url": "./assets/materials/sample-0314.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0314.jpg"
     },
     {
       "id": "sample-0315",
@@ -4479,7 +4793,8 @@
       "image_url": "./assets/materials/sample-0315.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0315.jpg"
     },
     {
       "id": "sample-0316",
@@ -4491,7 +4806,8 @@
       "image_url": "./assets/materials/sample-0316.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0316.jpg"
     },
     {
       "id": "sample-0317",
@@ -4503,7 +4819,8 @@
       "image_url": "./assets/materials/sample-0317.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0317.jpg"
     },
     {
       "id": "sample-0318",
@@ -4515,7 +4832,8 @@
       "image_url": "./assets/materials/sample-0318.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0318.jpg"
     },
     {
       "id": "sample-0319",
@@ -4527,7 +4845,8 @@
       "image_url": "./assets/materials/sample-0319.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0319.jpg"
     },
     {
       "id": "sample-0320",
@@ -4539,7 +4858,8 @@
       "image_url": "./assets/materials/sample-0320.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0320.jpg"
     },
     {
       "id": "sample-0321",
@@ -4551,7 +4871,8 @@
       "image_url": "./assets/materials/sample-0321.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0321.jpg"
     },
     {
       "id": "sample-0322",
@@ -4563,7 +4884,8 @@
       "image_url": "./assets/materials/sample-0322.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0322.jpg"
     },
     {
       "id": "sample-0323",
@@ -4575,7 +4897,8 @@
       "image_url": "./assets/materials/sample-0323.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0323.jpg"
     },
     {
       "id": "sample-0324",
@@ -4587,7 +4910,8 @@
       "image_url": "./assets/materials/sample-0324.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-13"
+      "last_edited_time": "2026-03-13",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0324.jpg"
     },
     {
       "id": "sample-0325",
@@ -4599,7 +4923,8 @@
       "image_url": "./assets/materials/sample-0325.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0325.jpg"
     },
     {
       "id": "sample-0326",
@@ -4611,7 +4936,8 @@
       "image_url": "./assets/materials/sample-0326.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0326.jpg"
     },
     {
       "id": "sample-0327",
@@ -4623,7 +4949,8 @@
       "image_url": "./assets/materials/sample-0327.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0327.jpg"
     },
     {
       "id": "sample-0328",
@@ -4635,7 +4962,8 @@
       "image_url": "./assets/materials/sample-0328.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0328.jpg"
     },
     {
       "id": "sample-0329",
@@ -4647,7 +4975,8 @@
       "image_url": "./assets/materials/sample-0329.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0329.jpg"
     },
     {
       "id": "sample-0330",
@@ -4659,7 +4988,8 @@
       "image_url": "./assets/materials/sample-0330.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0330.jpg"
     },
     {
       "id": "sample-0331",
@@ -4671,7 +5001,8 @@
       "image_url": "./assets/materials/sample-0331.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0331.jpg"
     },
     {
       "id": "sample-0332",
@@ -4683,7 +5014,8 @@
       "image_url": "./assets/materials/sample-0332.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0332.jpg"
     },
     {
       "id": "sample-0333",
@@ -4695,7 +5027,8 @@
       "image_url": "./assets/materials/sample-0333.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0333.jpg"
     },
     {
       "id": "sample-0334",
@@ -4707,7 +5040,8 @@
       "image_url": "./assets/materials/sample-0334.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0334.jpg"
     },
     {
       "id": "sample-0335",
@@ -4719,7 +5053,8 @@
       "image_url": "./assets/materials/sample-0335.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0335.jpg"
     },
     {
       "id": "sample-0336",
@@ -4731,7 +5066,8 @@
       "image_url": "./assets/materials/sample-0336.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0336.jpg"
     },
     {
       "id": "sample-0337",
@@ -4743,7 +5079,8 @@
       "image_url": "./assets/materials/sample-0337.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0337.jpg"
     },
     {
       "id": "sample-0338",
@@ -4755,7 +5092,8 @@
       "image_url": "./assets/materials/sample-0338.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0338.jpg"
     },
     {
       "id": "sample-0339",
@@ -4767,7 +5105,8 @@
       "image_url": "./assets/materials/sample-0339.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0339.jpg"
     },
     {
       "id": "sample-0340",
@@ -4779,7 +5118,8 @@
       "image_url": "./assets/materials/sample-0340.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0340.jpg"
     },
     {
       "id": "sample-0341",
@@ -4791,7 +5131,8 @@
       "image_url": "./assets/materials/sample-0341.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0341.jpg"
     },
     {
       "id": "sample-0342",
@@ -4803,7 +5144,8 @@
       "image_url": "./assets/materials/sample-0342.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0342.jpg"
     },
     {
       "id": "sample-0343",
@@ -4815,7 +5157,8 @@
       "image_url": "./assets/materials/sample-0343.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0343.jpg"
     },
     {
       "id": "sample-0344",
@@ -4827,7 +5170,8 @@
       "image_url": "./assets/materials/sample-0344.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0344.jpg"
     },
     {
       "id": "sample-0345",
@@ -4839,7 +5183,8 @@
       "image_url": "./assets/materials/sample-0345.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0345.jpg"
     },
     {
       "id": "sample-0346",
@@ -4851,7 +5196,8 @@
       "image_url": "./assets/materials/sample-0346.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0346.jpg"
     },
     {
       "id": "sample-0347",
@@ -4863,7 +5209,8 @@
       "image_url": "./assets/materials/sample-0347.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0347.jpg"
     },
     {
       "id": "sample-0348",
@@ -4875,7 +5222,8 @@
       "image_url": "./assets/materials/sample-0348.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0348.jpg"
     },
     {
       "id": "sample-0349",
@@ -4887,7 +5235,8 @@
       "image_url": "./assets/materials/sample-0349.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0349.jpg"
     },
     {
       "id": "sample-0350",
@@ -4899,7 +5248,8 @@
       "image_url": "./assets/materials/sample-0350.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0350.jpg"
     },
     {
       "id": "sample-0351",
@@ -4911,7 +5261,8 @@
       "image_url": "./assets/materials/sample-0351.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0351.jpg"
     },
     {
       "id": "sample-0352",
@@ -4923,7 +5274,8 @@
       "image_url": "./assets/materials/sample-0352.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0352.jpg"
     },
     {
       "id": "sample-0353",
@@ -4935,7 +5287,8 @@
       "image_url": "./assets/materials/sample-0353.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0353.jpg"
     },
     {
       "id": "sample-0354",
@@ -4947,7 +5300,8 @@
       "image_url": "./assets/materials/sample-0354.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0354.jpg"
     },
     {
       "id": "sample-0355",
@@ -4959,7 +5313,8 @@
       "image_url": "./assets/materials/sample-0355.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0355.jpg"
     },
     {
       "id": "sample-0356",
@@ -4971,7 +5326,8 @@
       "image_url": "./assets/materials/sample-0356.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0356.jpg"
     },
     {
       "id": "sample-0357",
@@ -4983,7 +5339,8 @@
       "image_url": "./assets/materials/sample-0357.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0357.jpg"
     },
     {
       "id": "sample-0358",
@@ -4995,7 +5352,8 @@
       "image_url": "./assets/materials/sample-0358.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0358.jpg"
     },
     {
       "id": "sample-0359",
@@ -5007,7 +5365,8 @@
       "image_url": "./assets/materials/sample-0359.jpg",
       "source_url": null,
       "properties": {},
-      "last_edited_time": "2026-03-17"
+      "last_edited_time": "2026-03-17",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0359.jpg"
     }
   ]
 }

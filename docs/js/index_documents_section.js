@@ -6,7 +6,7 @@ function cardHtml(doc) {
   const dateStr = formatDateRange(doc.date);
   const subtitle = dateStr ? dateStr : doc.description ? doc.description : "";
   const href = `./documents.html?id=${encodeURIComponent(doc.id || "")}`;
-  const imageUrl = doc.image_url;
+  const imageUrl = doc.thumbnail_url || doc.image_url;
 
   const thumb = imageUrl
     ? `<img src="${imageUrl}" alt="" class="doc-thumb" loading="lazy">`

@@ -34,9 +34,9 @@ function listItemHtml(doc, selectedId) {
   const category = doc.category || "未分類";
   const title = doc.title || "(無題)";
   const dateStr = formatDateRange(doc.date);
-  const imageUrl = doc.image_url;
-  const thumb = imageUrl
-    ? `<img src="${imageUrl}" alt="" class="doc-thumb doc-thumb--sm" loading="lazy">`
+  const thumbnailUrl = doc.thumbnail_url || doc.image_url;
+  const thumb = thumbnailUrl
+    ? `<img src="${thumbnailUrl}" alt="" class="doc-thumb doc-thumb--sm" loading="lazy">`
     : `<div class="doc-thumbPlaceholder doc-thumbPlaceholder--sm">No<br>Img</div>`;
 
   return `
