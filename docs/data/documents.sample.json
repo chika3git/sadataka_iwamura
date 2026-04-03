@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-28T02:56:47Z",
+  "generated_at": "2026-04-03T01:18:16Z",
   "source": {
     "type": "sample"
   },
-  "count": 457,
+  "count": 462,
   "documents": [
     {
       "id": "sample-0001",
@@ -6685,6 +6685,71 @@
       "source_url": null,
       "properties": {},
       "last_edited_time": "2026-03-28"
+    },
+    {
+      "id": "sample-0458",
+      "url": null,
+      "title": "葉隠より①　勝茂公が光茂公へ付けた家臣",
+      "category": "公文書",
+      "description": "『葉隠』の記述を撮影した資料。勝茂公が光茂公へ近侍として付けるべき人物として、岩村新右衛門ら三人を挙げている。",
+      "date": null,
+      "image_url": "./assets/materials/sample-0458.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0458.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-04-03"
+    },
+    {
+      "id": "sample-0459",
+      "url": null,
+      "title": "葉隠より②　岩村内蔵助の最期",
+      "category": "公文書",
+      "description": "『葉隠』の記述を撮影した資料。岩村内蔵助の最期に関する記述を収める。",
+      "date": null,
+      "image_url": "./assets/materials/sample-0459.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0459.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-04-03"
+    },
+    {
+      "id": "sample-0460",
+      "url": null,
+      "title": "葉隠より③　岩村内蔵助の末期",
+      "category": "公文書",
+      "description": "『葉隠』の記述を撮影した資料。岩村内蔵助の末期について伝える記述を収める。",
+      "date": null,
+      "image_url": "./assets/materials/sample-0460.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0460.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-04-03"
+    },
+    {
+      "id": "sample-0461",
+      "url": null,
+      "title": "葉隠より④　岩村内蔵助と三極流・正三の仏法",
+      "category": "公文書",
+      "description": "『葉隠』の記述を撮影した資料。岩村内蔵助が伝えたとされる三極流と正三の仏法について説明している。",
+      "date": null,
+      "image_url": "./assets/materials/sample-0461.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0461.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-04-03"
+    },
+    {
+      "id": "sample-0462",
+      "url": null,
+      "title": "大隈重信墓所",
+      "category": "写真",
+      "description": "大隈重信の墓所を写した写真。銘板に岩村家関係者の名が見える。",
+      "date": null,
+      "image_url": "./assets/materials/sample-0462.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0462.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-04-03"
     }
   ]
 }
