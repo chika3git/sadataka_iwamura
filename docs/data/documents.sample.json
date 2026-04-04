@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-03T01:18:16Z",
+  "generated_at": "2026-04-04T18:02:46Z",
   "source": {
     "type": "sample"
   },
-  "count": 462,
+  "count": 463,
   "documents": [
     {
       "id": "sample-0001",
@@ -6750,6 +6750,19 @@
       "source_url": null,
       "properties": {},
       "last_edited_time": "2026-04-03"
+    },
+    {
+      "id": "sample-0463",
+      "url": null,
+      "title": "写真　大隈重信と関係者の集合写真",
+      "category": "写真",
+      "description": "大隈重信が中央に座る集合写真。後列右から二人目に岩村理一郎が写ると伝わる。",
+      "date": null,
+      "image_url": "./assets/materials/sample-0463.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/sample-0463.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-04-05"
     }
   ]
 }
