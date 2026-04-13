@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-12T18:05:02Z",
+  "generated_at": "2026-04-13T18:05:01Z",
   "source": {
     "type": "sample"
   },
-  "count": 477,
+  "count": 484,
   "documents": [
     {
       "id": "sample-0001",
@@ -6945,6 +6945,117 @@
       "source_url": null,
       "properties": {},
       "last_edited_time": "2026-04-13"
+    },
+    {
+      "id": "sample-0478",
+      "url": null,
+      "title": "葉書　昭和二十一年五月四日　岩村定雄から父泰雄宛",
+      "category": "書簡",
+      "description": "復員船での検疫停留中に岩村定雄が父の泰雄へ送った葉書。浦賀を目前にしながら上陸できない焦燥と家族の安否を気遣う内容が記されている。",
+      "date": {
+        "start": "1946-05-04",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hagaki_s21_0504_teio_to_yasuo.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null,
+      "thumbnail_url": "./assets/materials/thumbs/hagaki_s21_0504_teio_to_yasuo.jpg"
+    },
+    {
+      "id": "sample-0479",
+      "url": null,
+      "title": "葉書　昭和二十一年五月四日　復員船上の近況",
+      "category": "書簡",
+      "description": "復員船でコレラが発生し浦賀沖で待機する状況を伝える葉書。生還の報と帰宅を待つ心情が読み取れる。",
+      "date": {
+        "start": "1946-05-04",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hagaki_s21_0504_teio_repatriation_ship.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null,
+      "thumbnail_url": "./assets/materials/thumbs/hagaki_s21_0504_teio_repatriation_ship.jpg"
+    },
+    {
+      "id": "sample-0480",
+      "url": null,
+      "title": "葉書　昭和二十一年五月十一日　岩村定雄から父泰雄宛",
+      "category": "書簡",
+      "description": "昭和二十一年五月十一日付の葉書。復員船から父泰雄へ向けて送られた消息で、帰還直前の状況を伝える。",
+      "date": {
+        "start": "1946-05-11",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hagaki_s21_0511_teio_to_yasuo.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null,
+      "thumbnail_url": "./assets/materials/thumbs/hagaki_s21_0511_teio_to_yasuo.jpg"
+    },
+    {
+      "id": "sample-0481",
+      "url": null,
+      "title": "葉書　昭和二十一年五月十一日　復員船上の近況",
+      "category": "書簡",
+      "description": "復員船の再検査結果を待ちながら、家族の無事を案じつつ自身の健在を知らせた葉書。",
+      "date": {
+        "start": "1946-05-11",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hagaki_s21_0511_teio_repatriation_ship.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null,
+      "thumbnail_url": "./assets/materials/thumbs/hagaki_s21_0511_teio_repatriation_ship.jpg"
+    },
+    {
+      "id": "sample-0482",
+      "url": null,
+      "title": "葉書　昭和十九年二月　訓練地金沢から母菊子宛",
+      "category": "書簡",
+      "description": "学徒動員で招集されて間もない頃、訓練地の金沢から母菊子へ送った葉書。新しい環境で励む近況が綴られている。",
+      "date": null,
+      "image_url": "./assets/materials/hagaki_s19_02_teio_to_kikuko.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null,
+      "thumbnail_url": "./assets/materials/thumbs/hagaki_s19_02_teio_to_kikuko.jpg"
+    },
+    {
+      "id": "sample-0483",
+      "url": null,
+      "title": "葉書　昭和十九年十二月三日　金沢から幸子・信高宛",
+      "category": "書簡",
+      "description": "昭和十九年十二月三日付で、訓練地金沢から兄弟の幸子・信高へ送った葉書。",
+      "date": {
+        "start": "1944-12-03",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hagaki_s19_1203_teio_to_sachiko_nobutaka.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null,
+      "thumbnail_url": "./assets/materials/thumbs/hagaki_s19_1203_teio_to_sachiko_nobutaka.jpg"
+    },
+    {
+      "id": "sample-0484",
+      "url": null,
+      "title": "葉書　岩村定雄から幸子・信高宛",
+      "category": "書簡",
+      "description": "学徒動員で招集されて間もない時期に、岩村定雄が幸子・信高へ送った葉書。当時の生活の様子を伝える。",
+      "date": null,
+      "image_url": "./assets/materials/hagaki_s19_teio_to_sachiko_nobutaka_2.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null,
+      "thumbnail_url": "./assets/materials/thumbs/hagaki_s19_teio_to_sachiko_nobutaka_2.jpg"
     }
   ]
 }
