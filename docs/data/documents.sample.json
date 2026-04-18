@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-16T18:07:26Z",
+  "generated_at": "2026-04-18T18:03:48Z",
   "source": {
     "type": "sample"
   },
-  "count": 498,
+  "count": 500,
   "documents": [
     {
       "id": "sample-0001",
@@ -7235,6 +7235,36 @@
       "date": null,
       "image_url": "./assets/materials/genko_gakuto_senji_03.jpg",
       "thumbnail_url": "./assets/materials/thumbs/genko_gakuto_senji_03.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0499",
+      "url": null,
+      "title": "叙位　正八位　昭和二十年九月一日",
+      "category": "叙勲",
+      "description": "岩村定雄を正八位に叙した位記。宮内大臣石渡荘太郎名で昭和二十年九月一日付。",
+      "date": {
+        "start": "1945-09-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jokun_s20_0901_teio_shohachi.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/jokun_s20_0901_teio_shohachi.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0500",
+      "url": null,
+      "title": "位記封筒　岩村定雄正八位",
+      "category": "叙勲",
+      "description": "岩村定雄の正八位位記を納めた封筒。表面中央に「位記」と記されている。",
+      "date": null,
+      "image_url": "./assets/materials/jokun_s20_0901_teio_shohachi_futo.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/jokun_s20_0901_teio_shohachi_futo.jpg",
       "source_url": null,
       "properties": {},
       "last_edited_time": null
