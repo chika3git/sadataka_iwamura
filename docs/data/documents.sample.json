@@ -3,7 +3,7 @@
   "source": {
     "type": "sample"
   },
-  "count": 500,
+  "count": 502,
   "documents": [
     {
       "id": "sample-0001",
@@ -7265,6 +7265,32 @@
       "date": null,
       "image_url": "./assets/materials/jokun_s20_0901_teio_shohachi_futo.jpg",
       "thumbnail_url": "./assets/materials/thumbs/jokun_s20_0901_teio_shohachi_futo.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0501",
+      "url": null,
+      "title": "古文書現代語訳　『岩村家文書』解説・目次",
+      "category": "古文書",
+      "description": "『佐賀県資料集成 古文書編 第二十一巻』に収められた『岩村家文書』の解説と目次を撮影した資料。成富家譜との関係や収載文書の位置づけを説明している。",
+      "date": null,
+      "image_url": "./assets/materials/komonjo_gendaigoyaku_shusei21_mokuji.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/komonjo_gendaigoyaku_shusei21_mokuji.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0502",
+      "url": null,
+      "title": "古文書現代語訳　鍋島勝茂書状ほか",
+      "category": "古文書",
+      "description": "『佐賀県資料集成 古文書編 第二十一巻』の現代語訳頁。鍋島勝茂による知行宛行状や上申状など、岩村家関係文書四点の翻刻・解説を収める。",
+      "date": null,
+      "image_url": "./assets/materials/komonjo_gendaigoyaku_shusei21_nabeshima.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/komonjo_gendaigoyaku_shusei21_nabeshima.jpg",
       "source_url": null,
       "properties": {},
       "last_edited_time": null
