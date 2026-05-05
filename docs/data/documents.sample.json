@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-18T18:03:48Z",
+  "generated_at": "2026-05-05T18:03:27Z",
   "source": {
     "type": "sample"
   },
-  "count": 502,
+  "count": 511,
   "documents": [
     {
       "id": "sample-0001",
@@ -7291,6 +7291,139 @@
       "date": null,
       "image_url": "./assets/materials/komonjo_gendaigoyaku_shusei21_nabeshima.jpg",
       "thumbnail_url": "./assets/materials/thumbs/komonjo_gendaigoyaku_shusei21_nabeshima.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0503",
+      "url": null,
+      "title": "写真資料　朝日新聞社ロンドン上空飛行ほか",
+      "category": "写真",
+      "description": "朝日新聞社のロンドン上空飛行を含む写真資料。飛行機、群衆、人物肖像など複数の写真をまとめて撮影したもの。",
+      "date": null,
+      "image_url": "./assets/materials/photo_asahi_london_flight.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/photo_asahi_london_flight.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0504",
+      "url": null,
+      "title": "絵葉書　油壷①-④",
+      "category": "写真",
+      "description": "昭和六年七月十五日の油壷旅行に関する絵葉書四点をまとめて撮影した資料。",
+      "date": {
+        "start": "1931-07-15",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/ehagaki_aburatsubo_s06_01_04.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/ehagaki_aburatsubo_s06_01_04.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0505",
+      "url": null,
+      "title": "絵葉書　油壷⑤-⑧",
+      "category": "写真",
+      "description": "昭和六年七月十五日の油壷旅行に関する絵葉書の続き。五から八の写真葉書をまとめた資料。",
+      "date": {
+        "start": "1931-07-15",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/ehagaki_aburatsubo_s06_05_08.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/ehagaki_aburatsubo_s06_05_08.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0506",
+      "url": null,
+      "title": "絵葉書　油壷⑨-⑫",
+      "category": "写真",
+      "description": "昭和六年七月十五日の油壷旅行に関する絵葉書の続き。九から十二の写真葉書をまとめた資料。",
+      "date": {
+        "start": "1931-07-15",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/ehagaki_aburatsubo_s06_09_12.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/ehagaki_aburatsubo_s06_09_12.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0507",
+      "url": null,
+      "title": "絵葉書　油壷⑬-⑮",
+      "category": "写真",
+      "description": "昭和六年七月十五日の油壷旅行に関する絵葉書の続き。十三から十五の写真葉書をまとめた資料。",
+      "date": {
+        "start": "1931-07-15",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/ehagaki_aburatsubo_s06_13_15.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/ehagaki_aburatsubo_s06_13_15.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0508",
+      "url": null,
+      "title": "絵葉書　日光東照宮・神橋・奥日光湯元",
+      "category": "写真",
+      "description": "日光東照宮、神橋、奥日光湯元を写した絵葉書をまとめて撮影した資料。年代は未詳。",
+      "date": null,
+      "image_url": "./assets/materials/ehagaki_nikko_toshogu_shinkyo_yumoto.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/ehagaki_nikko_toshogu_shinkyo_yumoto.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0509",
+      "url": null,
+      "title": "絵葉書　名古屋",
+      "category": "写真",
+      "description": "名古屋に関する絵葉書をまとめて撮影した資料。年代は未詳。",
+      "date": null,
+      "image_url": "./assets/materials/ehagaki_nagoya.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/ehagaki_nagoya.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0510",
+      "url": null,
+      "title": "絵葉書　浅間山・日光",
+      "category": "写真",
+      "description": "軽井沢から見た浅間山、歌ヶ浜から望む男体山などの絵葉書をまとめて撮影した資料。名古屋観光協会の封筒に入っていたもの。",
+      "date": null,
+      "image_url": "./assets/materials/ehagaki_asamayama_nikko.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/ehagaki_asamayama_nikko.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0511",
+      "url": null,
+      "title": "絵葉書　名古屋観光協会封筒裏",
+      "category": "写真",
+      "description": "名古屋観光協会の封筒裏面を撮影した資料。絵葉書類に付随していた封筒とみられる。",
+      "date": null,
+      "image_url": "./assets/materials/ehagaki_nagoya_kanko_futo_ura.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/ehagaki_nagoya_kanko_futo_ura.jpg",
       "source_url": null,
       "properties": {},
       "last_edited_time": null
