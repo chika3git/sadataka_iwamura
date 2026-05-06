@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-05T18:03:27Z",
+  "generated_at": "2026-05-06T18:03:59Z",
   "source": {
     "type": "sample"
   },
-  "count": 511,
+  "count": 518,
   "documents": [
     {
       "id": "sample-0001",
@@ -7424,6 +7424,113 @@
       "date": null,
       "image_url": "./assets/materials/ehagaki_nagoya_kanko_futo_ura.jpg",
       "thumbnail_url": "./assets/materials/thumbs/ehagaki_nagoya_kanko_futo_ura.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0512",
+      "url": null,
+      "title": "絵葉書　大正天皇成婚記念",
+      "category": "写真",
+      "description": "大正天皇（当時皇太子）と貞明皇后の成婚を記念した絵葉書。",
+      "date": {
+        "start": "1900-05-10",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/ehagaki_taisho_tenno_seikon.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/ehagaki_taisho_tenno_seikon.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0513",
+      "url": null,
+      "title": "絵葉書　二重橋前記念絵葉書",
+      "category": "写真",
+      "description": "二重橋前の景観をあしらった記念絵葉書。",
+      "date": {
+        "start": "1921-09-03",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/ehagaki_nijubashi_mae_kinen.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/ehagaki_nijubashi_mae_kinen.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0514",
+      "url": null,
+      "title": "記念葉書　親王殿下御誕生記念",
+      "category": "写真",
+      "description": "親王殿下御誕生を記念した葉書。昭和八年十二月二十三日の記念印が押されている。",
+      "date": {
+        "start": "1933-12-23",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/ehagaki_shinno_gotansei_kinen.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/ehagaki_shinno_gotansei_kinen.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0515",
+      "url": null,
+      "title": "葉書　満洲国皇帝陛下御来訪記念",
+      "category": "写真",
+      "description": "満洲国皇帝陛下御来訪を記念した葉書。京橋郵便局東京市奉迎会場歌舞伎座内出張所の記念印がある。",
+      "date": {
+        "start": "1935-04-10",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hagaki_manshukoku_kotei_goraiho_s10.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/hagaki_manshukoku_kotei_goraiho_s10.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0516",
+      "url": null,
+      "title": "絵葉書　箱根",
+      "category": "写真",
+      "description": "箱根の名所を写した絵葉書と袋をまとめて撮影した資料。",
+      "date": null,
+      "image_url": "./assets/materials/ehagaki_hakone.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/ehagaki_hakone.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0517",
+      "url": null,
+      "title": "絵葉書　日光",
+      "category": "写真",
+      "description": "日光の名所を写した絵葉書をまとめて撮影した資料。",
+      "date": null,
+      "image_url": "./assets/materials/ehagaki_nikko_02.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/ehagaki_nikko_02.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0518",
+      "url": null,
+      "title": "絵葉書　富士・八幡神社ほか",
+      "category": "写真",
+      "description": "富士山、八幡神社、富田の松、長岡洞石林などを写した絵葉書をまとめて撮影した資料。",
+      "date": null,
+      "image_url": "./assets/materials/ehagaki_fuji_hachimangu_nagaoka.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/ehagaki_fuji_hachimangu_nagaoka.jpg",
       "source_url": null,
       "properties": {},
       "last_edited_time": null
