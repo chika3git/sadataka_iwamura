@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-06T18:03:59Z",
+  "generated_at": "2026-05-07T18:03:23Z",
   "source": {
     "type": "sample"
   },
-  "count": 518,
+  "count": 520,
   "documents": [
     {
       "id": "sample-0001",
@@ -7531,6 +7531,36 @@
       "date": null,
       "image_url": "./assets/materials/ehagaki_fuji_hachimangu_nagaoka.jpg",
       "thumbnail_url": "./assets/materials/thumbs/ehagaki_fuji_hachimangu_nagaoka.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0519",
+      "url": null,
+      "title": "明治天皇御成婚25年記念ボンボニエール",
+      "category": "写真",
+      "description": "明治天皇御成婚25年を記念した宮中晩餐会で受け取った銀製ボンボニエール。鶴と菊花をかたどった西洋式菓子器。",
+      "date": {
+        "start": "1894-01-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/bonbonniere_meiji_seikon25.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/bonbonniere_meiji_seikon25.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": null
+    },
+    {
+      "id": "sample-0520",
+      "url": null,
+      "title": "日本最古の銀製西洋式菓子器「ボンボニエール」に関する記事",
+      "category": "新聞",
+      "description": "明治天皇御成婚25年記念の宮中晩餐会で贈られた銀製ボンボニエールについて紹介する新聞記事。徳川昭武が受け取った同種資料に触れている。",
+      "date": null,
+      "image_url": "./assets/materials/shinbun_bonbonniere_meiji_seikon25.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/shinbun_bonbonniere_meiji_seikon25.jpg",
       "source_url": null,
       "properties": {},
       "last_edited_time": null
