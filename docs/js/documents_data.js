@@ -53,6 +53,12 @@ export function sortDocuments(docs) {
   };
 
   return [...docs].sort((a, b) => {
+    const aSeq = toSampleSeq(a.id);
+    const bSeq = toSampleSeq(b.id);
+    if (aSeq != null && bSeq != null && bSeq !== aSeq) {
+      return bSeq - aSeq;
+    }
+
     const aEdited = toEpoch(a.last_edited_time);
     const bEdited = toEpoch(b.last_edited_time);
     if (aEdited != null || bEdited != null) {
@@ -61,8 +67,6 @@ export function sortDocuments(docs) {
       if (bEdited !== aEdited) return bEdited - aEdited;
     }
 
-    const aSeq = toSampleSeq(a.id);
-    const bSeq = toSampleSeq(b.id);
     if (aSeq != null || bSeq != null) {
       if (aSeq == null) return 1;
       if (bSeq == null) return -1;
