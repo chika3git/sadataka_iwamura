@@ -3,7 +3,7 @@
   "source": {
     "type": "sample"
   },
-  "count": 520,
+  "count": 532,
   "documents": [
     {
       "id": "sample-0001",
@@ -7564,6 +7564,174 @@
       "source_url": null,
       "properties": {},
       "last_edited_time": "2026-05-08"
+    },
+    {
+      "id": "sample-0521",
+      "url": null,
+      "title": "叙勲関係文書　白紙雛形",
+      "category": "褒賞",
+      "description": "明治期の叙勲関係文書の白紙雛形。宛名や年月日を記入して用いる賞勲局関係の書式資料。",
+      "date": null,
+      "image_url": "./assets/materials/hosho_meiji_blank_01.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_meiji_blank_01.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-11"
+    },
+    {
+      "id": "sample-0522",
+      "url": null,
+      "title": "大日本帝国憲法発布記念章佩用様式",
+      "category": "褒賞",
+      "description": "大日本帝国憲法発布記念章の佩用方法を示した内閣賞勲局の様式。明治22年11月の記念章に関する資料。",
+      "date": {
+        "start": "1889-11-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hosho_kenpo_happu_kinenhai_haiyo_yoshiki_m22.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_kenpo_happu_kinenhai_haiyo_yoshiki_m22.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-11"
+    },
+    {
+      "id": "sample-0523",
+      "url": null,
+      "title": "大日本帝国憲法発布記念章届出心得",
+      "category": "褒賞",
+      "description": "大日本帝国憲法発布記念章を賜った者の届出心得を記した内閣賞勲局の文書。記念章受領後の手続を示す。",
+      "date": {
+        "start": "1889-11-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hosho_kenpo_happu_kinenhai_todokede_kokoroe_m22.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_kenpo_happu_kinenhai_todokede_kokoroe_m22.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-11"
+    },
+    {
+      "id": "sample-0524",
+      "url": null,
+      "title": "明治以降の佐賀藩家禄法",
+      "category": "古文書",
+      "description": "明治以降の佐賀藩における家禄支給の仕組みを整理した資料。明治9年までの家禄や、その後の請願運動に関する内容を含む。",
+      "date": null,
+      "image_url": "./assets/materials/komonjo_saga_han_karokuho.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/komonjo_saga_han_karokuho.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-11"
+    },
+    {
+      "id": "sample-0525",
+      "url": null,
+      "title": "叙勲者履歴届出心得",
+      "category": "褒賞",
+      "description": "叙勲者の履歴届出に関する心得を記した太政官賞勲局の文書。明治11年11月の叙勲手続に関わる資料。",
+      "date": {
+        "start": "1878-11-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hosho_jokunsha_rireki_todokede_kokoroe_m11.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_jokunsha_rireki_todokede_kokoroe_m11.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-11"
+    },
+    {
+      "id": "sample-0526",
+      "url": null,
+      "title": "大熊熊子から泰雄への手紙",
+      "category": "書簡",
+      "description": "大熊熊子から泰雄へ宛てた手紙。本文の詳細な時期や内容は未詳だが、近況や用件を伝える私信とみられる。",
+      "date": null,
+      "image_url": "./assets/materials/shokan_okuma_kumako_to_yasuo_01.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/shokan_okuma_kumako_to_yasuo_01.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-11"
+    },
+    {
+      "id": "sample-0527",
+      "url": null,
+      "title": "大熊熊子宛封筒",
+      "category": "書簡",
+      "description": "大熊熊子宛の封筒。関連する手紙とともに伝わった封筒資料。",
+      "date": null,
+      "image_url": "./assets/materials/shokan_okuma_kumako_envelope_01.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/shokan_okuma_kumako_envelope_01.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-11"
+    },
+    {
+      "id": "sample-0528",
+      "url": null,
+      "title": "大熊熊子よりの手紙　その1",
+      "category": "書簡",
+      "description": "大熊熊子より送られた手紙。内容や年代は未詳の書簡資料。",
+      "date": null,
+      "image_url": "./assets/materials/shokan_okuma_kumako_02.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/shokan_okuma_kumako_02.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-11"
+    },
+    {
+      "id": "sample-0529",
+      "url": null,
+      "title": "大熊熊子よりの手紙　その2",
+      "category": "書簡",
+      "description": "大熊熊子より送られた手紙。内容や年代は未詳の書簡資料。",
+      "date": null,
+      "image_url": "./assets/materials/shokan_okuma_kumako_03.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/shokan_okuma_kumako_03.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-11"
+    },
+    {
+      "id": "sample-0530",
+      "url": null,
+      "title": "大熊熊子宛封筒　その2",
+      "category": "書簡",
+      "description": "大熊熊子宛の封筒。関連する手紙とともに残された封筒資料。",
+      "date": null,
+      "image_url": "./assets/materials/shokan_okuma_kumako_envelope_02.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/shokan_okuma_kumako_envelope_02.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-11"
+    },
+    {
+      "id": "sample-0531",
+      "url": null,
+      "title": "大熊熊子よりの手紙　その3",
+      "category": "書簡",
+      "description": "大熊熊子より送られた手紙。内容や年代は未詳の書簡資料。",
+      "date": null,
+      "image_url": "./assets/materials/shokan_okuma_kumako_04.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/shokan_okuma_kumako_04.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-11"
+    },
+    {
+      "id": "sample-0532",
+      "url": null,
+      "title": "大熊熊子よりの手紙　その4",
+      "category": "書簡",
+      "description": "大熊熊子より送られた手紙。内容や年代は未詳の書簡資料。",
+      "date": null,
+      "image_url": "./assets/materials/shokan_okuma_kumako_05.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/shokan_okuma_kumako_05.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-11"
     }
   ]
 }
