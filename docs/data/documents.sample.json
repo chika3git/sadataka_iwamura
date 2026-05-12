@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-07T18:03:23Z",
+  "generated_at": "2026-05-13T03:05:00+09:00",
   "source": {
     "type": "sample"
   },
-  "count": 532,
+  "count": 533,
   "documents": [
     {
       "id": "sample-0001",
@@ -7732,6 +7732,23 @@
       "source_url": null,
       "properties": {},
       "last_edited_time": "2026-05-11"
+    },
+    {
+      "id": "sample-0533",
+      "url": null,
+      "title": "大日本帝国憲法発布記念章授與之証",
+      "category": "褒賞",
+      "description": "明治22年11月25日、元老院議官従三位勲三等の岩村定高に大日本帝国憲法発布記念章を授與することを示す証書。",
+      "date": {
+        "start": "1889-11-25",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hosho_kenpo_kinen_shoyo_no_sho_m22.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_kenpo_kinen_shoyo_no_sho_m22.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-13"
     }
   ]
 }
