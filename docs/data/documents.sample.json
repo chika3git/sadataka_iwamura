@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-13T03:05:00+09:00",
+  "generated_at": "2026-05-14T00:00:00+09:00",
   "source": {
     "type": "sample"
   },
-  "count": 533,
+  "count": 536,
   "documents": [
     {
       "id": "sample-0001",
@@ -7749,6 +7749,57 @@
       "source_url": null,
       "properties": {},
       "last_edited_time": "2026-05-13"
+    },
+    {
+      "id": "sample-0534",
+      "url": null,
+      "title": "三十銀行利子受取証",
+      "category": "古文書",
+      "description": "明治32年2月1日付で、三十銀行に関する利子を受け取ったことを示す受取証。",
+      "date": {
+        "start": "1899-02-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/komonjo_sanju_ginko_rishi_uketori_m32.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/komonjo_sanju_ginko_rishi_uketori_m32.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-14"
+    },
+    {
+      "id": "sample-0535",
+      "url": null,
+      "title": "借用証書",
+      "category": "古文書",
+      "description": "明治31年12月19日付の借用証書。麻布区龍土町の住所や、明治32年2月28日までの返済期限が記されている。",
+      "date": {
+        "start": "1898-12-19",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/komonjo_shakuyo_shosho_m31.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/komonjo_shakuyo_shosho_m31.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-14"
+    },
+    {
+      "id": "sample-0536",
+      "url": null,
+      "title": "株式抵当借用証書",
+      "category": "古文書",
+      "description": "明治31年6月28日付で、三十銀行株式を抵当に入れて金銭を借用したことを示す証書。",
+      "date": {
+        "start": "1898-06-28",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/komonjo_kabushiki_tanpo_shakuyo_m31.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/komonjo_kabushiki_tanpo_shakuyo_m31.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-14"
     }
   ]
 }
