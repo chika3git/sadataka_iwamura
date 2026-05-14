@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-14T00:00:00+09:00",
+  "generated_at": "2026-05-15T00:00:00+09:00",
   "source": {
     "type": "sample"
   },
-  "count": 536,
+  "count": 539,
   "documents": [
     {
       "id": "sample-0001",
@@ -7800,6 +7800,53 @@
       "source_url": null,
       "properties": {},
       "last_edited_time": "2026-05-14"
+    },
+    {
+      "id": "sample-0537",
+      "url": null,
+      "title": "約束手形拒證書写し",
+      "category": "古文書",
+      "description": "明治31年9月10日付の約束手形に関する拒證書の写し。逸見勝誠宛、岩村定高名義の手形資料。",
+      "date": {
+        "start": "1898-09-10",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/komonjo_yakusoku_tegata_kyosho_utsushi_m31_01.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/komonjo_yakusoku_tegata_kyosho_utsushi_m31_01.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-15"
+    },
+    {
+      "id": "sample-0538",
+      "url": null,
+      "title": "約束手形拒證書写し　その2",
+      "category": "古文書",
+      "description": "約束手形拒證書写しの続き。明治31年11月28日、麻布区龍土町の岩村定高自宅で作成された旨が記されている。",
+      "date": {
+        "start": "1898-11-28",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/komonjo_yakusoku_tegata_kyosho_utsushi_m31_02.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/komonjo_yakusoku_tegata_kyosho_utsushi_m31_02.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-15"
+    },
+    {
+      "id": "sample-0539",
+      "url": null,
+      "title": "約束手形拒證書写し　その3",
+      "category": "古文書",
+      "description": "同一の約束手形拒證書写しの続きとみられる第4ページ。複数通残された写しの一部。",
+      "date": null,
+      "image_url": "./assets/materials/komonjo_yakusoku_tegata_kyosho_utsushi_m31_03.jpg",
+      "thumbnail_url": "./assets/materials/thumbs/komonjo_yakusoku_tegata_kyosho_utsushi_m31_03.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-15"
     }
   ]
 }
