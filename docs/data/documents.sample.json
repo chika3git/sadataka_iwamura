@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-15T00:00:00+09:00",
+  "generated_at": "2026-05-25T00:00:00+09:00",
   "source": {
     "type": "sample"
   },
-  "count": 539,
+  "count": 552,
   "documents": [
     {
       "id": "sample-0001",
@@ -7847,6 +7847,223 @@
       "source_url": null,
       "properties": {},
       "last_edited_time": "2026-05-15"
+    },
+    {
+      "id": "sample-0540",
+      "url": null,
+      "title": "大隈信常から泰雄への書状",
+      "category": "書簡",
+      "description": "大隈重信の母・三井子の法要参列に関する、大隈信常から泰雄への書状。",
+      "date": null,
+      "image_url": "./assets/materials/shokan_okuma_nobutsune_to_yasuo_01.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-25",
+      "thumbnail_url": "./assets/materials/thumbs/shokan_okuma_nobutsune_to_yasuo_01.jpg"
+    },
+    {
+      "id": "sample-0541",
+      "url": null,
+      "title": "大隈信常から泰雄への封筒",
+      "category": "書簡",
+      "description": "昭和10年2月23日付の、大隈信常から泰雄への封筒。",
+      "date": {
+        "start": "1935-02-23",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shokan_okuma_nobutsune_envelope_s10.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-25",
+      "thumbnail_url": "./assets/materials/thumbs/shokan_okuma_nobutsune_envelope_s10.jpg"
+    },
+    {
+      "id": "sample-0542",
+      "url": null,
+      "title": "岩村理一郎賞状",
+      "category": "褒賞",
+      "description": "明治10年10月11日、24歳の岩村理一郎が受けた賞状。",
+      "date": {
+        "start": "1877-10-11",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hosho_iwamura_riichiro_m10.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-25",
+      "thumbnail_url": "./assets/materials/thumbs/hosho_iwamura_riichiro_m10.jpg"
+    },
+    {
+      "id": "sample-0543",
+      "url": null,
+      "title": "岩村理一郎大蔵省依願免職辞令",
+      "category": "辞令",
+      "description": "明治11年7月30日、岩村理一郎の大蔵省依願免職に関する辞令。",
+      "date": {
+        "start": "1878-07-30",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jirei_riichiro_okurasho_jinin_m11.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-25",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_riichiro_okurasho_jinin_m11.jpg"
+    },
+    {
+      "id": "sample-0544",
+      "url": null,
+      "title": "岩村理一郎早稲田大学給料明細",
+      "category": "古文書",
+      "description": "大正5年、63歳の岩村理一郎が早稲田大学事務員として受けた給料明細。",
+      "date": {
+        "start": "1916-01-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/kyuryo_waseda_riichiro_t05_01.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-25",
+      "thumbnail_url": "./assets/materials/thumbs/kyuryo_waseda_riichiro_t05_01.jpg"
+    },
+    {
+      "id": "sample-0545",
+      "url": null,
+      "title": "岩村理一郎早稲田大学給料明細（大正5年9月）",
+      "category": "古文書",
+      "description": "大正5年9月1日、63歳の岩村理一郎の早稲田大学事務員としての給料明細。",
+      "date": {
+        "start": "1916-09-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/kyuryo_waseda_riichiro_t05_02.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-25",
+      "thumbnail_url": "./assets/materials/thumbs/kyuryo_waseda_riichiro_t05_02.jpg"
+    },
+    {
+      "id": "sample-0546",
+      "url": null,
+      "title": "岩村理一郎大蔵省辞令（明治10年1月）",
+      "category": "辞令",
+      "description": "明治10年1月12日、大蔵省に関する岩村理一郎の辞令。",
+      "date": {
+        "start": "1877-01-12",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jirei_riichiro_okurasho_m10_0112.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-25",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_riichiro_okurasho_m10_0112.jpg"
+    },
+    {
+      "id": "sample-0547",
+      "url": null,
+      "title": "岩村理一郎辞令（明治8年10月）",
+      "category": "辞令",
+      "description": "明治8年10月5日、22歳の岩村理一郎に関する辞令。",
+      "date": {
+        "start": "1875-10-05",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jirei_riichiro_m08_1005.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-25",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_riichiro_m08_1005.jpg"
+    },
+    {
+      "id": "sample-0548",
+      "url": null,
+      "title": "横浜税関から岩村理一郎への呼出状",
+      "category": "公文書",
+      "description": "明治8年7月5日、岩村理一郎の辞令に関連する横浜税関からの呼出状。",
+      "date": {
+        "start": "1875-07-05",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/yobidashi_yokohama_zeikan_m08.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-25",
+      "thumbnail_url": "./assets/materials/thumbs/yobidashi_yokohama_zeikan_m08.jpg"
+    },
+    {
+      "id": "sample-0549",
+      "url": null,
+      "title": "岩村理一郎横浜税関辞令",
+      "category": "辞令",
+      "description": "明治10年6月8日、24歳の岩村理一郎に関する横浜税関の辞令。",
+      "date": {
+        "start": "1877-06-08",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jirei_riichiro_yokohama_zeikan_m10.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-25",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_riichiro_yokohama_zeikan_m10.jpg"
+    },
+    {
+      "id": "sample-0550",
+      "url": null,
+      "title": "岩村理一郎呼出状",
+      "category": "公文書",
+      "description": "明治11年1月28日、25歳の岩村理一郎に関する呼出状と思われる文書。",
+      "date": {
+        "start": "1878-01-28",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/yobidashi_riichiro_m11_0128.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-25",
+      "thumbnail_url": "./assets/materials/thumbs/yobidashi_riichiro_m11_0128.jpg"
+    },
+    {
+      "id": "sample-0551",
+      "url": null,
+      "title": "岩村理一郎大蔵省辞令（明治11年1月）",
+      "category": "辞令",
+      "description": "明治11年1月29日、25歳の岩村理一郎に関する大蔵省辞令。",
+      "date": {
+        "start": "1878-01-29",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jirei_riichiro_okurasho_m11_0129.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-25",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_riichiro_okurasho_m11_0129.jpg"
+    },
+    {
+      "id": "sample-0552",
+      "url": null,
+      "title": "岩村理一郎辞令（明治8年7月）",
+      "category": "辞令",
+      "description": "明治8年7月7日、22歳の岩村理一郎に関する辞令。",
+      "date": {
+        "start": "1875-07-07",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/jirei_riichiro_m08_0707.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-25",
+      "thumbnail_url": "./assets/materials/thumbs/jirei_riichiro_m08_0707.jpg"
     }
   ]
 }
