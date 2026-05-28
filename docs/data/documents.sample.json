@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-25T00:00:00+09:00",
+  "generated_at": "2026-05-29T00:00:00+09:00",
   "source": {
     "type": "sample"
   },
-  "count": 552,
+  "count": 556,
   "documents": [
     {
       "id": "sample-0001",
@@ -8064,6 +8064,62 @@
       "properties": {},
       "last_edited_time": "2026-05-25",
       "thumbnail_url": "./assets/materials/thumbs/jirei_riichiro_m08_0707.jpg"
+    },
+    {
+      "id": "sample-0553",
+      "url": null,
+      "title": "岩村定高正装写真",
+      "category": "写真",
+      "description": "幕張の客間に飾られていたと伝わる、岩村定高の正装写真。",
+      "date": null,
+      "image_url": "./assets/materials/photo_sadataka_formal.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-29",
+      "thumbnail_url": "./assets/materials/thumbs/photo_sadataka_formal.jpg"
+    },
+    {
+      "id": "sample-0554",
+      "url": null,
+      "title": "岩村つれ正装写真",
+      "category": "写真",
+      "description": "幕張の客間に飾られていたと伝わる、岩村定高の妻つれの正装写真。",
+      "date": null,
+      "image_url": "./assets/materials/photo_tsure_formal.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-29",
+      "thumbnail_url": "./assets/materials/thumbs/photo_tsure_formal.jpg"
+    },
+    {
+      "id": "sample-0555",
+      "url": null,
+      "title": "幕張客間の人物写真",
+      "category": "写真",
+      "description": "幕張の客間にあった、人物不明の肖像写真。",
+      "date": null,
+      "image_url": "./assets/materials/photo_unknown_portrait_makuhari.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-29",
+      "thumbnail_url": "./assets/materials/thumbs/photo_unknown_portrait_makuhari.jpg"
+    },
+    {
+      "id": "sample-0556",
+      "url": null,
+      "title": "1928年シカゴ・カブス捕手陣写真",
+      "category": "写真",
+      "description": "1928年のシカゴ・カブス捕手陣を写した写真。裏書きがあると伝わる。",
+      "date": {
+        "start": "1928-01-01",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/photo_chicago_cubs_catchers_1928.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-05-29",
+      "thumbnail_url": "./assets/materials/thumbs/photo_chicago_cubs_catchers_1928.jpg"
     }
   ]
 }
