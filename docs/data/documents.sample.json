@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-29T00:00:00+09:00",
+  "generated_at": "2026-06-24T00:00:00Z",
   "source": {
     "type": "sample"
   },
-  "count": 556,
+  "count": 560,
   "documents": [
     {
       "id": "sample-0001",
@@ -8120,6 +8120,74 @@
       "properties": {},
       "last_edited_time": "2026-05-29",
       "thumbnail_url": "./assets/materials/thumbs/photo_chicago_cubs_catchers_1928.jpg"
+    },
+    {
+      "id": "sample-0557",
+      "url": null,
+      "title": "岩村理一郎長女けい婚姻時の親族書（1）",
+      "category": "古文書",
+      "description": "岩村理一郎の長女けいの婚姻時に作成された親族書の一部。父・母など親族関係と住所が記される。",
+      "date": {
+        "start": "1892-04-26",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/komonjo_riichiro_kei_shinzokusho_01.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-06-24",
+      "thumbnail_url": "./assets/materials/thumbs/komonjo_riichiro_kei_shinzokusho_01.jpg"
+    },
+    {
+      "id": "sample-0558",
+      "url": null,
+      "title": "岩村理一郎長女けい婚姻時の親族書（2）",
+      "category": "古文書",
+      "description": "岩村理一郎の長女けいの婚姻時に作成された親族書の一部。父方・母方の親族名が記される。",
+      "date": {
+        "start": "1892-04-26",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/komonjo_riichiro_kei_shinzokusho_02.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-06-24",
+      "thumbnail_url": "./assets/materials/thumbs/komonjo_riichiro_kei_shinzokusho_02.jpg"
+    },
+    {
+      "id": "sample-0559",
+      "url": null,
+      "title": "岩村理一郎長女けい婚姻時の親族書（3）",
+      "category": "古文書",
+      "description": "岩村理一郎の長女けいの婚姻時に作成された親族書の一部。叔母や伯父などの親族関係が記される。",
+      "date": {
+        "start": "1892-04-26",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/komonjo_riichiro_kei_shinzokusho_03.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-06-24",
+      "thumbnail_url": "./assets/materials/thumbs/komonjo_riichiro_kei_shinzokusho_03.jpg"
+    },
+    {
+      "id": "sample-0560",
+      "url": null,
+      "title": "岩村理一郎長女けい婚姻時の親族書（4）",
+      "category": "古文書",
+      "description": "岩村理一郎の長女けいの婚姻時資料の一部。郵便物受領証が貼付され、関連する受領記録を示す。",
+      "date": {
+        "start": "1892-04-26",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/komonjo_riichiro_kei_shinzokusho_04.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-06-24",
+      "thumbnail_url": "./assets/materials/thumbs/komonjo_riichiro_kei_shinzokusho_04.jpg"
     }
   ]
 }
