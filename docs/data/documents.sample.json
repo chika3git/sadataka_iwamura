@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-24T00:00:00Z",
+  "generated_at": "2026-06-26T00:00:00Z",
   "source": {
     "type": "sample"
   },
-  "count": 560,
+  "count": 566,
   "documents": [
     {
       "id": "sample-0001",
@@ -8188,6 +8188,84 @@
       "properties": {},
       "last_edited_time": "2026-06-24",
       "thumbnail_url": "./assets/materials/thumbs/komonjo_riichiro_kei_shinzokusho_04.jpg"
+    },
+    {
+      "id": "sample-0561",
+      "url": null,
+      "title": "泰長院過去帳写し",
+      "category": "古文書",
+      "description": "岩村家に関する泰長院過去帳のコピー。定高が法要を行った記録とみられる記載を含む。",
+      "date": null,
+      "image_url": "./assets/materials/kakocho_taichoin_copy.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-06-26",
+      "thumbnail_url": "./assets/materials/thumbs/kakocho_taichoin_copy.jpg"
+    },
+    {
+      "id": "sample-0562",
+      "url": null,
+      "title": "泰長院過去帳原本（1）",
+      "category": "古文書",
+      "description": "火災で焼失したと伝わる泰長院過去帳原本の一部。岩村家先祖の戒名・没年などが記される。",
+      "date": null,
+      "image_url": "./assets/materials/kakocho_taichoin_original_01.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-06-26",
+      "thumbnail_url": "./assets/materials/thumbs/kakocho_taichoin_original_01.jpg"
+    },
+    {
+      "id": "sample-0563",
+      "url": null,
+      "title": "泰長院過去帳原本（2）",
+      "category": "古文書",
+      "description": "火災で焼失したと伝わる泰長院過去帳原本の一部。貞昭の子女や岩村家の家族関係に関する記載を含む。",
+      "date": null,
+      "image_url": "./assets/materials/kakocho_taichoin_original_02.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-06-26",
+      "thumbnail_url": "./assets/materials/thumbs/kakocho_taichoin_original_02.jpg"
+    },
+    {
+      "id": "sample-0564",
+      "url": null,
+      "title": "泰長院過去帳原本（3）",
+      "category": "古文書",
+      "description": "火災で焼失したと伝わる泰長院過去帳原本の一部。岩村家関係者の戒名・没年などを記した過去帳資料。",
+      "date": null,
+      "image_url": "./assets/materials/kakocho_taichoin_original_03.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-06-26",
+      "thumbnail_url": "./assets/materials/thumbs/kakocho_taichoin_original_03.jpg"
+    },
+    {
+      "id": "sample-0565",
+      "url": null,
+      "title": "泰長院過去帳原本（4）",
+      "category": "古文書",
+      "description": "火災で焼失したと伝わる泰長院過去帳原本の一部。岩村家関係者の法名や没年月日を伝える資料。",
+      "date": null,
+      "image_url": "./assets/materials/kakocho_taichoin_original_04.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-06-26",
+      "thumbnail_url": "./assets/materials/thumbs/kakocho_taichoin_original_04.jpg"
+    },
+    {
+      "id": "sample-0566",
+      "url": null,
+      "title": "泰長院過去帳原本（5）",
+      "category": "古文書",
+      "description": "火災で焼失したと伝わる泰長院過去帳原本の一部。泰長院に伝わった岩村家関連の過去帳資料。",
+      "date": null,
+      "image_url": "./assets/materials/kakocho_taichoin_original_05.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-06-26",
+      "thumbnail_url": "./assets/materials/thumbs/kakocho_taichoin_original_05.jpg"
     }
   ]
 }
