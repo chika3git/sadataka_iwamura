@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-26T00:00:00Z",
+  "generated_at": "2026-06-30T00:00:00Z",
   "source": {
     "type": "sample"
   },
-  "count": 566,
+  "count": 569,
   "documents": [
     {
       "id": "sample-0001",
@@ -8266,6 +8266,45 @@
       "properties": {},
       "last_edited_time": "2026-06-26",
       "thumbnail_url": "./assets/materials/thumbs/kakocho_taichoin_original_05.jpg"
+    },
+    {
+      "id": "sample-0567",
+      "url": null,
+      "title": "支那事変国庫債券（表）",
+      "category": "公文書",
+      "description": "昭和15年発行の大日本帝国政府支那事変国庫債券。額面90円で、利札が付いた表面の資料。",
+      "date": null,
+      "image_url": "./assets/materials/kosai_shina_jihen_bond_front.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-06-30",
+      "thumbnail_url": "./assets/materials/thumbs/kosai_shina_jihen_bond_front.jpg"
+    },
+    {
+      "id": "sample-0568",
+      "url": null,
+      "title": "支那事変国庫債券（裏）",
+      "category": "公文書",
+      "description": "昭和15年発行の大日本帝国政府支那事変国庫債券の裏面として登録された資料。泰雄の持ち物と伝わる。",
+      "date": null,
+      "image_url": "./assets/materials/kosai_shina_jihen_bond_back.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-06-30",
+      "thumbnail_url": "./assets/materials/thumbs/kosai_shina_jihen_bond_back.jpg"
+    },
+    {
+      "id": "sample-0569",
+      "url": null,
+      "title": "近藤けいから泰雄への書簡",
+      "category": "書簡",
+      "description": "近藤けいから泰雄へ宛てた巻紙の毛筆書簡。内容・年代は未詳で、大正から昭和初期頃のものとみられる。",
+      "date": null,
+      "image_url": "./assets/materials/tegami_kondo_kei_yasuo.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-06-30",
+      "thumbnail_url": "./assets/materials/thumbs/tegami_kondo_kei_yasuo.jpg"
     }
   ]
 }
