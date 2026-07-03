@@ -3,7 +3,7 @@
   "source": {
     "type": "sample"
   },
-  "count": 569,
+  "count": 570,
   "documents": [
     {
       "id": "sample-0001",
@@ -8305,6 +8305,19 @@
       "properties": {},
       "last_edited_time": "2026-06-30",
       "thumbnail_url": "./assets/materials/thumbs/tegami_kondo_kei_yasuo.jpg"
+    },
+    {
+      "id": "sample-0570",
+      "url": null,
+      "title": "早稲田大学教授と学生と思われる集合写真",
+      "category": "写真",
+      "description": "明治後半から大正初期頃の集合写真。早稲田大学の教授と学生とみられる人物が写る。",
+      "date": null,
+      "image_url": "./assets/materials/photo_taisho_waseda_prof_students.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-04",
+      "thumbnail_url": "./assets/materials/thumbs/photo_taisho_waseda_prof_students.jpg"
     }
   ]
 }
