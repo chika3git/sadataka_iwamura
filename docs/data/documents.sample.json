@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-30T00:00:00Z",
+  "generated_at": "2026-07-23T00:00:00Z",
   "source": {
     "type": "sample"
   },
-  "count": 570,
+  "count": 598,
   "documents": [
     {
       "id": "sample-0001",
@@ -8318,6 +8318,446 @@
       "properties": {},
       "last_edited_time": "2026-07-04",
       "thumbnail_url": "./assets/materials/thumbs/photo_taisho_waseda_prof_students.jpg"
+    },
+    {
+      "id": "sample-0571",
+      "url": null,
+      "title": "保利家宛葉書（表）",
+      "category": "書簡",
+      "description": "岩村定高の長女久土が嫁いだ保利家に関する葉書の表面。",
+      "date": null,
+      "image_url": "./assets/materials/hagaki_hori_kudo_omote.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/hagaki_hori_kudo_omote.jpg"
+    },
+    {
+      "id": "sample-0572",
+      "url": null,
+      "title": "近藤けい住所通知葉書",
+      "category": "書簡",
+      "description": "昭和22年、泰雄から保利康直宛に近藤けいの住所を知らせた葉書。",
+      "date": {
+        "start": "1947",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hagaki_kondo_kei_address_s22.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/hagaki_kondo_kei_address_s22.jpg"
+    },
+    {
+      "id": "sample-0573",
+      "url": null,
+      "title": "御召艦「榛名」絵葉書",
+      "category": "写真",
+      "description": "昭和6年の御召艦「榛名」を題材にした未使用絵葉書。",
+      "date": {
+        "start": "1931",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/ehagaki_haruna_s06.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/ehagaki_haruna_s06.jpg"
+    },
+    {
+      "id": "sample-0574",
+      "url": null,
+      "title": "理一郎宛葉書",
+      "category": "書簡",
+      "description": "昭和13年の理一郎宛葉書。差出人は不明。",
+      "date": {
+        "start": "1938",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hagaki_riichiro_unknown_s13.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/hagaki_riichiro_unknown_s13.jpg"
+    },
+    {
+      "id": "sample-0575",
+      "url": null,
+      "title": "早稲田内住所宛葉書表書き",
+      "category": "書簡",
+      "description": "早稲田内の住所に宛てた葉書表書き。",
+      "date": null,
+      "image_url": "./assets/materials/hagaki_waseda_address.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/hagaki_waseda_address.jpg"
+    },
+    {
+      "id": "sample-0576",
+      "url": null,
+      "title": "岩村豊から泰雄への昭和10年年賀葉書",
+      "category": "書簡",
+      "description": "岩村豊（久土の息子）から泰雄へ送られた昭和10年の年賀葉書。",
+      "date": {
+        "start": "1935",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/nenga_iwamura_yutaka_s10.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/nenga_iwamura_yutaka_s10.jpg"
+    },
+    {
+      "id": "sample-0577",
+      "url": null,
+      "title": "保利清一から泰雄への昭和10年年賀葉書",
+      "category": "書簡",
+      "description": "第一艦隊軍艦「芙蓉」呉在泊の保利清一から泰雄へ送られた昭和10年の年賀葉書。",
+      "date": {
+        "start": "1935",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/nenga_hori_seiichi_s10.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/nenga_hori_seiichi_s10.jpg"
+    },
+    {
+      "id": "sample-0578",
+      "url": null,
+      "title": "保利久土から泰雄への葉書",
+      "category": "書簡",
+      "description": "保利久土から泰雄へ送られた年代不明の葉書。",
+      "date": null,
+      "image_url": "./assets/materials/hagaki_hori_kudo.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/hagaki_hori_kudo.jpg"
+    },
+    {
+      "id": "sample-0579",
+      "url": null,
+      "title": "保利久土から泰雄への昭和初期葉書",
+      "category": "書簡",
+      "description": "昭和初期頃とみられる、保利久土から泰雄への葉書。",
+      "date": null,
+      "image_url": "./assets/materials/hagaki_hori_kudo_showa_early.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/hagaki_hori_kudo_showa_early.jpg"
+    },
+    {
+      "id": "sample-0580",
+      "url": null,
+      "title": "保利清から泰雄への昭和10年年賀葉書",
+      "category": "書簡",
+      "description": "保利清から泰雄へ送られた昭和10年の年賀葉書。",
+      "date": {
+        "start": "1935",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/nenga_hori_sei_s10.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/nenga_hori_sei_s10.jpg"
+    },
+    {
+      "id": "sample-0581",
+      "url": null,
+      "title": "泰雄宛差出人不明葉書",
+      "category": "書簡",
+      "description": "昭和12年8月の泰雄宛葉書。差出人は不明。",
+      "date": {
+        "start": "1937-08",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/hagaki_yasuo_unknown_s12_08.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/hagaki_yasuo_unknown_s12_08.jpg"
+    },
+    {
+      "id": "sample-0582",
+      "url": null,
+      "title": "油井から理一郎への明治40年年賀葉書",
+      "category": "書簡",
+      "description": "油井と思われる差出人から理一郎へ送られた明治40年の年賀葉書。",
+      "date": {
+        "start": "1907",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/nenga_yui_riichiro_m40.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/nenga_yui_riichiro_m40.jpg"
+    },
+    {
+      "id": "sample-0583",
+      "url": null,
+      "title": "理一郎宛明治40年年賀状",
+      "category": "書簡",
+      "description": "明治40年に理一郎へ宛てられた年賀状。",
+      "date": {
+        "start": "1907",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/nenga_riichiro_m40.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/nenga_riichiro_m40.jpg"
+    },
+    {
+      "id": "sample-0584",
+      "url": null,
+      "title": "保利冨雄からの昭和10年年賀状",
+      "category": "書簡",
+      "description": "保利冨雄から送られた昭和10年の年賀状。久土の子または孫に関わるものとみられる。",
+      "date": {
+        "start": "1935",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/nenga_hori_tomio_s10.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/nenga_hori_tomio_s10.jpg"
+    },
+    {
+      "id": "sample-0585",
+      "url": null,
+      "title": "保利康直から泰雄への昭和10年年賀状",
+      "category": "書簡",
+      "description": "保利康直から泰雄へ送られた昭和10年の年賀状。",
+      "date": {
+        "start": "1935",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/nenga_hori_yasunao_s10.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/nenga_hori_yasunao_s10.jpg"
+    },
+    {
+      "id": "sample-0586",
+      "url": null,
+      "title": "保利久土から泰雄への昭和11年年賀状",
+      "category": "書簡",
+      "description": "保利久土から泰雄へ送られた昭和11年の年賀状。",
+      "date": {
+        "start": "1936",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/nenga_hori_hisatsuchi_s11.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/nenga_hori_hisatsuchi_s11.jpg"
+    },
+    {
+      "id": "sample-0587",
+      "url": null,
+      "title": "岩村栄次郎から泰雄への昭和10年年賀状",
+      "category": "書簡",
+      "description": "岩村定高の四男・岩村栄次郎から泰雄へ送られた昭和10年の年賀状。",
+      "date": {
+        "start": "1935",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/nenga_iwamura_eijiro_s10.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/nenga_iwamura_eijiro_s10.jpg"
+    },
+    {
+      "id": "sample-0588",
+      "url": null,
+      "title": "岩村栄次郎から泰雄への昭和10年年賀葉書",
+      "category": "書簡",
+      "description": "市川在住の岩村栄次郎から泰雄へ送られた昭和10年の年賀葉書。",
+      "date": {
+        "start": "1935",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/nenga_eijiro_yasuo_s10.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/nenga_eijiro_yasuo_s10.jpg"
+    },
+    {
+      "id": "sample-0589",
+      "url": null,
+      "title": "大隈重信生誕百年記念祭案内状",
+      "category": "招待状",
+      "description": "昭和13年10月25日に早稲田大学で行われた大隈重信生誕百年記念祭の案内状。",
+      "date": {
+        "start": "1938-10-25",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_okuma_100_s13.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_okuma_100_s13.jpg"
+    },
+    {
+      "id": "sample-0590",
+      "url": null,
+      "title": "大隈重信十五周年敬慕慰霊献花祭案内",
+      "category": "招待状",
+      "description": "昭和11年3月28日に行われた大隈重信十五周年敬慕慰霊献花祭の案内。",
+      "date": {
+        "start": "1936-03-28",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shotaijo_okuma_15_s11.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/shotaijo_okuma_15_s11.jpg"
+    },
+    {
+      "id": "sample-0591",
+      "url": null,
+      "title": "大隈光子・大隈信常の新年挨拶名刺",
+      "category": "書簡",
+      "description": "昭和11年、泰雄宛の新年挨拶用名刺。大隈光子・大隈信常の名がある。",
+      "date": {
+        "start": "1936",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/meishi_okuma_shinnen_s11.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/meishi_okuma_shinnen_s11.jpg"
+    },
+    {
+      "id": "sample-0592",
+      "url": null,
+      "title": "岩村貞昭の名字改めに関する記録",
+      "category": "古文書",
+      "description": "1632年、岩村貞昭が家督相続と同時に15歳で出仕し、名字を野田から岩村に改めたことに関する記録。",
+      "date": {
+        "start": "1632",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/komonjo_iwamura_sadaaki_1632.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/komonjo_iwamura_sadaaki_1632.jpg"
+    },
+    {
+      "id": "sample-0593",
+      "url": null,
+      "title": "昭和5年2月6日の新聞記事",
+      "category": "新聞",
+      "description": "昭和5年2月6日付の新聞記事。",
+      "date": {
+        "start": "1930-02-06",
+        "end": null,
+        "time_zone": null
+      },
+      "image_url": "./assets/materials/shinbun_s05_0206.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/shinbun_s05_0206.jpg"
+    },
+    {
+      "id": "sample-0594",
+      "url": null,
+      "title": "大正天皇即位礼と思われる写真",
+      "category": "写真",
+      "description": "大正天皇の即位礼に関わる場面と思われる写真。",
+      "date": null,
+      "image_url": "./assets/materials/shashin_taisho_sokui.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/shashin_taisho_sokui.jpg"
+    },
+    {
+      "id": "sample-0595",
+      "url": null,
+      "title": "近藤けいから泰雄への書簡（2）",
+      "category": "書簡",
+      "description": "時代・内容不明の、近藤けいから泰雄宛とみられる巻紙の書簡。",
+      "date": null,
+      "image_url": "./assets/materials/tegami_kondo_kei_yasuo_02.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/tegami_kondo_kei_yasuo_02.jpg"
+    },
+    {
+      "id": "sample-0596",
+      "url": null,
+      "title": "簪（裏）",
+      "category": "写真",
+      "description": "簪の裏面。所用者、材質、時代はいずれも不明。",
+      "date": null,
+      "image_url": "./assets/materials/kanzashi_ura.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/kanzashi_ura.jpg"
+    },
+    {
+      "id": "sample-0597",
+      "url": null,
+      "title": "簪（表）",
+      "category": "写真",
+      "description": "簪の表面。所用者、材質、時代はいずれも不明。",
+      "date": null,
+      "image_url": "./assets/materials/kanzashi_omote.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/kanzashi_omote.jpg"
+    },
+    {
+      "id": "sample-0598",
+      "url": null,
+      "title": "佐賀神埼の伝統的屋敷前の写真",
+      "category": "写真",
+      "description": "佐賀県神埼の伝統的な屋敷前で撮影された写真。ドラマ「おしん」の舞台に関する記録として伝わる。",
+      "date": null,
+      "image_url": "./assets/materials/shashin_saga_kanzaki_yashiki.jpg",
+      "source_url": null,
+      "properties": {},
+      "last_edited_time": "2026-07-23",
+      "thumbnail_url": "./assets/materials/thumbs/shashin_saga_kanzaki_yashiki.jpg"
     }
   ]
 }
