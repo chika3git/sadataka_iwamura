@@ -42,3 +42,5 @@ yarn-error.log*
 4_code/
 5_output
 temp/
+# ロールバック用の控え（アプリは repo 外に置くが、念のため）
+docs/data/*.iwm-backup

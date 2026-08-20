@@ -13,6 +13,37 @@
 ## 実行方法
 - 例: `python 4_code/P1_prepare.py --config 1_config/settings.yaml`
 
+## 自動公開運用（iwm-sadatakahp-ops）
+
+`iwm-sadatakahp-ops` は `systemd --user` で定期実行する。
+
+- サービス名: `iwm-codex-auto-publish.service`
+- タイマー名: `iwm-codex-auto-publish.timer`
+- 定期実行: 毎週月曜 `03:00 JST`
+- 起動スクリプト: `/home/chika3/00common/jobs/iwm-codex-auto-publish.sh`
+- 本体ラッパー: `4_code/skills/iwm-sadatakahp-ops/scripts/run_codex_auto_publish.sh`
+
+主な確認コマンド:
+
+- `systemctl --user list-timers iwm-codex-auto-publish.timer`
+- `systemctl --user start iwm-codex-auto-publish.service`
+- `systemctl --user status iwm-codex-auto-publish.service --no-pager`
+- `journalctl --user -u iwm-codex-auto-publish.service -n 100 --no-pager`
+- `journalctl --user -fu iwm-codex-auto-publish.service`
+
+ログ:
+
+- 実行ログ: `5_output/logs/codex-auto-publish-YYYYMMDD-HHMMSS.log`
+- 結果 JSON: `5_output/logs/codex-auto-publish-YYYYMMDD-HHMMSS.json`
+- 通知ログ: `5_output/logs/ops-notify.log`
+
+補足:
+
+- `run_codex_auto_publish.sh` は `codex exec` を使って本番反映まで進める。
+- 中間ログは `tee` でファイルと `journalctl` の両方に出る。
+- 結果 schema は `4_code/skills/iwm-sadatakahp-ops/scripts/codex_publish_result.schema.json` を使う。
+- 2026-03-28 に手動起動で完走確認済み。
+
 ## Notion（資料DB）同期 → Web表示
 `docs/` は静的HTMLなので、ブラウザから直接Notion APIを叩くのは（トークン露出のため）避け、同期時に `docs/data/documents.json` を生成して読み込む方式にしています。
 
