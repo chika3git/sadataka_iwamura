@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-20T10:25:46Z",
+  "generated_at": "2026-07-23T00:00:00Z",
   "source": {
     "type": "sample"
   },
-  "count": 603,
+  "count": 598,
   "documents": [
     {
       "id": "sample-0001",
@@ -8758,79 +8758,6 @@
       "properties": {},
       "last_edited_time": "2026-07-23",
       "thumbnail_url": "./assets/materials/thumbs/shashin_saga_kanzaki_yashiki.jpg"
-    },
-    {
-      "id": "sample-0599",
-      "url": null,
-      "title": "新聞記事（先祖の顕彰碑に献花・昭和52年）",
-      "category": "新聞",
-      "description": "昭和52年2月13日付の西日本新聞朝刊記事。岩村家の子孫が初代三重県令・岩村定高の顕彰碑や先祖の墓を訪れ、供養が行われた模様を伝える。",
-      "date": {
-        "start": "1977-02-13",
-        "end": null,
-        "time_zone": null
-      },
-      "image_url": "./assets/materials/newspaper_nishinippon_iwamura_kenshobi_s52.jpg",
-      "source_url": null,
-      "properties": {},
-      "last_edited_time": "2026-08-20",
-      "thumbnail_url": "./assets/materials/thumbs/newspaper_nishinippon_iwamura_kenshobi_s52.jpg"
-    },
-    {
-      "id": "sample-0600",
-      "url": null,
-      "title": "新聞記事（先祖の顕彰碑に献花・昭和52年）",
-      "category": "新聞",
-      "description": "昭和52年2月13日付の西日本新聞朝刊記事。岩村定雄夫婦、菊子、一さんらが泰長院などを訪れ、岩村定高の顕彰碑や先祖の墓に献花・供養した模様を伝える。",
-      "date": {
-        "start": "1977-02-13",
-        "end": null,
-        "time_zone": null
-      },
-      "image_url": "./assets/materials/newspaper_nishinippon_iwamura_kenshobi_s52_a.jpg",
-      "source_url": null,
-      "properties": {},
-      "last_edited_time": "2026-08-20",
-      "thumbnail_url": "./assets/materials/thumbs/newspaper_nishinippon_iwamura_kenshobi_s52_a.jpg"
-    },
-    {
-      "id": "sample-0601",
-      "url": null,
-      "title": "近藤けいから泰雄への手紙（昭和初期）",
-      "category": "書簡",
-      "description": "近藤病院用箋に書かれた、近藤けいから泰雄への手紙。病気見舞いに関する内容か。",
-      "date": null,
-      "image_url": "./assets/materials/kondo_kei_letter_yasuo_01.jpg",
-      "source_url": null,
-      "properties": {},
-      "last_edited_time": "2026-08-20",
-      "thumbnail_url": "./assets/materials/thumbs/kondo_kei_letter_yasuo_01.jpg"
-    },
-    {
-      "id": "sample-0602",
-      "url": null,
-      "title": "近藤けいから泰雄への手紙（昭和初期）",
-      "category": "書簡",
-      "description": "近藤病院用箋に書かれた、近藤けいから泰雄への手紙。病気見舞いに関する内容か。",
-      "date": null,
-      "image_url": "./assets/materials/kondo_kei_letter_yasuo_01_a.jpg",
-      "source_url": null,
-      "properties": {},
-      "last_edited_time": "2026-08-20",
-      "thumbnail_url": "./assets/materials/thumbs/kondo_kei_letter_yasuo_01_a.jpg"
-    },
-    {
-      "id": "sample-0603",
-      "url": null,
-      "title": "府立高等学校教授 金田一雄 名刺",
-      "category": "古文書",
-      "description": "府立高等学校教授・金田一雄の名刺。岩村定高の娘の再婚先に関係し、大阪の大仙古墳近くに住んでいた人物か。",
-      "date": null,
-      "image_url": "./assets/materials/meishi_kaneda_kazuo.jpg",
-      "source_url": null,
-      "properties": {},
-      "last_edited_time": "2026-08-20",
-      "thumbnail_url": "./assets/materials/thumbs/meishi_kaneda_kazuo.jpg"
     }
   ]
 }
